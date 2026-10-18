@@ -4,6 +4,10 @@ City-wide drone network planner for police, fire brigade, THW, and the city of D
 
 The recommended plan places 27 docked stations on existing fire and police sites and reaches 97.3% of residents within 4 minutes.
 
+## Live demo
+
+https://uchihayassine.github.io/dortmund-air-shield/
+
 ## What's in this repo
 
 - `app/` — interactive planner (`air-shield-planner-en.html`)

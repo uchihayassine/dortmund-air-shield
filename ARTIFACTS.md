@@ -1,6 +1,8 @@
 # Air Shield — artifacts and exports
 
-Two published artifacts, both private until shared via the page’s **Share** menu. Everything needed to rebuild them is in this folder.
+Public demo (GitHub Pages, no sign-in): https://uchihayassine.github.io/dortmund-air-shield/
+
+Claude artifact links below stay private until shared via the page’s **Share** menu. Everything needed to rebuild them is in this folder.
 
 | Artifact | Live link | Local export | Markdown |
 |---|---|---|---|
