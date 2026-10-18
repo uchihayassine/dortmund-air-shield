@@ -1,0 +1,2640 @@
+﻿cell_id,site_id,site_name,distance_km,response_min,site_selected
+332,0,Berufsfeuerwehr Dortmund,2.7124,3.9992,0
+333,0,Berufsfeuerwehr Dortmund,2.6963,3.9799,0
+362,0,Berufsfeuerwehr Dortmund,2.5185,3.7669,0
+363,0,Berufsfeuerwehr Dortmund,2.2387,3.4318,0
+364,0,Berufsfeuerwehr Dortmund,2.1238,3.2941,0
+365,0,Berufsfeuerwehr Dortmund,2.1995,3.3849,0
+366,0,Berufsfeuerwehr Dortmund,2.4482,3.6827,0
+394,0,Berufsfeuerwehr Dortmund,2.2911,3.4946,0
+395,0,Berufsfeuerwehr Dortmund,1.8723,2.9928,0
+396,0,Berufsfeuerwehr Dortmund,1.609,2.6775,0
+397,0,Berufsfeuerwehr Dortmund,1.5818,2.6449,0
+398,0,Berufsfeuerwehr Dortmund,1.801,2.9074,0
+399,0,Berufsfeuerwehr Dortmund,2.1943,3.3786,0
+400,0,Berufsfeuerwehr Dortmund,2.6857,3.9673,0
+423,0,Berufsfeuerwehr Dortmund,2.2352,3.4275,0
+424,0,Berufsfeuerwehr Dortmund,1.684,2.7672,0
+425,0,Berufsfeuerwehr Dortmund,1.2268,2.2196,0
+426,0,Berufsfeuerwehr Dortmund,1.0019,1.9502,0
+427,0,Berufsfeuerwehr Dortmund,1.1538,2.1322,0
+428,0,Berufsfeuerwehr Dortmund,1.5769,2.639,0
+429,0,Berufsfeuerwehr Dortmund,2.1148,3.2833,0
+430,0,Berufsfeuerwehr Dortmund,2.6995,3.9838,0
+451,0,Berufsfeuerwehr Dortmund,2.3617,3.5791,0
+452,0,Berufsfeuerwehr Dortmund,1.733,2.826,0
+453,0,Berufsfeuerwehr Dortmund,1.1225,2.0946,0
+454,0,Berufsfeuerwehr Dortmund,0.5862,1.4522,0
+455,0,Berufsfeuerwehr Dortmund,0.5067,1.357,0
+456,0,Berufsfeuerwehr Dortmund,0.999,1.9468,0
+457,0,Berufsfeuerwehr Dortmund,1.6029,2.6701,0
+458,0,Berufsfeuerwehr Dortmund,2.2286,3.4197,0
+481,0,Berufsfeuerwehr Dortmund,2.6451,3.9186,0
+482,0,Berufsfeuerwehr Dortmund,2.0028,3.1491,0
+483,0,Berufsfeuerwehr Dortmund,1.3606,2.3799,0
+484,0,Berufsfeuerwehr Dortmund,0.7217,1.6145,0
+485,0,Berufsfeuerwehr Dortmund,0.1408,0.9187,0
+486,0,Berufsfeuerwehr Dortmund,0.5892,1.4559,0
+487,0,Berufsfeuerwehr Dortmund,1.2257,2.2182,0
+488,0,Berufsfeuerwehr Dortmund,1.8675,2.9871,0
+489,0,Berufsfeuerwehr Dortmund,2.5104,3.7572,0
+512,0,Berufsfeuerwehr Dortmund,2.4194,3.6483,0
+513,0,Berufsfeuerwehr Dortmund,1.8111,2.9195,0
+514,0,Berufsfeuerwehr Dortmund,1.2397,2.2351,0
+515,0,Berufsfeuerwehr Dortmund,0.7879,1.6938,0
+516,0,Berufsfeuerwehr Dortmund,0.7307,1.6253,0
+517,0,Berufsfeuerwehr Dortmund,1.1292,2.1027,0
+518,0,Berufsfeuerwehr Dortmund,1.687,2.7709,0
+519,0,Berufsfeuerwehr Dortmund,2.2897,3.4929,0
+543,0,Berufsfeuerwehr Dortmund,2.3556,3.5718,0
+544,0,Berufsfeuerwehr Dortmund,1.841,2.9554,0
+545,0,Berufsfeuerwehr Dortmund,1.435,2.469,0
+546,0,Berufsfeuerwehr Dortmund,1.2483,2.2454,0
+547,0,Berufsfeuerwehr Dortmund,1.3732,2.395,0
+548,0,Berufsfeuerwehr Dortmund,1.7437,2.8388,0
+549,0,Berufsfeuerwehr Dortmund,2.2417,3.4354,0
+574,0,Berufsfeuerwehr Dortmund,2.4656,3.7036,0
+575,0,Berufsfeuerwehr Dortmund,2.0824,3.2446,0
+576,0,Berufsfeuerwehr Dortmund,1.8495,2.9655,0
+577,0,Berufsfeuerwehr Dortmund,1.8259,2.9372,0
+578,0,Berufsfeuerwehr Dortmund,2.0186,3.1681,0
+579,0,Berufsfeuerwehr Dortmund,2.376,3.5962,0
+604,0,Berufsfeuerwehr Dortmund,2.4739,3.7135,0
+605,0,Berufsfeuerwehr Dortmund,2.3705,3.5897,0
+606,0,Berufsfeuerwehr Dortmund,2.4386,3.6712,0
+607,0,Berufsfeuerwehr Dortmund,2.6648,3.9422,0
+272,1,Feuer- und Rettungswache 1,2.464,3.7017,0
+273,1,Feuer- und Rettungswache 1,2.2707,3.4701,0
+274,1,Feuer- und Rettungswache 1,2.2518,3.4474,0
+275,1,Feuer- und Rettungswache 1,2.4114,3.6386,0
+301,1,Feuer- und Rettungswache 1,2.6081,3.8743,0
+302,1,Feuer- und Rettungswache 1,2.1545,3.331,0
+303,1,Feuer- und Rettungswache 1,1.8202,2.9304,0
+304,1,Feuer- und Rettungswache 1,1.677,2.7589,0
+305,1,Feuer- und Rettungswache 1,1.7725,2.8734,0
+306,1,Feuer- und Rettungswache 1,2.0736,3.234,0
+307,1,Feuer- und Rettungswache 1,2.5077,3.7541,0
+332,1,Feuer- und Rettungswache 1,2.5738,3.8333,0
+333,1,Feuer- und Rettungswache 1,2.0125,3.1608,0
+334,1,Feuer- und Rettungswache 1,1.519,2.5696,0
+335,1,Feuer- und Rettungswache 1,1.1799,2.1634,0
+336,1,Feuer- und Rettungswache 1,1.1431,2.1193,0
+337,1,Feuer- und Rettungswache 1,1.432,2.4654,0
+338,1,Feuer- und Rettungswache 1,1.9039,3.0307,0
+339,1,Feuer- und Rettungswache 1,2.4548,3.6906,0
+363,1,Feuer- und Rettungswache 1,2.699,3.9832,0
+364,1,Feuer- und Rettungswache 1,2.0733,3.2337,0
+365,1,Feuer- und Rettungswache 1,1.4626,2.502,0
+366,1,Feuer- und Rettungswache 1,0.9002,1.8284,0
+367,1,Feuer- und Rettungswache 1,0.5566,1.4168,0
+368,1,Feuer- und Rettungswache 1,0.7995,1.7078,0
+369,1,Feuer- und Rettungswache 1,1.3405,2.3558,0
+370,1,Feuer- und Rettungswache 1,1.9456,3.0807,0
+371,1,Feuer- und Rettungswache 1,2.5691,3.8276,0
+396,1,Feuer- und Rettungswache 1,2.32,3.5291,0
+397,1,Feuer- und Rettungswache 1,1.6758,2.7575,0
+398,1,Feuer- und Rettungswache 1,1.0324,1.9867,0
+399,1,Feuer- und Rettungswache 1,0.3883,1.2151,0
+400,1,Feuer- und Rettungswache 1,0.2555,1.056,0
+401,1,Feuer- und Rettungswache 1,0.8995,1.8275,0
+402,1,Feuer- und Rettungswache 1,1.5437,2.5992,0
+403,1,Feuer- und Rettungswache 1,2.1871,3.37,0
+425,1,Feuer- und Rettungswache 1,2.7024,3.9873,0
+426,1,Feuer- und Rettungswache 1,2.0779,3.2392,0
+427,1,Feuer- und Rettungswache 1,1.4692,2.51,0
+428,1,Feuer- und Rettungswache 1,0.9112,1.8415,0
+429,1,Feuer- und Rettungswache 1,0.5743,1.4379,0
+430,1,Feuer- und Rettungswache 1,0.8119,1.7226,0
+431,1,Feuer- und Rettungswache 1,1.3478,2.3646,0
+432,1,Feuer- und Rettungswache 1,1.9505,3.0866,0
+433,1,Feuer- und Rettungswache 1,2.5727,3.8319,0
+454,1,Feuer- und Rettungswache 1,2.5811,3.842,0
+455,1,Feuer- und Rettungswache 1,2.0221,3.1723,0
+456,1,Feuer- und Rettungswache 1,1.5319,2.5851,0
+457,1,Feuer- und Rettungswache 1,1.1967,2.1835,0
+458,1,Feuer- und Rettungswache 1,1.1604,2.1401,0
+459,1,Feuer- und Rettungswache 1,1.4458,2.4819,0
+460,1,Feuer- und Rettungswache 1,1.9141,3.0429,0
+461,1,Feuer- und Rettungswache 1,2.4625,3.6998,0
+485,1,Feuer- und Rettungswache 1,2.6191,3.8874,0
+486,1,Feuer- und Rettungswache 1,2.1681,3.3472,0
+487,1,Feuer- und Rettungswache 1,1.8365,2.95,0
+488,1,Feuer- und Rettungswache 1,1.6948,2.7802,0
+489,1,Feuer- und Rettungswache 1,1.7893,2.8934,0
+490,1,Feuer- und Rettungswache 1,2.0878,3.251,0
+491,1,Feuer- und Rettungswache 1,2.5192,3.7678,0
+517,1,Feuer- und Rettungswache 1,2.48,3.7208,0
+518,1,Feuer- und Rettungswache 1,2.2882,3.4911,0
+519,1,Feuer- und Rettungswache 1,2.2694,3.4686,0
+520,1,Feuer- und Rettungswache 1,2.4277,3.6582,0
+64,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.482,3.7232,1
+65,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.3529,3.5685,1
+66,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.3965,3.6208,1
+67,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.6042,3.8696,1
+79,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.5167,3.7648,1
+80,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1124,3.2805,1
+81,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.8501,2.9663,1
+82,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.793,2.8979,1
+83,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.9591,3.0968,1
+84,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.3002,3.5055,1
+95,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.4267,3.657,1
+96,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.898,3.0237,1
+97,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.4659,2.506,1
+98,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.2348,2.2292,1
+99,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.316,2.3265,1
+100,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.6645,2.7439,1
+101,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1542,3.3306,1
+102,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.7091,3.9953,1
+112,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.5064,3.7525,1
+113,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.8929,3.0176,1
+114,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.3085,2.3175,1
+115,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.8203,1.7327,1
+116,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.6819,1.5669,1
+117,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.0431,1.9995,1
+118,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.594,2.6594,1
+119,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1968,3.3816,1
+132,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.0975,3.2626,1
+133,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.4538,2.4915,1
+134,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.8125,1.7233,1
+135,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.1905,0.9782,1
+136,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.4932,1.3408,1
+137,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.1321,2.1061,1
+138,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.7752,2.8765,1
+139,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.4185,3.6472,1
+156,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.4604,3.6974,1
+157,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.8317,2.9442,1
+158,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.2185,2.2096,1
+159,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.6675,1.5496,1
+160,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.4876,1.3341,1
+161,2,Feuer- und Rettungswache 4 - Hörde/Südwache,0.9277,1.8613,1
+162,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.5208,2.5718,1
+163,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1443,3.3186,1
+185,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.3308,3.5421,1
+186,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.774,2.8751,1
+187,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.3015,2.3091,1
+188,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.0345,1.9893,1
+189,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.1301,2.1038,1
+190,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.5216,2.5728,1
+191,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.0456,3.2005,1
+192,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.6234,3.8926,1
+215,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.3769,3.5973,1
+216,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.9441,3.0789,1
+217,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.6555,2.7332,1
+218,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.5915,2.6565,1
+219,2,Feuer- und Rettungswache 4 - Hörde/Südwache,1.7765,2.878,1
+220,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1466,3.3214,1
+221,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.6253,3.8949,1
+245,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.589,3.8515,1
+246,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.2914,3.4949,1
+247,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.151,3.3267,1
+248,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.1986,3.3837,1
+249,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.4231,3.6527,1
+277,2,Feuer- und Rettungswache 4 - Hörde/Südwache,2.7112,3.9978,1
+242,3,Feuerwehr Dortmund,2.5097,3.7564,0
+243,3,Feuerwehr Dortmund,2.2917,3.4952,0
+244,3,Feuerwehr Dortmund,2.2436,3.4376,0
+245,3,Feuerwehr Dortmund,2.3761,3.5964,0
+246,3,Feuerwehr Dortmund,2.6621,3.939,0
+270,3,Feuerwehr Dortmund,2.6883,3.9703,0
+271,3,Feuerwehr Dortmund,2.2213,3.4109,0
+272,3,Feuerwehr Dortmund,1.8636,2.9824,0
+273,3,Feuerwehr Dortmund,1.6853,2.7689,0
+274,3,Feuerwehr Dortmund,1.7427,2.8377,0
+275,3,Feuerwehr Dortmund,2.016,3.165,0
+276,3,Feuerwehr Dortmund,2.4334,3.665,0
+300,3,Feuerwehr Dortmund,2.6672,3.9451,0
+301,3,Feuerwehr Dortmund,2.0999,3.2655,0
+302,3,Feuerwehr Dortmund,1.5912,2.6562,0
+303,3,Feuerwehr Dortmund,1.2187,2.2099,0
+304,3,Feuerwehr Dortmund,1.1257,2.0985,0
+305,3,Feuerwehr Dortmund,1.3709,2.3923,0
+306,3,Feuerwehr Dortmund,1.8221,2.9327,0
+307,3,Feuerwehr Dortmund,2.3647,3.5827,0
+332,3,Feuerwehr Dortmund,2.1727,3.3527,0
+333,3,Feuerwehr Dortmund,1.5584,2.6168,0
+334,3,Feuerwehr Dortmund,0.9838,1.9285,0
+335,3,Feuerwehr Dortmund,0.5789,1.4435,0
+336,3,Feuerwehr Dortmund,0.7294,1.6237,0
+337,3,Feuerwehr Dortmund,1.2485,2.2456,0
+338,3,Feuerwehr Dortmund,1.8482,2.9639,0
+339,3,Feuerwehr Dortmund,2.4697,3.7085,0
+363,3,Feuerwehr Dortmund,2.4226,3.6521,0
+364,3,Feuerwehr Dortmund,1.7791,2.8812,0
+365,3,Feuerwehr Dortmund,1.1349,2.1095,0
+366,3,Feuerwehr Dortmund,0.4914,1.3386,0
+367,3,Feuerwehr Dortmund,0.1531,0.9334,0
+368,3,Feuerwehr Dortmund,0.7972,1.705,0
+369,3,Feuerwehr Dortmund,1.4407,2.4759,0
+370,3,Feuerwehr Dortmund,2.0849,3.2476,0
+396,3,Feuerwehr Dortmund,2.1765,3.3573,0
+397,3,Feuerwehr Dortmund,1.5638,2.6234,0
+398,3,Feuerwehr Dortmund,0.9925,1.939,0
+399,3,Feuerwehr Dortmund,0.5938,1.4614,0
+400,3,Feuerwehr Dortmund,0.7412,1.6379,0
+401,3,Feuerwehr Dortmund,1.2554,2.2538,0
+402,3,Feuerwehr Dortmund,1.8527,2.9694,0
+403,3,Feuerwehr Dortmund,2.473,3.7124,0
+425,3,Feuerwehr Dortmund,2.6733,3.9524,0
+426,3,Feuerwehr Dortmund,2.1079,3.2751,0
+427,3,Feuerwehr Dortmund,1.602,2.6691,0
+428,3,Feuerwehr Dortmund,1.2329,2.227,0
+429,3,Feuerwehr Dortmund,1.1411,2.117,0
+430,3,Feuerwehr Dortmund,1.3835,2.4073,0
+431,3,Feuerwehr Dortmund,1.8314,2.9438,0
+432,3,Feuerwehr Dortmund,2.3717,3.5911,0
+454,3,Feuerwehr Dortmund,2.6974,3.9813,0
+455,3,Feuerwehr Dortmund,2.2328,3.4247,0
+456,3,Feuerwehr Dortmund,1.8775,2.9991,0
+457,3,Feuerwehr Dortmund,1.7008,2.7874,0
+458,3,Feuerwehr Dortmund,1.7577,2.8556,0
+459,3,Feuerwehr Dortmund,2.0287,3.1803,0
+460,3,Feuerwehr Dortmund,2.4437,3.6774,0
+486,3,Feuerwehr Dortmund,2.5234,3.7728,0
+487,3,Feuerwehr Dortmund,2.3068,3.5134,0
+488,3,Feuerwehr Dortmund,2.2591,3.4562,0
+489,3,Feuerwehr Dortmund,2.3907,3.6138,0
+490,3,Feuerwehr Dortmund,2.6749,3.9543,0
+448,4,Freiwillige Feuerwehr Bodelschwingh,2.336,3.5483,1
+449,4,Freiwillige Feuerwehr Bodelschwingh,2.5183,3.7667,1
+477,4,Freiwillige Feuerwehr Bodelschwingh,1.8459,2.9612,1
+478,4,Freiwillige Feuerwehr Bodelschwingh,1.7463,2.8419,1
+479,4,Freiwillige Feuerwehr Bodelschwingh,1.8762,2.9976,1
+480,4,Freiwillige Feuerwehr Bodelschwingh,2.195,3.3794,1
+481,4,Freiwillige Feuerwehr Bodelschwingh,2.6355,3.9071,1
+507,4,Freiwillige Feuerwehr Bodelschwingh,1.5007,2.5477,1
+508,4,Freiwillige Feuerwehr Bodelschwingh,1.2164,2.2072,1
+509,4,Freiwillige Feuerwehr Bodelschwingh,1.2392,2.2345,1
+510,4,Freiwillige Feuerwehr Bodelschwingh,1.5557,2.6136,1
+511,4,Freiwillige Feuerwehr Bodelschwingh,2.0332,3.1856,1
+512,4,Freiwillige Feuerwehr Bodelschwingh,2.5832,3.8445,1
+537,4,Freiwillige Feuerwehr Bodelschwingh,1.3905,2.4157,1
+538,4,Freiwillige Feuerwehr Bodelschwingh,0.8644,1.7855,1
+539,4,Freiwillige Feuerwehr Bodelschwingh,0.6242,1.4978,1
+540,4,Freiwillige Feuerwehr Bodelschwingh,0.9274,1.861,1
+541,4,Freiwillige Feuerwehr Bodelschwingh,1.4689,2.5096,1
+542,4,Freiwillige Feuerwehr Bodelschwingh,2.07,3.2297,1
+543,4,Freiwillige Feuerwehr Bodelschwingh,2.6903,3.9727,1
+568,4,Freiwillige Feuerwehr Bodelschwingh,0.9237,1.8565,1
+569,4,Freiwillige Feuerwehr Bodelschwingh,0.2846,1.0909,1
+570,4,Freiwillige Feuerwehr Bodelschwingh,0.3702,1.1934,1
+571,4,Freiwillige Feuerwehr Bodelschwingh,1.0107,1.9607,1
+572,4,Freiwillige Feuerwehr Bodelschwingh,1.6537,2.7309,1
+573,4,Freiwillige Feuerwehr Bodelschwingh,2.2964,3.5009,1
+597,4,Freiwillige Feuerwehr Bodelschwingh,0.7808,1.6854,1
+598,4,Freiwillige Feuerwehr Bodelschwingh,0.5023,1.3517,1
+599,4,Freiwillige Feuerwehr Bodelschwingh,0.8501,1.7684,1
+600,4,Freiwillige Feuerwehr Bodelschwingh,1.4212,2.4525,1
+601,4,Freiwillige Feuerwehr Bodelschwingh,2.0364,3.1894,1
+602,4,Freiwillige Feuerwehr Bodelschwingh,2.6643,3.9417,1
+624,4,Freiwillige Feuerwehr Bodelschwingh,1.406,2.4343,1
+625,4,Freiwillige Feuerwehr Bodelschwingh,1.0977,2.0649,1
+626,4,Freiwillige Feuerwehr Bodelschwingh,1.1229,2.0951,1
+627,4,Freiwillige Feuerwehr Bodelschwingh,1.4646,2.5045,1
+628,4,Freiwillige Feuerwehr Bodelschwingh,1.9642,3.1029,1
+629,4,Freiwillige Feuerwehr Bodelschwingh,2.529,3.7796,1
+651,4,Freiwillige Feuerwehr Bodelschwingh,1.7306,2.8231,1
+652,4,Freiwillige Feuerwehr Bodelschwingh,1.624,2.6955,1
+653,4,Freiwillige Feuerwehr Bodelschwingh,1.7629,2.8618,1
+654,4,Freiwillige Feuerwehr Bodelschwingh,2.0987,3.2641,1
+655,4,Freiwillige Feuerwehr Bodelschwingh,2.5556,3.8114,1
+677,4,Freiwillige Feuerwehr Bodelschwingh,2.3713,3.5907,1
+678,4,Freiwillige Feuerwehr Bodelschwingh,2.2026,3.3885,1
+679,4,Freiwillige Feuerwehr Bodelschwingh,2.2153,3.4037,1
+680,4,Freiwillige Feuerwehr Bodelschwingh,2.4065,3.6328,1
+123,5,Freiwillige Feuerwehr Sölderholz,0.8215,1.7341,1
+124,5,Freiwillige Feuerwehr Sölderholz,0.2706,1.0742,1
+143,5,Freiwillige Feuerwehr Sölderholz,2.4228,3.6523,1
+144,5,Freiwillige Feuerwehr Sölderholz,1.1596,2.1391,1
+145,5,Freiwillige Feuerwehr Sölderholz,0.5731,1.4365,1
+146,5,Freiwillige Feuerwehr Sölderholz,0.3771,1.2018,1
+168,5,Freiwillige Feuerwehr Sölderholz,2.2619,3.4596,1
+169,5,Freiwillige Feuerwehr Sölderholz,1.6895,2.7739,1
+170,5,Freiwillige Feuerwehr Sölderholz,1.1923,2.1782,1
+171,5,Freiwillige Feuerwehr Sölderholz,0.9055,1.8348,1
+172,5,Freiwillige Feuerwehr Sölderholz,1.0243,1.9771,1
+197,5,Freiwillige Feuerwehr Sölderholz,2.2805,3.4818,1
+198,5,Freiwillige Feuerwehr Sölderholz,1.831,2.9434,1
+199,5,Freiwillige Feuerwehr Sölderholz,1.5286,2.5811,1
+200,5,Freiwillige Feuerwehr Sölderholz,1.4664,2.5066,1
+227,5,Freiwillige Feuerwehr Sölderholz,2.4746,3.7143,1
+228,5,Freiwillige Feuerwehr Sölderholz,2.1658,3.3445,1
+229,5,Freiwillige Feuerwehr Sölderholz,2.0222,3.1724,1
+258,5,Freiwillige Feuerwehr Sölderholz,2.6205,3.8891,1
+13,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.7105,3.9969,1
+19,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.0636,3.222,1
+20,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.7991,2.9052,1
+21,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.7457,2.8412,1
+22,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.9209,3.0511,1
+23,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.2722,3.4719,1
+31,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.8561,2.9734,1
+32,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.4173,2.4478,1
+33,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.1845,2.1689,1
+34,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.2763,2.2789,1
+35,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.6393,2.7137,1
+36,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.1396,3.3131,1
+37,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.7014,3.9861,1
+44,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.8633,2.9821,1
+45,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.2721,2.2739,1
+46,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.7725,1.6754,1
+47,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.6383,1.5147,1
+48,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.0246,1.9774,1
+49,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.5883,2.6526,1
+50,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.1974,3.3823,1
+57,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.0821,3.2442,1
+58,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.4373,2.4718,1
+59,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.7937,1.7008,1
+60,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.1559,0.9368,1
+61,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.5002,1.3492,1
+62,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.1438,2.1201,1
+63,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.7884,2.8924,1
+64,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.4326,3.6641,1
+73,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.4569,3.6931,1
+74,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.8314,2.9439,1
+75,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.225,2.2174,1
+76,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.6924,1.5794,1
+77,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.5386,1.3952,1
+78,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,0.9656,1.9067,1
+79,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.5507,2.6076,1
+80,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.1703,3.3499,1
+90,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.3405,3.5538,1
+91,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.7915,2.896,1
+92,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.3318,2.3454,1
+93,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.0808,2.0447,1
+94,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.1807,2.1644,1
+95,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.5658,2.6257,1
+96,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.0837,3.2461,1
+97,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.6571,3.933,1
+108,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.3997,3.6246,1
+109,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.9762,3.1174,1
+110,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.6984,2.7845,1
+111,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.6417,2.7166,1
+112,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,1.8268,2.9384,1
+113,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.193,3.3771,1
+114,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.6673,3.9452,1
+128,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.6221,3.891,1
+129,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.3324,3.544,1
+130,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.1988,3.384,1
+131,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.2496,3.4448,1
+132,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,2.4735,3.713,1
+508,7,Freiwillige Feuerwehr Bodelschwingh,2.5494,3.804,1
+509,7,Freiwillige Feuerwehr Bodelschwingh,2.3524,3.5679,1
+510,7,Freiwillige Feuerwehr Bodelschwingh,2.3228,3.5325,1
+511,7,Freiwillige Feuerwehr Bodelschwingh,2.4669,3.7051,1
+537,7,Freiwillige Feuerwehr Bodelschwingh,2.6868,3.9685,1
+538,7,Freiwillige Feuerwehr Bodelschwingh,2.2383,3.4313,1
+539,7,Freiwillige Feuerwehr Bodelschwingh,1.9055,3.0326,1
+540,7,Freiwillige Feuerwehr Bodelschwingh,1.7546,2.8519,1
+541,7,Freiwillige Feuerwehr Bodelschwingh,1.8315,2.9439,1
+542,7,Freiwillige Feuerwehr Bodelschwingh,2.1115,3.2794,1
+543,7,Freiwillige Feuerwehr Bodelschwingh,2.5276,3.7778,1
+568,7,Freiwillige Feuerwehr Bodelschwingh,2.0881,3.2513,1
+569,7,Freiwillige Feuerwehr Bodelschwingh,1.6017,2.6687,1
+570,7,Freiwillige Feuerwehr Bodelschwingh,1.2649,2.2652,1
+571,7,Freiwillige Feuerwehr Bodelschwingh,1.2089,2.1982,1
+572,7,Freiwillige Feuerwehr Bodelschwingh,1.4669,2.5072,1
+573,7,Freiwillige Feuerwehr Bodelschwingh,1.9153,3.0444,1
+574,7,Freiwillige Feuerwehr Bodelschwingh,2.4525,3.6879,1
+597,7,Freiwillige Feuerwehr Bodelschwingh,1.5288,2.5813,1
+598,7,Freiwillige Feuerwehr Bodelschwingh,0.979,1.9227,1
+599,7,Freiwillige Feuerwehr Bodelschwingh,0.6373,1.5135,1
+600,7,Freiwillige Feuerwehr Bodelschwingh,0.8257,1.7391,1
+601,7,Freiwillige Feuerwehr Bodelschwingh,1.3363,2.3508,1
+602,7,Freiwillige Feuerwehr Bodelschwingh,1.9276,3.0591,1
+603,7,Freiwillige Feuerwehr Bodelschwingh,2.5447,3.7983,1
+624,7,Freiwillige Feuerwehr Bodelschwingh,1.7171,2.8069,1
+625,7,Freiwillige Feuerwehr Bodelschwingh,1.0742,2.0369,1
+626,7,Freiwillige Feuerwehr Bodelschwingh,0.4344,1.2704,1
+627,7,Freiwillige Feuerwehr Bodelschwingh,0.2244,1.0189,1
+628,7,Freiwillige Feuerwehr Bodelschwingh,0.8605,1.7808,1
+629,7,Freiwillige Feuerwehr Bodelschwingh,1.5023,2.5496,1
+630,7,Freiwillige Feuerwehr Bodelschwingh,2.1454,3.32,1
+651,7,Freiwillige Feuerwehr Bodelschwingh,1.4788,2.5215,1
+652,7,Freiwillige Feuerwehr Bodelschwingh,0.8991,1.827,1
+653,7,Freiwillige Feuerwehr Bodelschwingh,0.5063,1.3565,1
+654,7,Freiwillige Feuerwehr Bodelschwingh,0.7293,1.6236,1
+655,7,Freiwillige Feuerwehr Bodelschwingh,1.2789,2.282,1
+656,7,Freiwillige Feuerwehr Bodelschwingh,1.8881,3.0118,1
+657,7,Freiwillige Feuerwehr Bodelschwingh,2.5148,3.7625,1
+677,7,Freiwillige Feuerwehr Bodelschwingh,2.0147,3.1635,1
+678,7,Freiwillige Feuerwehr Bodelschwingh,1.5051,2.5529,1
+679,7,Freiwillige Feuerwehr Bodelschwingh,1.1402,2.1159,1
+680,7,Freiwillige Feuerwehr Bodelschwingh,1.0779,2.0412,1
+681,7,Freiwillige Feuerwehr Bodelschwingh,1.3608,2.3801,1
+682,7,Freiwillige Feuerwehr Bodelschwingh,1.8351,2.9483,1
+683,7,Freiwillige Feuerwehr Bodelschwingh,2.3902,3.6133,1
+703,7,Freiwillige Feuerwehr Bodelschwingh,2.6012,3.8661,1
+704,7,Freiwillige Feuerwehr Bodelschwingh,2.1352,3.3078,1
+705,7,Freiwillige Feuerwehr Bodelschwingh,1.7835,2.8865,1
+706,7,Freiwillige Feuerwehr Bodelschwingh,1.6214,2.6923,1
+707,7,Freiwillige Feuerwehr Bodelschwingh,1.7043,2.7916,1
+708,7,Freiwillige Feuerwehr Bodelschwingh,2.002,3.1482,1
+709,7,Freiwillige Feuerwehr Bodelschwingh,2.4366,3.6688,1
+731,7,Freiwillige Feuerwehr Bodelschwingh,2.4288,3.6595,1
+732,7,Freiwillige Feuerwehr Bodelschwingh,2.2213,3.4109,1
+733,7,Freiwillige Feuerwehr Bodelschwingh,2.1899,3.3733,1
+734,7,Freiwillige Feuerwehr Bodelschwingh,2.3421,3.5557,1
+735,7,Freiwillige Feuerwehr Bodelschwingh,2.646,3.9197,1
+104,8,Freiwillige Feuerwehr Aplerbeck,2.6326,3.9036,1
+120,8,Freiwillige Feuerwehr Aplerbeck,2.6173,3.8853,1
+121,8,Freiwillige Feuerwehr Aplerbeck,2.2409,3.4344,1
+122,8,Freiwillige Feuerwehr Aplerbeck,2.0061,3.1532,1
+139,8,Freiwillige Feuerwehr Aplerbeck,2.4888,3.7314,1
+140,8,Freiwillige Feuerwehr Aplerbeck,1.9876,3.131,1
+141,8,Freiwillige Feuerwehr Aplerbeck,1.5936,2.659,1
+142,8,Freiwillige Feuerwehr Aplerbeck,1.3992,2.4261,1
+143,8,Freiwillige Feuerwehr Aplerbeck,1.4857,2.5298,1
+144,8,Freiwillige Feuerwehr Aplerbeck,2.2799,3.4811,1
+163,8,Freiwillige Feuerwehr Aplerbeck,2.525,3.7748,1
+164,8,Freiwillige Feuerwehr Aplerbeck,1.9287,3.0604,1
+165,8,Freiwillige Feuerwehr Aplerbeck,1.3754,2.3977,1
+166,8,Freiwillige Feuerwehr Aplerbeck,0.946,1.8833,1
+167,8,Freiwillige Feuerwehr Aplerbeck,0.8539,1.7729,1
+168,8,Freiwillige Feuerwehr Aplerbeck,1.1806,2.1643,1
+169,8,Freiwillige Feuerwehr Aplerbeck,1.6993,2.7856,1
+170,8,Freiwillige Feuerwehr Aplerbeck,2.2834,3.4853,1
+192,8,Freiwillige Feuerwehr Aplerbeck,2.0796,3.2412,1
+193,8,Freiwillige Feuerwehr Aplerbeck,1.4429,2.4785,1
+194,8,Freiwillige Feuerwehr Aplerbeck,0.8193,1.7314,1
+195,8,Freiwillige Feuerwehr Aplerbeck,0.2993,1.1086,1
+196,8,Freiwillige Feuerwehr Aplerbeck,0.5823,1.4476,1
+197,8,Freiwillige Feuerwehr Aplerbeck,1.1909,2.1765,1
+198,8,Freiwillige Feuerwehr Aplerbeck,1.8246,2.9357,1
+199,8,Freiwillige Feuerwehr Aplerbeck,2.4633,3.7008,1
+221,8,Freiwillige Feuerwehr Aplerbeck,2.4016,3.6269,1
+222,8,Freiwillige Feuerwehr Aplerbeck,1.7642,2.8633,1
+223,8,Freiwillige Feuerwehr Aplerbeck,1.1334,2.1077,1
+224,8,Freiwillige Feuerwehr Aplerbeck,0.5367,1.3929,1
+225,8,Freiwillige Feuerwehr Aplerbeck,0.3496,1.1687,1
+226,8,Freiwillige Feuerwehr Aplerbeck,0.887,1.8125,1
+227,8,Freiwillige Feuerwehr Aplerbeck,1.5101,2.5589,1
+228,8,Freiwillige Feuerwehr Aplerbeck,2.1462,3.3209,1
+251,8,Freiwillige Feuerwehr Aplerbeck,2.2312,3.4228,1
+252,8,Freiwillige Feuerwehr Aplerbeck,1.6541,2.7314,1
+253,8,Freiwillige Feuerwehr Aplerbeck,1.1513,2.1291,1
+254,8,Freiwillige Feuerwehr Aplerbeck,0.8625,1.7832,1
+255,8,Freiwillige Feuerwehr Aplerbeck,0.9967,1.944,1
+256,8,Freiwillige Feuerwehr Aplerbeck,1.4395,2.4744,1
+257,8,Freiwillige Feuerwehr Aplerbeck,1.9957,3.1406,1
+258,8,Freiwillige Feuerwehr Aplerbeck,2.5924,3.8555,1
+281,8,Freiwillige Feuerwehr Aplerbeck,2.2422,3.4359,1
+282,8,Freiwillige Feuerwehr Aplerbeck,1.7889,2.8929,1
+283,8,Freiwillige Feuerwehr Aplerbeck,1.4845,2.5283,1
+284,8,Freiwillige Feuerwehr Aplerbeck,1.4275,2.4601,1
+285,8,Freiwillige Feuerwehr Aplerbeck,1.6439,2.7192,1
+286,8,Freiwillige Feuerwehr Aplerbeck,2.0483,3.2037,1
+287,8,Freiwillige Feuerwehr Aplerbeck,2.5536,3.809,1
+312,8,Freiwillige Feuerwehr Aplerbeck,2.4315,3.6628,1
+313,8,Freiwillige Feuerwehr Aplerbeck,2.1218,3.2918,1
+314,8,Freiwillige Feuerwehr Aplerbeck,1.9801,3.122,1
+315,8,Freiwillige Feuerwehr Aplerbeck,2.0421,3.1963,1
+316,8,Freiwillige Feuerwehr Aplerbeck,2.291,3.4945,1
+317,8,Freiwillige Feuerwehr Aplerbeck,2.6756,3.9552,1
+345,8,Freiwillige Feuerwehr Aplerbeck,2.5772,3.8372,1
+346,8,Freiwillige Feuerwehr Aplerbeck,2.5448,3.7985,1
+347,8,Freiwillige Feuerwehr Aplerbeck,2.6721,3.951,1
+0,9,Freiwillige Feuerwehr Syburg,1.7405,2.835,1
+1,9,Freiwillige Feuerwehr Syburg,1.2472,2.244,1
+2,9,Freiwillige Feuerwehr Syburg,0.9565,1.8959,1
+3,9,Freiwillige Feuerwehr Syburg,1.0523,2.0105,1
+4,9,Freiwillige Feuerwehr Syburg,1.4604,2.4994,1
+5,9,Freiwillige Feuerwehr Syburg,1.2026,2.1906,1
+6,9,Freiwillige Feuerwehr Syburg,0.6247,1.4983,1
+7,9,Freiwillige Feuerwehr Syburg,0.4074,1.2381,1
+8,9,Freiwillige Feuerwehr Syburg,0.8798,1.8039,1
+9,9,Freiwillige Feuerwehr Syburg,0.8388,1.7549,1
+10,9,Freiwillige Feuerwehr Syburg,0.2516,1.0514,1
+11,9,Freiwillige Feuerwehr Syburg,0.5055,1.3555,1
+12,9,Freiwillige Feuerwehr Syburg,1.1317,2.1057,1
+14,9,Freiwillige Feuerwehr Syburg,1.3622,2.3818,1
+15,9,Freiwillige Feuerwehr Syburg,0.8943,1.8213,1
+16,9,Freiwillige Feuerwehr Syburg,0.7587,1.6588,1
+17,9,Freiwillige Feuerwehr Syburg,1.0879,2.0532,1
+18,9,Freiwillige Feuerwehr Syburg,1.6201,2.6907,1
+22,9,Freiwillige Feuerwehr Syburg,2.4801,3.721,1
+23,9,Freiwillige Feuerwehr Syburg,1.9615,3.0998,1
+24,9,Freiwillige Feuerwehr Syburg,1.5409,2.5959,1
+25,9,Freiwillige Feuerwehr Syburg,1.3169,2.3275,1
+26,9,Freiwillige Feuerwehr Syburg,1.3879,2.4126,1
+27,9,Freiwillige Feuerwehr Syburg,1.7179,2.8079,1
+28,9,Freiwillige Feuerwehr Syburg,2.1925,3.3764,1
+35,9,Freiwillige Feuerwehr Syburg,2.5839,3.8453,1
+36,9,Freiwillige Feuerwehr Syburg,2.188,3.371,1
+37,9,Freiwillige Feuerwehr Syburg,1.9318,3.0641,1
+38,9,Freiwillige Feuerwehr Syburg,1.8729,2.9936,1
+39,9,Freiwillige Feuerwehr Syburg,2.0287,3.1802,1
+40,9,Freiwillige Feuerwehr Syburg,2.3572,3.5737,1
+50,9,Freiwillige Feuerwehr Syburg,2.5628,3.82,1
+51,9,Freiwillige Feuerwehr Syburg,2.4347,3.6665,1
+52,9,Freiwillige Feuerwehr Syburg,2.4738,3.7134,1
+53,9,Freiwillige Feuerwehr Syburg,2.6729,3.9519,1
+84,10,Freiwillige Feuerwehr Hörde,2.647,3.9209,1
+85,10,Freiwillige Feuerwehr Hörde,2.5516,3.8066,1
+86,10,Freiwillige Feuerwehr Hörde,2.6163,3.8841,1
+99,10,Freiwillige Feuerwehr Hörde,2.5999,3.8645,1
+100,10,Freiwillige Feuerwehr Hörde,2.2398,3.433,1
+101,10,Freiwillige Feuerwehr Hörde,2.0261,3.1771,1
+102,10,Freiwillige Feuerwehr Hörde,2.0062,3.1532,1
+103,10,Freiwillige Feuerwehr Hörde,2.1853,3.3678,1
+104,10,Freiwillige Feuerwehr Hörde,2.521,3.77,1
+116,10,Freiwillige Feuerwehr Hörde,2.4541,3.6898,1
+117,10,Freiwillige Feuerwehr Hörde,1.9658,3.1048,1
+118,10,Freiwillige Feuerwehr Hörde,1.5933,2.6586,1
+119,10,Freiwillige Feuerwehr Hörde,1.4291,2.4619,1
+120,10,Freiwillige Feuerwehr Hörde,1.5417,2.5968,1
+121,10,Freiwillige Feuerwehr Hörde,1.8822,3.0048,1
+122,10,Freiwillige Feuerwehr Hörde,2.3538,3.5696,1
+135,10,Freiwillige Feuerwehr Hörde,2.4745,3.7142,1
+136,10,Freiwillige Feuerwehr Hörde,1.8847,3.0077,1
+137,10,Freiwillige Feuerwehr Hörde,1.3451,2.3613,1
+138,10,Freiwillige Feuerwehr Hörde,0.9477,1.8852,1
+139,10,Freiwillige Feuerwehr Hörde,0.9043,1.8333,1
+140,10,Freiwillige Feuerwehr Hörde,1.2523,2.2502,1
+141,10,Freiwillige Feuerwehr Hörde,1.7743,2.8755,1
+142,10,Freiwillige Feuerwehr Hörde,2.3581,3.5748,1
+159,10,Freiwillige Feuerwehr Hörde,2.6573,3.9332,1
+160,10,Freiwillige Feuerwehr Hörde,2.0189,3.1685,1
+161,10,Freiwillige Feuerwehr Hörde,1.385,2.4091,1
+162,10,Freiwillige Feuerwehr Hörde,0.7699,1.6723,1
+163,10,Freiwillige Feuerwehr Hörde,0.311,1.1225,1
+164,10,Freiwillige Feuerwehr Hörde,0.6567,1.5366,1
+165,10,Freiwillige Feuerwehr Hörde,1.2637,2.2638,1
+166,10,Freiwillige Feuerwehr Hörde,1.8958,3.021,1
+167,10,Freiwillige Feuerwehr Hörde,2.5335,3.7849,1
+188,10,Freiwillige Feuerwehr Hörde,2.3318,3.5433,1
+189,10,Freiwillige Feuerwehr Hörde,1.6933,2.7784,1
+190,10,Freiwillige Feuerwehr Hörde,1.0606,2.0205,1
+191,10,Freiwillige Feuerwehr Hörde,0.4622,1.3037,1
+192,10,Freiwillige Feuerwehr Hörde,0.3652,1.1875,1
+193,10,Freiwillige Feuerwehr Hörde,0.9401,1.8762,1
+194,10,Freiwillige Feuerwehr Hörde,1.5695,2.6301,1
+195,10,Freiwillige Feuerwehr Hörde,2.208,3.395,1
+218,10,Freiwillige Feuerwehr Hörde,2.1568,3.3337,1
+219,10,Freiwillige Feuerwehr Hörde,1.5795,2.6421,1
+220,10,Freiwillige Feuerwehr Hörde,1.0815,2.0455,1
+221,10,Freiwillige Feuerwehr Hörde,0.8208,1.7332,1
+222,10,Freiwillige Feuerwehr Hörde,1.004,1.9527,1
+223,10,Freiwillige Feuerwehr Hörde,1.4743,2.5161,1
+224,10,Freiwillige Feuerwehr Hörde,2.0421,3.1962,1
+225,10,Freiwillige Feuerwehr Hörde,2.6447,3.9181,1
+247,10,Freiwillige Feuerwehr Hörde,2.6971,3.9809,1
+248,10,Freiwillige Feuerwehr Hörde,2.169,3.3483,1
+249,10,Freiwillige Feuerwehr Hörde,1.7213,2.8119,1
+250,10,Freiwillige Feuerwehr Hörde,1.4324,2.4659,1
+251,10,Freiwillige Feuerwehr Hörde,1.4041,2.432,1
+252,10,Freiwillige Feuerwehr Hörde,1.6498,2.7263,1
+253,10,Freiwillige Feuerwehr Hörde,2.0739,3.2343,1
+254,10,Freiwillige Feuerwehr Hörde,2.5908,3.8536,1
+278,10,Freiwillige Feuerwehr Hörde,2.3651,3.5832,1
+279,10,Freiwillige Feuerwehr Hörde,2.0661,3.2251,1
+280,10,Freiwillige Feuerwehr Hörde,1.9425,3.0769,1
+281,10,Freiwillige Feuerwehr Hörde,2.0267,3.1778,1
+282,10,Freiwillige Feuerwehr Hörde,2.2962,3.5007,1
+283,10,Freiwillige Feuerwehr Hörde,2.6961,3.9797,1
+309,10,Freiwillige Feuerwehr Hörde,2.7062,3.9918,1
+310,10,Freiwillige Feuerwehr Hörde,2.5323,3.7835,1
+311,10,Freiwillige Feuerwehr Hörde,2.5164,3.7645,1
+312,10,Freiwillige Feuerwehr Hörde,2.6613,3.938,1
+628,11,Freiwillige Feuerwehr Schwieringhausen,2.6577,3.9337,0
+629,11,Freiwillige Feuerwehr Schwieringhausen,2.5913,3.8542,0
+630,11,Freiwillige Feuerwehr Schwieringhausen,2.6821,3.963,0
+653,11,Freiwillige Feuerwehr Schwieringhausen,2.5578,3.814,0
+654,11,Freiwillige Feuerwehr Schwieringhausen,2.2258,3.4163,0
+655,11,Freiwillige Feuerwehr Schwieringhausen,2.0473,3.2025,0
+656,11,Freiwillige Feuerwehr Schwieringhausen,2.0631,3.2214,0
+657,11,Freiwillige Feuerwehr Schwieringhausen,2.2691,3.4682,0
+658,11,Freiwillige Feuerwehr Schwieringhausen,2.6209,3.8896,0
+679,11,Freiwillige Feuerwehr Schwieringhausen,2.3843,3.6061,0
+680,11,Freiwillige Feuerwehr Schwieringhausen,1.9186,3.0483,0
+681,11,Freiwillige Feuerwehr Schwieringhausen,1.5827,2.646,0
+682,11,Freiwillige Feuerwehr Schwieringhausen,1.4686,2.5093,0
+683,11,Freiwillige Feuerwehr Schwieringhausen,1.6235,2.6948,0
+684,11,Freiwillige Feuerwehr Schwieringhausen,1.9851,3.1279,0
+685,11,Freiwillige Feuerwehr Schwieringhausen,2.4645,3.7023,0
+705,11,Freiwillige Feuerwehr Schwieringhausen,2.3795,3.6004,0
+706,11,Freiwillige Feuerwehr Schwieringhausen,1.8014,2.9079,0
+707,11,Freiwillige Feuerwehr Schwieringhausen,1.2872,2.292,0
+708,11,Freiwillige Feuerwehr Schwieringhausen,0.9459,1.8831,0
+709,11,Freiwillige Feuerwehr Schwieringhausen,0.9795,1.9234,0
+710,11,Freiwillige Feuerwehr Schwieringhausen,1.3607,2.3801,0
+711,11,Freiwillige Feuerwehr Schwieringhausen,1.8898,3.0139,0
+712,11,Freiwillige Feuerwehr Schwieringhausen,2.473,3.7125,0
+731,11,Freiwillige Feuerwehr Schwieringhausen,2.5447,3.7984,0
+732,11,Freiwillige Feuerwehr Schwieringhausen,1.9101,3.0381,0
+733,11,Freiwillige Feuerwehr Schwieringhausen,1.2826,2.2865,0
+734,11,Freiwillige Feuerwehr Schwieringhausen,0.6852,1.5708,0
+735,11,Freiwillige Feuerwehr Schwieringhausen,0.3484,1.1673,0
+736,11,Freiwillige Feuerwehr Schwieringhausen,0.7746,1.678,0
+737,11,Freiwillige Feuerwehr Schwieringhausen,1.38,2.4032,0
+738,11,Freiwillige Feuerwehr Schwieringhausen,2.0094,3.1571,0
+739,11,Freiwillige Feuerwehr Schwieringhausen,2.6454,3.919,0
+752,11,Freiwillige Feuerwehr Schwieringhausen,1.5717,2.6327,0
+753,11,Freiwillige Feuerwehr Schwieringhausen,0.9394,1.8754,0
+754,11,Freiwillige Feuerwehr Schwieringhausen,0.3469,1.1656,0
+755,11,Freiwillige Feuerwehr Schwieringhausen,0.4303,1.2655,0
+756,11,Freiwillige Feuerwehr Schwieringhausen,1.0379,1.9933,0
+762,11,Freiwillige Feuerwehr Schwieringhausen,0.78,1.6844,0
+763,11,Freiwillige Feuerwehr Schwieringhausen,1.0426,1.9989,0
+764,11,Freiwillige Feuerwehr Schwieringhausen,1.5463,2.6024,0
+767,11,Freiwillige Feuerwehr Schwieringhausen,1.6808,2.7635,0
+768,11,Freiwillige Feuerwehr Schwieringhausen,2.1317,3.3037,0
+173,12,Freiwillige Feuerwehr Lütgendortmund,1.8563,2.9736,1
+174,12,Freiwillige Feuerwehr Lütgendortmund,2.2996,3.5048,1
+201,12,Freiwillige Feuerwehr Lütgendortmund,1.0564,2.0155,1
+202,12,Freiwillige Feuerwehr Lütgendortmund,1.2159,2.2065,1
+203,12,Freiwillige Feuerwehr Lütgendortmund,1.7041,2.7913,1
+204,12,Freiwillige Feuerwehr Lütgendortmund,2.2718,3.4715,1
+230,12,Freiwillige Feuerwehr Lütgendortmund,0.9037,1.8326,1
+231,12,Freiwillige Feuerwehr Lütgendortmund,0.4093,1.2403,1
+232,12,Freiwillige Feuerwehr Lütgendortmund,1.1662,2.147,1
+233,12,Freiwillige Feuerwehr Lütgendortmund,1.7894,2.8936,1
+234,12,Freiwillige Feuerwehr Lütgendortmund,2.4232,3.6527,1
+259,12,Freiwillige Feuerwehr Lütgendortmund,0.5402,1.3971,1
+260,12,Freiwillige Feuerwehr Lütgendortmund,0.24,1.0375,1
+261,12,Freiwillige Feuerwehr Lütgendortmund,0.8087,1.7188,1
+262,12,Freiwillige Feuerwehr Lütgendortmund,1.4419,2.4773,1
+263,12,Freiwillige Feuerwehr Lütgendortmund,2.0823,3.2444,1
+289,12,Freiwillige Feuerwehr Lütgendortmund,1.6526,2.7297,1
+290,12,Freiwillige Feuerwehr Lütgendortmund,1.1197,2.0913,1
+291,12,Freiwillige Feuerwehr Lütgendortmund,0.7776,1.6815,1
+292,12,Freiwillige Feuerwehr Lütgendortmund,0.8863,1.8117,1
+293,12,Freiwillige Feuerwehr Lütgendortmund,1.3404,2.3557,1
+294,12,Freiwillige Feuerwehr Lütgendortmund,2.5115,3.7585,1
+319,12,Freiwillige Feuerwehr Lütgendortmund,2.2243,3.4145,1
+320,12,Freiwillige Feuerwehr Lütgendortmund,1.7473,2.8432,1
+321,12,Freiwillige Feuerwehr Lütgendortmund,1.4107,2.4399,1
+322,12,Freiwillige Feuerwehr Lütgendortmund,1.3251,2.3374,1
+323,12,Freiwillige Feuerwehr Lütgendortmund,1.5337,2.5873,1
+324,12,Freiwillige Feuerwehr Lütgendortmund,1.9435,3.0781,1
+325,12,Freiwillige Feuerwehr Lütgendortmund,2.4563,3.6924,1
+351,12,Freiwillige Feuerwehr Lütgendortmund,2.3854,3.6076,1
+352,12,Freiwillige Feuerwehr Lütgendortmund,2.0526,3.2088,1
+353,12,Freiwillige Feuerwehr Lütgendortmund,1.8879,3.0116,1
+354,12,Freiwillige Feuerwehr Lütgendortmund,1.9352,3.0682,1
+355,12,Freiwillige Feuerwehr Lütgendortmund,2.1808,3.3625,1
+356,12,Freiwillige Feuerwehr Lütgendortmund,2.5686,3.8269,1
+384,12,Freiwillige Feuerwehr Lütgendortmund,2.697,3.9808,1
+385,12,Freiwillige Feuerwehr Lütgendortmund,2.4922,3.7354,1
+386,12,Freiwillige Feuerwehr Lütgendortmund,2.4448,3.6786,1
+387,12,Freiwillige Feuerwehr Lütgendortmund,2.5638,3.8212,1
+399,13,Ausbildungszentrum der Feuerwehr Dortmund,2.6893,3.9716,0
+426,13,Ausbildungszentrum der Feuerwehr Dortmund,2.5793,3.8398,0
+427,13,Ausbildungszentrum der Feuerwehr Dortmund,2.2765,3.4771,0
+428,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1311,3.3029,0
+429,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1747,3.3551,0
+430,13,Ausbildungszentrum der Feuerwehr Dortmund,2.3971,3.6215,0
+454,13,Ausbildungszentrum der Feuerwehr Dortmund,2.3722,3.5917,0
+455,13,Ausbildungszentrum der Feuerwehr Dortmund,1.9347,3.0676,0
+456,13,Ausbildungszentrum der Feuerwehr Dortmund,1.6397,2.7143,0
+457,13,Ausbildungszentrum der Feuerwehr Dortmund,1.5691,2.6296,0
+458,13,Ausbildungszentrum der Feuerwehr Dortmund,1.7503,2.8467,0
+459,13,Ausbildungszentrum der Feuerwehr Dortmund,2.12,3.2896,0
+460,13,Ausbildungszentrum der Feuerwehr Dortmund,2.599,3.8633,0
+484,13,Ausbildungszentrum der Feuerwehr Dortmund,2.3322,3.5438,0
+485,13,Ausbildungszentrum der Feuerwehr Dortmund,1.7729,2.8738,0
+486,13,Ausbildungszentrum der Feuerwehr Dortmund,1.2935,2.2995,0
+487,13,Ausbildungszentrum der Feuerwehr Dortmund,1.0162,1.9673,0
+488,13,Ausbildungszentrum der Feuerwehr Dortmund,1.1046,2.0732,0
+489,13,Ausbildungszentrum der Feuerwehr Dortmund,1.4956,2.5416,0
+490,13,Ausbildungszentrum der Feuerwehr Dortmund,2.0199,3.1697,0
+491,13,Ausbildungszentrum der Feuerwehr Dortmund,2.5989,3.8632,0
+514,13,Ausbildungszentrum der Feuerwehr Dortmund,2.4682,3.7067,0
+515,13,Ausbildungszentrum der Feuerwehr Dortmund,1.8382,2.952,0
+516,13,Ausbildungszentrum der Feuerwehr Dortmund,1.2227,2.2147,0
+517,13,Ausbildungszentrum der Feuerwehr Dortmund,0.664,1.5454,0
+518,13,Ausbildungszentrum der Feuerwehr Dortmund,0.4628,1.3044,0
+519,13,Ausbildungszentrum der Feuerwehr Dortmund,0.9031,1.8318,0
+520,13,Ausbildungszentrum der Feuerwehr Dortmund,1.4987,2.5453,0
+521,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1227,3.2928,0
+545,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1099,3.2775,0
+546,13,Ausbildungszentrum der Feuerwehr Dortmund,1.4684,2.509,0
+547,13,Ausbildungszentrum der Feuerwehr Dortmund,0.8285,1.7425,0
+548,13,Ausbildungszentrum der Feuerwehr Dortmund,0.2146,1.0071,0
+549,13,Ausbildungszentrum der Feuerwehr Dortmund,0.4832,1.3288,0
+550,13,Ausbildungszentrum der Feuerwehr Dortmund,1.118,2.0893,0
+551,13,Ausbildungszentrum der Feuerwehr Dortmund,1.7587,2.8567,0
+552,13,Ausbildungszentrum der Feuerwehr Dortmund,2.4013,3.6266,0
+575,13,Ausbildungszentrum der Feuerwehr Dortmund,2.5229,3.7723,0
+576,13,Ausbildungszentrum der Feuerwehr Dortmund,1.9113,3.0395,0
+577,13,Ausbildungszentrum der Feuerwehr Dortmund,1.3302,2.3435,0
+578,13,Ausbildungszentrum der Feuerwehr Dortmund,0.8459,1.7633,0
+579,13,Ausbildungszentrum der Feuerwehr Dortmund,0.6992,1.5876,0
+580,13,Ausbildungszentrum der Feuerwehr Dortmund,1.0441,2.0007,0
+581,13,Ausbildungszentrum der Feuerwehr Dortmund,1.5876,2.6518,0
+582,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1862,3.3689,0
+604,13,Ausbildungszentrum der Feuerwehr Dortmund,2.4468,3.6811,0
+605,13,Ausbildungszentrum der Feuerwehr Dortmund,1.9214,3.0516,0
+606,13,Ausbildungszentrum der Feuerwehr Dortmund,1.4908,2.5358,0
+607,13,Ausbildungszentrum der Feuerwehr Dortmund,1.2578,2.2567,0
+608,13,Ausbildungszentrum der Feuerwehr Dortmund,1.3302,2.3435,0
+609,13,Ausbildungszentrum der Feuerwehr Dortmund,1.669,2.7494,0
+610,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1513,3.3271,0
+611,13,Ausbildungszentrum der Feuerwehr Dortmund,2.7021,3.9868,0
+632,13,Ausbildungszentrum der Feuerwehr Dortmund,2.5396,3.7922,0
+633,13,Ausbildungszentrum der Feuerwehr Dortmund,2.1369,3.3099,0
+634,13,Ausbildungszentrum der Feuerwehr Dortmund,1.8742,2.9952,0
+635,13,Ausbildungszentrum der Feuerwehr Dortmund,1.8128,2.9216,0
+636,13,Ausbildungszentrum der Feuerwehr Dortmund,1.9716,3.1118,0
+637,13,Ausbildungszentrum der Feuerwehr Dortmund,2.3059,3.5123,0
+660,13,Ausbildungszentrum der Feuerwehr Dortmund,2.5061,3.7522,0
+661,13,Ausbildungszentrum der Feuerwehr Dortmund,2.375,3.5951,0
+662,13,Ausbildungszentrum der Feuerwehr Dortmund,2.4141,3.6419,0
+663,13,Ausbildungszentrum der Feuerwehr Dortmund,2.6161,3.8839,0
+426,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.6842,3.9655,0
+427,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.3968,3.6211,0
+428,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.2613,3.4589,0
+429,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.3046,3.5107,0
+430,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.5175,3.7657,0
+454,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.4551,3.691,0
+455,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.0379,3.1912,0
+456,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.7631,2.862,0
+457,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.7004,2.787,0
+458,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.8716,2.992,0
+459,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.2234,3.4134,0
+460,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.6858,3.9673,0
+484,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.3848,3.6067,0
+485,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.8441,2.9591,0
+486,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.393,2.4188,0
+487,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.1445,2.121,0
+488,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.2276,2.2206,0
+489,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.5917,2.6567,0
+490,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.0944,3.2589,0
+491,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.659,3.9353,0
+514,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.4874,3.7297,0
+515,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.8666,2.986,0
+516,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.2689,2.27,0
+517,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.7522,1.6511,0
+518,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.5907,1.4576,0
+519,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.9798,1.9238,0
+520,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.5493,2.606,0
+521,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.161,3.3387,0
+545,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.0988,3.2641,0
+546,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.4557,2.4938,0
+547,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.8119,1.7226,0
+548,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.169,0.9524,0
+549,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.4752,1.3192,0
+550,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.1189,2.0904,0
+551,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.762,2.8607,0
+552,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.4058,3.6319,0
+575,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.4831,3.7246,0
+576,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.861,2.9794,0
+577,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.2609,2.2604,0
+578,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.7388,1.635,0
+579,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.5736,1.4371,0
+580,14,Feuer- und Rettungswache 2 - Eving/Nordwache,0.9695,1.9114,0
+581,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.5427,2.5981,0
+582,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.1561,3.3329,0
+604,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.376,3.5962,0
+605,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.833,2.9458,0
+606,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.3785,2.4014,0
+607,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.1269,2.0999,0
+608,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.2112,2.2009,0
+609,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.5789,2.6414,0
+610,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.0845,3.2471,0
+611,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.651,3.9257,0
+632,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.4424,3.6758,0
+633,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.0229,3.1733,0
+634,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.7459,2.8415,0
+635,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.6827,2.7658,0
+636,14,Feuer- und Rettungswache 2 - Eving/Nordwache,1.8554,2.9726,0
+637,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.2096,3.3969,0
+638,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.6741,3.9533,0
+659,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.6689,3.9472,0
+660,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.3799,3.601,0
+661,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.2436,3.4376,0
+662,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.2871,3.4898,0
+663,14,Feuer- und Rettungswache 2 - Eving/Nordwache,2.5013,3.7464,0
+205,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5758,3.8356,1
+206,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5669,3.8249,1
+233,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.3893,3.6121,1
+234,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.1022,3.2682,1
+235,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.9896,3.1334,1
+236,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.0802,3.2419,1
+237,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.3509,3.5662,1
+261,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.6982,3.9822,1
+262,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.1788,3.36,1
+263,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.744,2.8391,1
+264,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.4719,2.5132,1
+265,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.4562,2.4944,1
+266,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.7044,2.7917,1
+267,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.1255,3.2961,1
+268,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.6386,3.9108,1
+293,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.1498,3.3253,1
+294,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.101,2.0689,1
+295,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.8669,1.7885,1
+296,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.0585,2.018,1
+297,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.523,2.5744,1
+298,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.0847,3.2474,1
+299,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.6842,3.9654,1
+323,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.3094,3.5165,1
+324,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.6736,2.7549,1
+325,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.0467,2.0039,1
+326,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.4699,1.3129,1
+327,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.4182,1.251,1
+328,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.9794,1.9232,1
+329,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.6036,2.671,1
+330,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.2395,3.4327,1
+354,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.6242,3.8936,1
+355,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.984,3.1267,1
+356,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.3478,2.3645,1
+357,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.7265,1.6202,1
+358,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.2593,1.0606,1
+359,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.6603,1.541,1
+360,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.2786,2.2816,1
+361,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.9134,3.0421,1
+362,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5533,3.8086,1
+387,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.4309,3.662,1
+388,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.8378,2.9515,1
+389,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.2932,2.2991,1
+390,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.8932,1.8199,1
+391,15,Feuer- und Rettungswache 5 - Marten/Westwache,0.8671,1.7887,1
+392,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.2393,2.2346,1
+393,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.7742,2.8754,1
+394,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.3646,3.5825,1
+418,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.9116,3.04,1
+419,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.5381,2.5926,1
+420,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.3804,2.4036,1
+421,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.508,2.5565,1
+422,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.8635,2.9823,1
+423,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.3449,3.559,1
+448,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.9741,3.1149,1
+449,15,Feuer- und Rettungswache 5 - Marten/Westwache,1.9625,3.1009,1
+450,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.153,3.3291,1
+451,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.4994,3.744,1
+478,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5936,3.8569,1
+479,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5032,3.7487,1
+480,15,Feuer- und Rettungswache 5 - Marten/Westwache,2.5758,3.8356,1
+465,16,Feuer- und Rettungswache 6 - Scharnhorst,2.5237,3.7731,1
+466,16,Feuer- und Rettungswache 6 - Scharnhorst,2.4547,3.6905,1
+467,16,Feuer- und Rettungswache 6 - Scharnhorst,2.5517,3.8068,1
+494,16,Feuer- und Rettungswache 6 - Scharnhorst,2.4483,3.6828,1
+495,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1,3.2656,1
+496,16,Feuer- und Rettungswache 6 - Scharnhorst,1.9112,3.0394,1
+497,16,Feuer- und Rettungswache 6 - Scharnhorst,1.9297,3.0616,1
+498,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1502,3.3258,1
+499,16,Feuer- und Rettungswache 6 - Scharnhorst,2.5204,3.7692,1
+524,16,Feuer- und Rettungswache 6 - Scharnhorst,2.2997,3.5048,1
+525,16,Feuer- und Rettungswache 6 - Scharnhorst,1.8134,2.9223,1
+526,16,Feuer- und Rettungswache 6 - Scharnhorst,1.4553,2.4933,1
+527,16,Feuer- und Rettungswache 6 - Scharnhorst,1.3322,2.3458,1
+528,16,Feuer- und Rettungswache 6 - Scharnhorst,1.5034,2.551,1
+529,16,Feuer- und Rettungswache 6 - Scharnhorst,1.8903,3.0144,1
+530,16,Feuer- und Rettungswache 6 - Scharnhorst,2.3908,3.6139,1
+554,16,Feuer- und Rettungswache 6 - Scharnhorst,2.3276,3.5383,1
+555,16,Feuer- und Rettungswache 6 - Scharnhorst,1.7332,2.8262,1
+556,16,Feuer- und Rettungswache 6 - Scharnhorst,1.1917,2.1775,1
+557,16,Feuer- und Rettungswache 6 - Scharnhorst,0.8142,1.7254,1
+558,16,Feuer- und Rettungswache 6 - Scharnhorst,0.8568,1.7764,1
+559,16,Feuer- und Rettungswache 6 - Scharnhorst,1.2782,2.2811,1
+560,16,Feuer- und Rettungswache 6 - Scharnhorst,1.8336,2.9465,1
+561,16,Feuer- und Rettungswache 6 - Scharnhorst,2.4323,3.6637,1
+584,16,Feuer- und Rettungswache 6 - Scharnhorst,2.5267,3.7768,1
+585,16,Feuer- und Rettungswache 6 - Scharnhorst,1.8866,3.01,1
+586,16,Feuer- und Rettungswache 6 - Scharnhorst,1.2489,2.246,1
+587,16,Feuer- und Rettungswache 6 - Scharnhorst,0.6241,1.4976,1
+588,16,Feuer- und Rettungswache 6 - Scharnhorst,0.2152,1.0078,1
+589,16,Feuer- und Rettungswache 6 - Scharnhorst,0.7293,1.6236,1
+590,16,Feuer- und Rettungswache 6 - Scharnhorst,1.3581,2.3769,1
+591,16,Feuer- und Rettungswache 6 - Scharnhorst,1.9966,3.1418,1
+592,16,Feuer- und Rettungswache 6 - Scharnhorst,2.637,3.9089,1
+613,16,Feuer- und Rettungswache 6 - Scharnhorst,2.2248,3.4151,1
+614,16,Feuer- und Rettungswache 6 - Scharnhorst,1.5926,2.6578,1
+615,16,Feuer- und Rettungswache 6 - Scharnhorst,0.9762,1.9194,1
+616,16,Feuer- und Rettungswache 6 - Scharnhorst,0.4426,1.2802,1
+617,16,Feuer- und Rettungswache 6 - Scharnhorst,0.5167,1.369,1
+618,16,Feuer- und Rettungswache 6 - Scharnhorst,1.08,2.0438,1
+619,16,Feuer- und Rettungswache 6 - Scharnhorst,1.7013,2.788,1
+620,16,Feuer- und Rettungswache 6 - Scharnhorst,2.3341,3.5461,1
+640,16,Feuer- und Rettungswache 6 - Scharnhorst,2.679,3.9593,1
+641,16,Feuer- und Rettungswache 6 - Scharnhorst,2.0863,3.2493,1
+642,16,Feuer- und Rettungswache 6 - Scharnhorst,1.5341,2.5878,1
+643,16,Feuer- und Rettungswache 6 - Scharnhorst,1.0879,2.0533,1
+644,16,Feuer- und Rettungswache 6 - Scharnhorst,0.9168,1.8483,1
+645,16,Feuer- und Rettungswache 6 - Scharnhorst,1.1515,2.1294,1
+646,16,Feuer- und Rettungswache 6 - Scharnhorst,1.6242,2.6957,1
+647,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1863,3.369,1
+667,16,Feuer- und Rettungswache 6 - Scharnhorst,2.6466,3.9203,1
+668,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1427,3.3168,1
+669,16,Feuer- und Rettungswache 6 - Scharnhorst,1.7344,2.8277,1
+670,16,Feuer- und Rettungswache 6 - Scharnhorst,1.5005,2.5474,1
+671,16,Feuer- und Rettungswache 6 - Scharnhorst,1.524,2.5756,1
+672,16,Feuer- und Rettungswache 6 - Scharnhorst,1.7949,2.9002,1
+673,16,Feuer- und Rettungswache 6 - Scharnhorst,2.2247,3.415,1
+695,16,Feuer- und Rettungswache 6 - Scharnhorst,2.3812,3.6025,1
+696,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1214,3.2913,1
+697,16,Feuer- und Rettungswache 6 - Scharnhorst,2.039,3.1925,1
+698,16,Feuer- und Rettungswache 6 - Scharnhorst,2.1547,3.3311,1
+699,16,Feuer- und Rettungswache 6 - Scharnhorst,2.4402,3.6732,1
+723,16,Feuer- und Rettungswache 6 - Scharnhorst,2.6133,3.8805,1
+724,16,Feuer- und Rettungswache 6 - Scharnhorst,2.6269,3.8968,1
+618,17,Freiwillige Feuerwehr Lanstrop,2.4827,3.7241,1
+619,17,Freiwillige Feuerwehr Lanstrop,2.2704,3.4697,1
+620,17,Freiwillige Feuerwehr Lanstrop,2.2301,3.4215,1
+621,17,Freiwillige Feuerwehr Lanstrop,2.3706,3.5898,1
+622,17,Freiwillige Feuerwehr Lanstrop,2.6631,3.9402,1
+644,17,Freiwillige Feuerwehr Lanstrop,2.6548,3.9302,1
+645,17,Freiwillige Feuerwehr Lanstrop,2.1902,3.3736,1
+646,17,Freiwillige Feuerwehr Lanstrop,1.8372,2.9508,1
+647,17,Freiwillige Feuerwehr Lanstrop,1.6672,2.7472,1
+648,17,Freiwillige Feuerwehr Lanstrop,1.7354,2.8288,1
+649,17,Freiwillige Feuerwehr Lanstrop,2.0178,3.1671,1
+650,17,Freiwillige Feuerwehr Lanstrop,2.4412,3.6743,1
+670,17,Freiwillige Feuerwehr Lanstrop,2.6327,3.9038,1
+671,17,Freiwillige Feuerwehr Lanstrop,2.0662,3.2252,1
+672,17,Freiwillige Feuerwehr Lanstrop,1.5596,2.6182,1
+673,17,Freiwillige Feuerwehr Lanstrop,1.193,2.1791,1
+674,17,Freiwillige Feuerwehr Lanstrop,1.1144,2.085,1
+675,17,Freiwillige Feuerwehr Lanstrop,1.3741,2.396,1
+676,17,Freiwillige Feuerwehr Lanstrop,1.8331,2.9459,1
+697,17,Freiwillige Feuerwehr Lanstrop,2.1393,3.3127,1
+698,17,Freiwillige Feuerwehr Lanstrop,1.5252,2.5771,1
+699,17,Freiwillige Feuerwehr Lanstrop,0.9513,1.8895,1
+700,17,Freiwillige Feuerwehr Lanstrop,0.5563,1.4165,1
+701,17,Freiwillige Feuerwehr Lanstrop,0.7358,1.6314,1
+702,17,Freiwillige Feuerwehr Lanstrop,1.2653,2.2657,1
+723,17,Freiwillige Feuerwehr Lanstrop,2.3919,3.6152,1
+724,17,Freiwillige Feuerwehr Lanstrop,1.7492,2.8454,1
+725,17,Freiwillige Feuerwehr Lanstrop,1.1059,2.0748,1
+726,17,Freiwillige Feuerwehr Lanstrop,0.4629,1.3045,1
+727,17,Freiwillige Feuerwehr Lanstrop,0.1819,0.9679,1
+728,17,Freiwillige Feuerwehr Lanstrop,0.8241,1.7372,1
+729,17,Freiwillige Feuerwehr Lanstrop,1.4666,2.5069,1
+746,17,Freiwillige Feuerwehr Lanstrop,2.1513,3.3271,1
+747,17,Freiwillige Feuerwehr Lanstrop,1.5422,2.5974,1
+748,17,Freiwillige Feuerwehr Lanstrop,0.9784,1.922,1
+749,17,Freiwillige Feuerwehr Lanstrop,0.6016,1.4707,1
+750,17,Freiwillige Feuerwehr Lanstrop,0.7706,1.6731,1
+751,17,Freiwillige Feuerwehr Lanstrop,1.2858,2.2902,1
+761,17,Freiwillige Feuerwehr Lanstrop,1.2361,2.2308,1
+46,18,Freiwillige Feuerwehr Hombruch,2.6707,3.9493,0
+47,18,Freiwillige Feuerwehr Hombruch,2.7073,3.9931,0
+58,18,Freiwillige Feuerwehr Hombruch,2.3913,3.6146,0
+59,18,Freiwillige Feuerwehr Hombruch,2.1607,3.3383,0
+60,18,Freiwillige Feuerwehr Hombruch,2.1093,3.2768,0
+61,18,Freiwillige Feuerwehr Hombruch,2.2496,3.4448,0
+62,18,Freiwillige Feuerwehr Hombruch,2.5503,3.8051,0
+73,18,Freiwillige Feuerwehr Hombruch,2.6085,3.8748,0
+74,18,Freiwillige Feuerwehr Hombruch,2.1234,3.2937,0
+75,18,Freiwillige Feuerwehr Hombruch,1.7442,2.8394,0
+76,18,Freiwillige Feuerwehr Hombruch,1.5516,2.6087,0
+77,18,Freiwillige Feuerwehr Hombruch,1.6136,2.683,0
+78,18,Freiwillige Feuerwehr Hombruch,1.9057,3.0329,0
+79,18,Freiwillige Feuerwehr Hombruch,2.3429,3.5566,0
+89,18,Freiwillige Feuerwehr Hombruch,2.6172,3.8851,0
+90,18,Freiwillige Feuerwehr Hombruch,2.0337,3.1862,0
+91,18,Freiwillige Feuerwehr Hombruch,1.5013,2.5484,0
+92,18,Freiwillige Feuerwehr Hombruch,1.0975,2.0647,0
+93,18,Freiwillige Feuerwehr Hombruch,0.9925,1.9389,0
+94,18,Freiwillige Feuerwehr Hombruch,1.2635,2.2635,0
+95,18,Freiwillige Feuerwehr Hombruch,1.7435,2.8385,0
+96,18,Freiwillige Feuerwehr Hombruch,2.3054,3.5116,0
+107,18,Freiwillige Feuerwehr Hombruch,2.1449,3.3194,0
+108,18,Freiwillige Feuerwehr Hombruch,1.5184,2.5689,0
+109,18,Freiwillige Feuerwehr Hombruch,0.9161,1.8474,0
+110,18,Freiwillige Feuerwehr Hombruch,0.4522,1.2918,0
+111,18,Freiwillige Feuerwehr Hombruch,0.6331,1.5084,0
+112,18,Freiwillige Feuerwehr Hombruch,1.1952,2.1818,0
+113,18,Freiwillige Feuerwehr Hombruch,1.8126,2.9213,0
+114,18,Freiwillige Feuerwehr Hombruch,2.4445,3.6783,0
+126,18,Freiwillige Feuerwehr Hombruch,2.4303,3.6614,0
+127,18,Freiwillige Feuerwehr Hombruch,1.787,2.8907,0
+128,18,Freiwillige Feuerwehr Hombruch,1.1454,2.1221,0
+129,18,Freiwillige Feuerwehr Hombruch,0.5126,1.364,0
+130,18,Freiwillige Feuerwehr Hombruch,0.2085,0.9998,0
+131,18,Freiwillige Feuerwehr Hombruch,0.8091,1.7192,0
+132,18,Freiwillige Feuerwehr Hombruch,1.4483,2.485,0
+133,18,Freiwillige Feuerwehr Hombruch,2.091,3.2548,0
+151,18,Freiwillige Feuerwehr Hombruch,2.218,3.4069,0
+152,18,Freiwillige Feuerwehr Hombruch,1.6201,2.6908,0
+153,18,Freiwillige Feuerwehr Hombruch,1.0765,2.0395,0
+154,18,Freiwillige Feuerwehr Hombruch,0.724,1.6173,0
+155,18,Freiwillige Feuerwehr Hombruch,0.8488,1.7668,0
+156,18,Freiwillige Feuerwehr Hombruch,1.3221,2.3338,0
+157,18,Freiwillige Feuerwehr Hombruch,1.8986,3.0243,0
+158,18,Freiwillige Feuerwehr Hombruch,2.5088,3.7553,0
+180,18,Freiwillige Feuerwehr Hombruch,2.1849,3.3673,0
+181,18,Freiwillige Feuerwehr Hombruch,1.7008,2.7874,0
+182,18,Freiwillige Feuerwehr Hombruch,1.3578,2.3766,0
+183,18,Freiwillige Feuerwehr Hombruch,1.2745,2.2768,0
+184,18,Freiwillige Feuerwehr Hombruch,1.4952,2.5411,0
+185,18,Freiwillige Feuerwehr Hombruch,1.9178,3.0474,0
+186,18,Freiwillige Feuerwehr Hombruch,2.4397,3.6726,0
+210,18,Freiwillige Feuerwehr Hombruch,2.3381,3.5508,0
+211,18,Freiwillige Feuerwehr Hombruch,2.0002,3.1461,0
+212,18,Freiwillige Feuerwehr Hombruch,1.8348,2.9479,0
+213,18,Freiwillige Feuerwehr Hombruch,1.8875,3.0111,0
+214,18,Freiwillige Feuerwehr Hombruch,2.1424,3.3164,0
+215,18,Freiwillige Feuerwehr Hombruch,2.5389,3.7914,0
+240,18,Freiwillige Feuerwehr Hombruch,2.645,3.9185,0
+241,18,Freiwillige Feuerwehr Hombruch,2.4387,3.6713,0
+242,18,Freiwillige Feuerwehr Hombruch,2.3933,3.617,0
+243,18,Freiwillige Feuerwehr Hombruch,2.5177,3.766,0
+168,19,Freiwillige Feuerwehr Sölde,2.6245,3.894,0
+169,19,Freiwillige Feuerwehr Sölde,2.328,3.5388,0
+170,19,Freiwillige Feuerwehr Sölde,2.1863,3.3691,0
+171,19,Freiwillige Feuerwehr Sölde,2.2297,3.421,0
+172,19,Freiwillige Feuerwehr Sölde,2.4479,3.6824,0
+196,19,Freiwillige Feuerwehr Sölde,2.4085,3.6351,0
+197,19,Freiwillige Feuerwehr Sölde,1.9793,3.1211,0
+198,19,Freiwillige Feuerwehr Sölde,1.6921,2.777,0
+199,19,Freiwillige Feuerwehr Sölde,1.6247,2.6962,0
+200,19,Freiwillige Feuerwehr Sölde,1.8017,2.9082,0
+225,19,Freiwillige Feuerwehr Sölde,2.3566,3.5731,0
+226,19,Freiwillige Feuerwehr Sölde,1.8038,2.9108,0
+227,19,Freiwillige Feuerwehr Sölde,1.3362,2.3507,0
+228,19,Freiwillige Feuerwehr Sölde,1.0705,2.0324,0
+229,19,Freiwillige Feuerwehr Sölde,1.1565,2.1354,0
+254,19,Freiwillige Feuerwehr Sölde,2.4783,3.7188,0
+255,19,Freiwillige Feuerwehr Sölde,1.8513,2.9677,0
+256,19,Freiwillige Feuerwehr Sölde,1.2429,2.2389,0
+257,19,Freiwillige Feuerwehr Sölde,0.7004,1.589,0
+258,19,Freiwillige Feuerwehr Sölde,0.5165,1.3687,0
+284,19,Freiwillige Feuerwehr Sölde,2.1075,3.2746,0
+285,19,Freiwillige Feuerwehr Sölde,1.4635,2.5031,0
+286,19,Freiwillige Feuerwehr Sölde,0.8209,1.7334,0
+287,19,Freiwillige Feuerwehr Sölde,0.1861,0.9729,0
+288,19,Freiwillige Feuerwehr Sölde,0.4754,1.3195,0
+314,19,Freiwillige Feuerwehr Sölde,2.5081,3.7545,0
+315,19,Freiwillige Feuerwehr Sölde,1.8911,3.0154,0
+316,19,Freiwillige Feuerwehr Sölde,1.3017,2.3093,0
+317,19,Freiwillige Feuerwehr Sölde,0.8002,1.7086,0
+318,19,Freiwillige Feuerwehr Sölde,0.6455,1.5232,0
+346,19,Freiwillige Feuerwehr Sölde,2.419,3.6477,0
+347,19,Freiwillige Feuerwehr Sölde,1.8848,3.0078,0
+348,19,Freiwillige Feuerwehr Sölde,1.4439,2.4797,0
+349,19,Freiwillige Feuerwehr Sölde,1.2024,2.1904,0
+350,19,Freiwillige Feuerwehr Sölde,1.2795,2.2827,0
+378,19,Freiwillige Feuerwehr Sölde,2.4996,3.7443,0
+379,19,Freiwillige Feuerwehr Sölde,2.0896,3.2532,0
+380,19,Freiwillige Feuerwehr Sölde,1.8201,2.9303,0
+381,19,Freiwillige Feuerwehr Sölde,1.7576,2.8554,0
+382,19,Freiwillige Feuerwehr Sölde,1.9223,3.0527,0
+383,19,Freiwillige Feuerwehr Sölde,2.2648,3.4631,0
+412,19,Freiwillige Feuerwehr Sölde,2.4533,3.6888,0
+413,19,Freiwillige Feuerwehr Sölde,2.3194,3.5284,0
+414,19,Freiwillige Feuerwehr Sölde,2.3602,3.5774,0
+415,19,Freiwillige Feuerwehr Sölde,2.5672,3.8253,0
+349,20,Freiwillige Feuerwehr Asseln,2.5486,3.803,0
+350,20,Freiwillige Feuerwehr Asseln,2.4238,3.6535,0
+379,20,Freiwillige Feuerwehr Asseln,2.5652,3.8229,0
+380,20,Freiwillige Feuerwehr Asseln,2.1715,3.3513,0
+381,20,Freiwillige Feuerwehr Asseln,1.9185,3.0483,0
+382,20,Freiwillige Feuerwehr Asseln,1.864,2.9829,0
+383,20,Freiwillige Feuerwehr Asseln,2.0241,3.1747,0
+411,20,Freiwillige Feuerwehr Asseln,2.46,3.6969,0
+412,20,Freiwillige Feuerwehr Asseln,1.9429,3.0774,0
+413,20,Freiwillige Feuerwehr Asseln,1.5246,2.5763,0
+414,20,Freiwillige Feuerwehr Asseln,1.3052,2.3136,0
+415,20,Freiwillige Feuerwehr Asseln,1.3827,2.4064,0
+416,20,Freiwillige Feuerwehr Asseln,1.7175,2.8074,0
+417,20,Freiwillige Feuerwehr Asseln,2.1942,3.3785,0
+440,20,Freiwillige Feuerwehr Asseln,2.522,3.7712,0
+441,20,Freiwillige Feuerwehr Asseln,1.9157,3.0448,0
+442,20,Freiwillige Feuerwehr Asseln,1.3436,2.3596,0
+443,20,Freiwillige Feuerwehr Asseln,0.8781,1.8019,0
+444,20,Freiwillige Feuerwehr Asseln,0.7515,1.6503,0
+445,20,Freiwillige Feuerwehr Asseln,1.0895,2.0551,0
+446,20,Freiwillige Feuerwehr Asseln,1.6245,2.696,0
+447,20,Freiwillige Feuerwehr Asseln,2.2182,3.4072,0
+469,20,Freiwillige Feuerwehr Asseln,2.0982,3.2635,0
+470,20,Freiwillige Feuerwehr Asseln,1.458,2.4966,0
+471,20,Freiwillige Feuerwehr Asseln,0.8221,1.7348,0
+472,20,Freiwillige Feuerwehr Asseln,0.235,1.0315,0
+473,20,Freiwillige Feuerwehr Asseln,0.5133,1.3649,0
+474,20,Freiwillige Feuerwehr Asseln,1.1406,2.1164,0
+475,20,Freiwillige Feuerwehr Asseln,1.7792,2.8813,0
+476,20,Freiwillige Feuerwehr Asseln,2.421,3.6501,0
+499,20,Freiwillige Feuerwehr Asseln,2.4438,3.6775,0
+500,20,Freiwillige Feuerwehr Asseln,1.8117,2.9202,0
+501,20,Freiwillige Feuerwehr Asseln,1.1908,2.1765,0
+502,20,Freiwillige Feuerwehr Asseln,0.6196,1.4922,0
+503,20,Freiwillige Feuerwehr Asseln,0.4215,1.2549,0
+504,20,Freiwillige Feuerwehr Asseln,0.8943,1.8213,0
+505,20,Freiwillige Feuerwehr Asseln,1.5005,2.5474,0
+506,20,Freiwillige Feuerwehr Asseln,2.1289,3.3003,0
+530,20,Freiwillige Feuerwehr Asseln,2.2969,3.5015,0
+531,20,Freiwillige Feuerwehr Asseln,1.7319,2.8247,0
+532,20,Freiwillige Feuerwehr Asseln,1.2449,2.2413,0
+533,20,Freiwillige Feuerwehr Asseln,0.964,1.9048,0
+534,20,Freiwillige Feuerwehr Asseln,1.0666,2.0277,0
+535,20,Freiwillige Feuerwehr Asseln,1.4748,2.5166,0
+536,20,Freiwillige Feuerwehr Asseln,2.0097,3.1575,0
+561,20,Freiwillige Feuerwehr Asseln,2.3274,3.538,0
+562,20,Freiwillige Feuerwehr Asseln,1.885,3.008,0
+563,20,Freiwillige Feuerwehr Asseln,1.5872,2.6514,0
+564,20,Freiwillige Feuerwehr Asseln,1.5209,2.5719,0
+565,20,Freiwillige Feuerwehr Asseln,1.7132,2.8023,0
+566,20,Freiwillige Feuerwehr Asseln,2.0944,3.2589,0
+567,20,Freiwillige Feuerwehr Asseln,2.582,3.8431,0
+592,20,Freiwillige Feuerwehr Asseln,2.529,3.7795,0
+593,20,Freiwillige Feuerwehr Asseln,2.224,3.4142,0
+594,20,Freiwillige Feuerwehr Asseln,2.0799,3.2416,0
+595,20,Freiwillige Feuerwehr Asseln,2.1294,3.3008,0
+622,20,Freiwillige Feuerwehr Asseln,2.679,3.9593,0
+623,20,Freiwillige Feuerwehr Asseln,2.6403,3.9128,0
+224,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.5903,3.853,1
+225,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.4139,3.6416,1
+226,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.4027,3.6282,1
+227,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.5589,3.8154,1
+252,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6882,3.9702,1
+253,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.2582,3.4551,1
+254,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.9494,3.0852,1
+255,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.8252,2.9364,1
+256,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.9215,3.0518,1
+257,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.2099,3.3972,1
+258,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6273,3.8973,1
+281,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6209,3.8897,1
+282,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0797,3.2413,1
+283,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.6159,2.6857,1
+284,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.3146,2.3248,1
+285,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.2939,2.3,1
+286,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.565,2.6248,1
+287,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0138,3.1623,1
+288,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.5479,3.8021,1
+311,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.7105,3.997,1
+312,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0948,3.2594,1
+313,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.5039,2.5515,1
+314,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.9812,1.9254,1
+315,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.7029,1.592,1
+316,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.9246,1.8576,1
+317,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.4304,2.4634,1
+318,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0161,3.1651,1
+343,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.3005,3.5058,1
+344,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.6578,2.736,1
+345,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.0173,1.9687,1
+346,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.39,1.2172,1
+347,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.3133,1.1254,1
+348,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.9344,1.8694,1
+349,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.5744,2.636,1
+350,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.2169,3.4057,1
+374,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6516,3.9263,1
+375,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0181,3.1675,1
+376,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.3952,2.4213,1
+377,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.8049,1.7142,1
+378,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.4235,1.2573,1
+379,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,0.7349,1.6303,1
+380,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.3156,2.326,1
+381,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.9363,3.0695,1
+382,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.5689,3.8274,1
+407,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.4975,3.7418,1
+408,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.9221,3.0525,1
+409,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.4076,2.4362,1
+410,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.0482,2.0056,1
+411,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.0221,1.9744,1
+412,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.3489,2.3659,1
+413,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.8506,2.9669,1
+414,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.4208,3.6499,1
+437,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.5059,3.7519,1
+438,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.0382,3.1915,1
+439,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.6899,2.7743,1
+440,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.5451,2.6008,1
+441,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.6577,2.7357,1
+442,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,1.9845,3.1273,1
+443,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.4405,3.6736,1
+466,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6764,3.9561,1
+467,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.3346,3.5466,1
+468,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.1372,3.3102,1
+469,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.1246,3.2951,1
+470,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.2997,3.5048,1
+471,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6255,3.8952,1
+499,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,2.6679,3.9459,1
+229,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.5943,3.8577,0
+257,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.5625,3.8197,0
+258,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.1938,3.378,0
+286,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.4295,3.6603,0
+287,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.9318,3.0642,0
+288,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.5465,2.6026,0
+316,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.4645,3.7023,0
+317,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.8678,2.9875,0
+318,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.3174,2.3281,0
+347,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.6613,3.938,0
+348,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.0213,3.1714,0
+349,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.3841,2.4081,0
+350,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,0.7589,1.6591,0
+379,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.3491,3.564,0
+380,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.7128,2.8018,0
+381,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.0866,2.0517,0
+382,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,0.5057,1.3557,0
+383,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,0.4005,1.2298,0
+412,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.189,3.3722,0
+413,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.6193,2.6898,0
+414,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.1325,2.1067,0
+415,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,0.8793,1.8034,0
+416,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.0454,2.0023,0
+417,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.4969,2.5432,0
+442,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.2138,3.402,0
+443,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.7744,2.8756,0
+444,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.4912,2.5364,0
+445,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.4589,2.4977,0
+446,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,1.6919,2.7768,0
+447,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.104,3.2704,0
+471,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.4189,3.6477,0
+472,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.1241,3.2945,0
+473,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.0007,3.1466,0
+474,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.079,3.2404,0
+475,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.3388,3.5517,0
+503,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.5912,3.8541,0
+504,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.5728,3.832,0
+505,22,Feuer- und Rettungswache 7 - Flughafen/Airport 21,2.7117,3.9983,0
+72,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.4719,3.7111,1
+73,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6236,3.8929,1
+88,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.8953,3.0204,1
+89,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.9872,3.1305,1
+90,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.2666,3.4652,1
+91,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6754,3.9549,1
+105,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.3828,2.4065,1
+106,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.3617,2.3812,1
+107,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.6209,2.6917,1
+108,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.0566,3.2136,1
+109,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.5816,3.8425,1
+125,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.773,1.676,1
+126,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.9769,1.9203,1
+127,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.4637,2.5034,1
+128,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.0401,3.1939,1
+129,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6476,3.9216,1
+147,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.6697,2.7502,1
+148,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.0333,1.9879,1
+149,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.4229,1.2566,1
+150,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.3477,1.1665,1
+151,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.9454,1.8825,1
+152,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.5798,2.6424,1
+153,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.2204,3.4099,1
+174,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6458,3.9194,1
+175,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.0093,3.157,1
+176,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.3792,2.4022,1
+177,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.774,1.6772,1
+178,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.3542,1.1744,1
+179,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.6944,1.5819,1
+180,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.2923,2.2981,1
+181,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.9208,3.0509,1
+182,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.5566,3.8126,1
+204,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.4748,3.7146,1
+205,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.8912,3.0155,1
+206,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.3626,2.3823,1
+207,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.9839,1.9286,1
+208,23,Feuer- und Umweltwache 8 - Eichlinghofen,0.954,1.8928,1
+209,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.2972,2.304,1
+210,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.8123,2.921,1
+211,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.3913,3.6146,1
+234,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.4672,3.7055,1
+235,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.988,3.1315,1
+236,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.6277,2.6999,1
+237,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.4751,2.5171,1
+238,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.5914,2.6564,1
+239,23,Feuer- und Umweltwache 8 - Eichlinghofen,1.9288,3.0606,1
+240,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.3956,3.6198,1
+264,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6245,3.8939,1
+265,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.2734,3.4734,1
+266,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.0688,3.2282,1
+267,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.0547,3.2114,1
+268,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.2348,3.4271,1
+269,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.5682,3.8265,1
+296,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6875,3.9694,1
+297,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.5979,3.8621,1
+298,23,Feuer- und Umweltwache 8 - Eichlinghofen,2.6657,3.9432,1
+105,24,Freiwillige Feuerwehr Oespel,2.3233,3.5332,1
+106,24,Freiwillige Feuerwehr Oespel,2.701,3.9855,1
+125,24,Freiwillige Feuerwehr Oespel,2.0716,3.2316,1
+126,24,Freiwillige Feuerwehr Oespel,2.5697,3.8283,1
+147,24,Freiwillige Feuerwehr Oespel,0.9058,1.835,1
+148,24,Freiwillige Feuerwehr Oespel,1.0283,1.9819,1
+149,24,Freiwillige Feuerwehr Oespel,1.458,2.4965,1
+150,24,Freiwillige Feuerwehr Oespel,2.0057,3.1526,1
+151,24,Freiwillige Feuerwehr Oespel,2.5985,3.8628,1
+173,24,Freiwillige Feuerwehr Oespel,1.7806,2.883,1
+174,24,Freiwillige Feuerwehr Oespel,1.1537,2.132,1
+175,24,Freiwillige Feuerwehr Oespel,0.5686,1.4311,1
+176,24,Freiwillige Feuerwehr Oespel,0.3811,1.2065,1
+177,24,Freiwillige Feuerwehr Oespel,0.8928,1.8195,1
+178,24,Freiwillige Feuerwehr Oespel,1.5101,2.5589,1
+179,24,Freiwillige Feuerwehr Oespel,2.1428,3.3169,1
+202,24,Freiwillige Feuerwehr Oespel,2.0834,3.2457,1
+203,24,Freiwillige Feuerwehr Oespel,1.4451,2.4811,1
+204,24,Freiwillige Feuerwehr Oespel,0.8149,1.7262,1
+205,24,Freiwillige Feuerwehr Oespel,0.2667,1.0695,1
+206,24,Freiwillige Feuerwehr Oespel,0.5551,1.415,1
+207,24,Freiwillige Feuerwehr Oespel,1.1731,2.1553,1
+208,24,Freiwillige Feuerwehr Oespel,1.8091,2.9171,1
+209,24,Freiwillige Feuerwehr Oespel,2.4499,3.6847,1
+232,24,Freiwillige Feuerwehr Oespel,1.9188,3.0485,1
+233,24,Freiwillige Feuerwehr Oespel,1.3575,2.3761,1
+234,24,Freiwillige Feuerwehr Oespel,0.9139,1.8448,1
+235,24,Freiwillige Feuerwehr Oespel,0.8107,1.7211,1
+236,24,Freiwillige Feuerwehr Oespel,1.1441,2.1205,1
+237,24,Freiwillige Feuerwehr Oespel,1.6709,2.7516,1
+238,24,Freiwillige Feuerwehr Oespel,2.2589,3.456,1
+261,24,Freiwillige Feuerwehr Oespel,2.4724,3.7118,1
+262,24,Freiwillige Feuerwehr Oespel,1.965,3.1039,1
+263,24,Freiwillige Feuerwehr Oespel,1.5612,2.6201,1
+264,24,Freiwillige Feuerwehr Oespel,1.3581,2.3769,1
+265,24,Freiwillige Feuerwehr Oespel,1.4427,2.4782,1
+266,24,Freiwillige Feuerwehr Oespel,1.7746,2.8758,1
+267,24,Freiwillige Feuerwehr Oespel,2.2462,3.4407,1
+293,24,Freiwillige Feuerwehr Oespel,2.5915,3.8543,1
+294,24,Freiwillige Feuerwehr Oespel,1.9672,3.1065,1
+295,24,Freiwillige Feuerwehr Oespel,1.9214,3.0517,1
+296,24,Freiwillige Feuerwehr Oespel,2.0841,3.2465,1
+297,24,Freiwillige Feuerwehr Oespel,2.4137,3.6414,1
+325,24,Freiwillige Feuerwehr Oespel,2.5948,3.8583,1
+326,24,Freiwillige Feuerwehr Oespel,2.478,3.7184,1
+327,24,Freiwillige Feuerwehr Oespel,2.5253,3.7751,1
+424,25,Freiwillige Feuerwehr Deusen,2.6096,3.8761,1
+425,25,Freiwillige Feuerwehr Deusen,2.4645,3.7023,1
+426,25,Freiwillige Feuerwehr Deusen,2.4832,3.7247,1
+427,25,Freiwillige Feuerwehr Deusen,2.6623,3.9392,1
+451,25,Freiwillige Feuerwehr Deusen,2.6513,3.926,1
+452,25,Freiwillige Feuerwehr Deusen,2.2472,3.442,1
+453,25,Freiwillige Feuerwehr Deusen,1.975,3.1158,1
+454,25,Freiwillige Feuerwehr Deusen,1.8917,3.0161,1
+455,25,Freiwillige Feuerwehr Deusen,2.0213,3.1714,1
+456,25,Freiwillige Feuerwehr Deusen,2.3281,3.5389,1
+481,25,Freiwillige Feuerwehr Deusen,2.5535,3.8089,1
+482,25,Freiwillige Feuerwehr Deusen,2.032,3.1842,1
+483,25,Freiwillige Feuerwehr Deusen,1.6013,2.6682,1
+484,25,Freiwillige Feuerwehr Deusen,1.352,2.3696,1
+485,25,Freiwillige Feuerwehr Deusen,1.3858,2.4101,1
+486,25,Freiwillige Feuerwehr Deusen,1.6858,2.7694,1
+487,25,Freiwillige Feuerwehr Deusen,2.1424,3.3164,1
+488,25,Freiwillige Feuerwehr Deusen,2.6774,3.9573,1
+511,25,Freiwillige Feuerwehr Deusen,2.617,3.8849,1
+512,25,Freiwillige Feuerwehr Deusen,2.011,3.159,1
+513,25,Freiwillige Feuerwehr Deusen,1.437,2.4714,1
+514,25,Freiwillige Feuerwehr Deusen,0.9569,1.8963,1
+515,25,Freiwillige Feuerwehr Deusen,0.7706,1.6731,1
+516,25,Freiwillige Feuerwehr Deusen,1.0493,2.0069,1
+517,25,Freiwillige Feuerwehr Deusen,1.5605,2.6194,1
+518,25,Freiwillige Feuerwehr Deusen,2.1446,3.3191,1
+542,25,Freiwillige Feuerwehr Deusen,2.19,3.3734,1
+543,25,Freiwillige Feuerwehr Deusen,1.5509,2.6079,1
+544,25,Freiwillige Feuerwehr Deusen,0.9168,1.8482,1
+545,25,Freiwillige Feuerwehr Deusen,0.3235,1.1375,1
+546,25,Freiwillige Feuerwehr Deusen,0.444,1.2819,1
+547,25,Freiwillige Feuerwehr Deusen,1.0575,2.0167,1
+548,25,Freiwillige Feuerwehr Deusen,1.6929,2.7779,1
+549,25,Freiwillige Feuerwehr Deusen,2.3332,3.545,1
+572,25,Freiwillige Feuerwehr Deusen,2.5269,3.777,1
+573,25,Freiwillige Feuerwehr Deusen,1.8924,3.0169,1
+574,25,Freiwillige Feuerwehr Deusen,1.2659,2.2665,1
+575,25,Freiwillige Feuerwehr Deusen,0.6735,1.5568,1
+576,25,Freiwillige Feuerwehr Deusen,0.363,1.1849,1
+577,25,Freiwillige Feuerwehr Deusen,0.7992,1.7074,1
+578,25,Freiwillige Feuerwehr Deusen,1.4045,2.4325,1
+579,25,Freiwillige Feuerwehr Deusen,2.0338,3.1864,1
+580,25,Freiwillige Feuerwehr Deusen,2.6694,3.9477,1
+601,25,Freiwillige Feuerwehr Deusen,2.3652,3.5833,1
+602,25,Freiwillige Feuerwehr Deusen,1.79,2.8942,1
+603,25,Freiwillige Feuerwehr Deusen,1.2805,2.2839,1
+604,25,Freiwillige Feuerwehr Deusen,0.9507,1.8889,1
+605,25,Freiwillige Feuerwehr Deusen,0.9982,1.9457,1
+606,25,Freiwillige Feuerwehr Deusen,1.3846,2.4087,1
+607,25,Freiwillige Feuerwehr Deusen,1.9143,3.0432,1
+608,25,Freiwillige Feuerwehr Deusen,2.4984,3.7429,1
+629,25,Freiwillige Feuerwehr Deusen,2.3751,3.5951,1
+630,25,Freiwillige Feuerwehr Deusen,1.9138,3.0426,1
+631,25,Freiwillige Feuerwehr Deusen,1.5856,2.6494,1
+632,25,Freiwillige Feuerwehr Deusen,1.4806,2.5237,1
+633,25,Freiwillige Feuerwehr Deusen,1.6429,2.7181,1
+634,25,Freiwillige Feuerwehr Deusen,2.0082,3.1556,1
+635,25,Freiwillige Feuerwehr Deusen,2.4892,3.7319,1
+656,25,Freiwillige Feuerwehr Deusen,2.5545,3.81,1
+657,25,Freiwillige Feuerwehr Deusen,2.2274,3.4182,1
+658,25,Freiwillige Feuerwehr Deusen,2.0556,3.2125,1
+659,25,Freiwillige Feuerwehr Deusen,2.078,3.2393,1
+660,25,Freiwillige Feuerwehr Deusen,2.2888,3.4918,1
+661,25,Freiwillige Feuerwehr Deusen,2.643,3.9161,1
+684,25,Freiwillige Feuerwehr Deusen,2.664,3.9413,1
+685,25,Freiwillige Feuerwehr Deusen,2.603,3.8681,1
+686,25,Freiwillige Feuerwehr Deusen,2.6985,3.9826,1
+449,26,Freiwillige Feuerwehr Nette,2.713,4,0
+450,26,Freiwillige Feuerwehr Nette,2.5379,3.7902,0
+451,26,Freiwillige Feuerwehr Nette,2.52,3.7687,0
+452,26,Freiwillige Feuerwehr Nette,2.6624,3.9393,0
+479,26,Freiwillige Feuerwehr Nette,2.3726,3.5922,0
+480,26,Freiwillige Feuerwehr Nette,2.0729,3.2332,0
+481,26,Freiwillige Feuerwehr Nette,1.9472,3.0826,0
+482,26,Freiwillige Feuerwehr Nette,2.0284,3.1799,0
+483,26,Freiwillige Feuerwehr Nette,2.2948,3.499,0
+484,26,Freiwillige Feuerwehr Nette,2.692,3.9748,0
+508,26,Freiwillige Feuerwehr Nette,2.704,3.9892,0
+509,26,Freiwillige Feuerwehr Nette,2.1766,3.3574,0
+510,26,Freiwillige Feuerwehr Nette,1.729,2.8212,0
+511,26,Freiwillige Feuerwehr Nette,1.4388,2.4736,0
+512,26,Freiwillige Feuerwehr Nette,1.4069,2.4354,0
+513,26,Freiwillige Feuerwehr Nette,1.6484,2.7246,0
+514,26,Freiwillige Feuerwehr Nette,2.0692,3.2287,0
+515,26,Freiwillige Feuerwehr Nette,2.5838,3.8452,0
+539,26,Freiwillige Feuerwehr Nette,2.1637,3.3419,0
+540,26,Freiwillige Feuerwehr Nette,1.5873,2.6514,0
+541,26,Freiwillige Feuerwehr Nette,1.0896,2.0553,0
+542,26,Freiwillige Feuerwehr Nette,0.8259,1.7393,0
+543,26,Freiwillige Feuerwehr Nette,1.0024,1.9508,0
+544,26,Freiwillige Feuerwehr Nette,1.4685,2.5091,0
+545,26,Freiwillige Feuerwehr Nette,2.0339,3.1864,0
+546,26,Freiwillige Feuerwehr Nette,2.6349,3.9063,0
+569,26,Freiwillige Feuerwehr Nette,2.3371,3.5497,0
+570,26,Freiwillige Feuerwehr Nette,1.6997,2.7861,0
+571,26,Freiwillige Feuerwehr Nette,1.0682,2.0296,0
+572,26,Freiwillige Feuerwehr Nette,0.4711,1.3144,0
+573,26,Freiwillige Feuerwehr Nette,0.3623,1.184,0
+574,26,Freiwillige Feuerwehr Nette,0.9321,1.8666,0
+575,26,Freiwillige Feuerwehr Nette,1.5598,2.6185,0
+576,26,Freiwillige Feuerwehr Nette,2.197,3.3819,0
+597,26,Freiwillige Feuerwehr Nette,2.6608,3.9375,0
+598,26,Freiwillige Feuerwehr Nette,2.0233,3.1737,0
+599,26,Freiwillige Feuerwehr Nette,1.39,2.4151,0
+600,26,Freiwillige Feuerwehr Nette,0.7747,1.6781,0
+601,26,Freiwillige Feuerwehr Nette,0.3084,1.1194,0
+602,26,Freiwillige Feuerwehr Nette,0.6464,1.5244,0
+603,26,Freiwillige Feuerwehr Nette,1.2527,2.2506,0
+604,26,Freiwillige Feuerwehr Nette,1.8839,3.0067,0
+605,26,Freiwillige Feuerwehr Nette,2.5207,3.7696,0
+625,26,Freiwillige Feuerwehr Nette,2.477,3.7172,0
+626,26,Freiwillige Feuerwehr Nette,1.8875,3.011,0
+627,26,Freiwillige Feuerwehr Nette,1.3473,2.3639,0
+628,26,Freiwillige Feuerwehr Nette,0.9467,1.8841,0
+629,26,Freiwillige Feuerwehr Nette,0.8976,1.8252,0
+630,26,Freiwillige Feuerwehr Nette,1.2422,2.238,0
+631,26,Freiwillige Feuerwehr Nette,1.7626,2.8614,0
+632,26,Freiwillige Feuerwehr Nette,2.3453,3.5594,0
+652,26,Freiwillige Feuerwehr Nette,2.4553,3.6912,0
+653,26,Freiwillige Feuerwehr Nette,1.9665,3.1058,0
+654,26,Freiwillige Feuerwehr Nette,1.5924,2.6576,0
+655,26,Freiwillige Feuerwehr Nette,1.425,2.4571,0
+656,26,Freiwillige Feuerwehr Nette,1.5341,2.5877,0
+657,26,Freiwillige Feuerwehr Nette,1.872,2.9925,0
+658,26,Freiwillige Feuerwehr Nette,2.3418,3.5553,0
+679,26,Freiwillige Feuerwehr Nette,2.5998,3.8643,0
+680,26,Freiwillige Feuerwehr Nette,2.2387,3.4318,0
+681,26,Freiwillige Feuerwehr Nette,2.0232,3.1736,0
+682,26,Freiwillige Feuerwehr Nette,2.0006,3.1466,0
+683,26,Freiwillige Feuerwehr Nette,2.1771,3.358,0
+684,26,Freiwillige Feuerwehr Nette,2.5106,3.7575,0
+707,26,Freiwillige Feuerwehr Nette,2.6446,3.918,0
+708,26,Freiwillige Feuerwehr Nette,2.5473,3.8015,0
+709,26,Freiwillige Feuerwehr Nette,2.6099,3.8764,0
+19,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.6847,3.9661,0
+31,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.0379,3.1913,0
+32,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.3996,3.6245,0
+44,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.3914,2.4168,0
+45,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.7681,2.8681,0
+46,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.2691,3.4682,0
+57,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.7474,1.6453,0
+58,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.1546,2.1331,0
+59,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.714,2.8032,0
+60,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.3185,3.5274,0
+72,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.7019,1.5909,0
+73,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.1396,0.9172,0
+74,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.6144,1.486,0
+75,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.252,2.2498,0
+76,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.8946,3.0196,0
+77,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.5378,3.79,0
+88,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.0987,2.0662,0
+89,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.5648,1.4266,0
+90,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.5113,1.3625,0
+91,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.0177,1.9691,0
+92,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.6248,2.6963,0
+93,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.2533,3.4492,0
+105,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.6613,2.7401,0
+106,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.2069,2.1958,0
+107,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,0.9917,1.938,0
+108,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.1582,2.1374,0
+109,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.591,2.6559,0
+110,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.1337,3.306,0
+125,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.8527,2.9693,0
+126,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.5951,2.6608,0
+127,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.5769,2.639,0
+128,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,1.8058,2.9132,0
+129,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.2056,3.3921,0
+130,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.7021,3.9869,0
+149,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.4992,3.7439,0
+150,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.2233,3.4134,0
+151,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.1143,3.2827,0
+152,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.1973,3.3822,0
+153,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.4531,3.6886,0
+179,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.7004,3.9849,0
+180,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,2.6897,3.9721,0
+11,28,Freiwillige Feuerwehr Holzen,2.6617,3.9385,1
+12,28,Freiwillige Feuerwehr Holzen,2.2084,3.3955,1
+16,28,Freiwillige Feuerwehr Holzen,2.6238,3.8931,1
+17,28,Freiwillige Feuerwehr Holzen,2.0648,3.2235,1
+18,28,Freiwillige Feuerwehr Holzen,1.5723,2.6335,1
+26,28,Freiwillige Feuerwehr Holzen,2.1181,3.2873,1
+27,28,Freiwillige Feuerwehr Holzen,1.5097,2.5585,1
+28,28,Freiwillige Feuerwehr Holzen,0.9518,1.8902,1
+29,28,Freiwillige Feuerwehr Holzen,0.6029,1.4722,1
+30,28,Freiwillige Feuerwehr Holzen,0.808,1.718,1
+38,28,Freiwillige Feuerwehr Holzen,2.3552,3.5713,1
+39,28,Freiwillige Feuerwehr Holzen,1.7108,2.7994,1
+40,28,Freiwillige Feuerwehr Holzen,1.0657,2.0267,1
+41,28,Freiwillige Feuerwehr Holzen,0.4213,1.2547,1
+42,28,Freiwillige Feuerwehr Holzen,0.227,1.0219,1
+43,28,Freiwillige Feuerwehr Holzen,0.8704,1.7927,1
+52,28,Freiwillige Feuerwehr Holzen,2.1001,3.2657,1
+53,28,Freiwillige Feuerwehr Holzen,1.4845,2.5284,1
+54,28,Freiwillige Feuerwehr Holzen,0.9115,1.8419,1
+55,28,Freiwillige Feuerwehr Holzen,0.5371,1.3934,1
+56,28,Freiwillige Feuerwehr Holzen,0.7602,1.6607,1
+65,28,Freiwillige Feuerwehr Holzen,2.5946,3.8582,1
+66,28,Freiwillige Feuerwehr Holzen,2.0279,3.1793,1
+67,28,Freiwillige Feuerwehr Holzen,1.5238,2.5754,1
+68,28,Freiwillige Feuerwehr Holzen,1.1678,2.149,1
+69,28,Freiwillige Feuerwehr Holzen,1.1126,2.0828,1
+70,28,Freiwillige Feuerwehr Holzen,1.3942,2.4201,1
+71,28,Freiwillige Feuerwehr Holzen,1.8655,2.9847,1
+82,28,Freiwillige Feuerwehr Holzen,2.6186,3.8869,1
+83,28,Freiwillige Feuerwehr Holzen,2.1566,3.3335,1
+84,28,Freiwillige Feuerwehr Holzen,1.8106,2.919,1
+85,28,Freiwillige Feuerwehr Holzen,1.6541,2.7315,1
+86,28,Freiwillige Feuerwehr Holzen,1.7394,2.8337,1
+87,28,Freiwillige Feuerwehr Holzen,2.0364,3.1895,1
+100,28,Freiwillige Feuerwehr Holzen,2.4557,3.6917,1
+101,28,Freiwillige Feuerwehr Holzen,2.2523,3.448,1
+102,28,Freiwillige Feuerwehr Holzen,2.2241,3.4143,1
+103,28,Freiwillige Feuerwehr Holzen,2.3775,3.5981,1
+104,28,Freiwillige Feuerwehr Holzen,2.6811,3.9618,1
+242,29,Institut für Feuerwehr- und Rettungstechnologie,2.7087,3.9948,0
+243,29,Institut für Feuerwehr- und Rettungstechnologie,2.4717,3.7109,0
+244,29,Institut für Feuerwehr- und Rettungstechnologie,2.3896,3.6126,0
+245,29,Institut für Feuerwehr- und Rettungstechnologie,2.4782,3.7187,0
+271,29,Institut für Feuerwehr- und Rettungstechnologie,2.4276,3.658,0
+272,29,Institut für Feuerwehr- und Rettungstechnologie,2.0619,3.2199,0
+273,29,Institut für Feuerwehr- und Rettungstechnologie,1.854,2.971,0
+274,29,Institut für Feuerwehr- und Rettungstechnologie,1.8584,2.9762,0
+275,29,Institut für Feuerwehr- und Rettungstechnologie,2.0735,3.2339,0
+276,29,Institut für Feuerwehr- und Rettungstechnologie,2.4445,3.6783,0
+301,29,Institut für Feuerwehr- und Rettungstechnologie,2.2999,3.5051,0
+302,29,Institut für Feuerwehr- und Rettungstechnologie,1.7974,2.9032,0
+303,29,Institut für Feuerwehr- und Rettungstechnologie,1.4154,2.4455,0
+304,29,Institut für Feuerwehr- und Rettungstechnologie,1.2666,2.2672,0
+305,29,Institut für Feuerwehr- und Rettungstechnologie,1.4267,2.459,0
+306,29,Institut für Feuerwehr- und Rettungstechnologie,1.8152,2.9245,0
+307,29,Institut für Feuerwehr- und Rettungstechnologie,2.3207,3.53,0
+332,29,Institut für Feuerwehr- und Rettungstechnologie,2.3497,3.5647,0
+333,29,Institut für Feuerwehr- und Rettungstechnologie,1.7458,2.8413,0
+334,29,Institut für Feuerwehr- und Rettungstechnologie,1.1859,2.1706,0
+335,29,Institut für Feuerwehr- und Rettungstechnologie,0.7699,1.6722,0
+336,29,Institut für Feuerwehr- und Rettungstechnologie,0.7802,1.6846,0
+337,29,Institut für Feuerwehr- und Rettungstechnologie,1.206,2.1947,0
+338,29,Institut für Feuerwehr- und Rettungstechnologie,1.7693,2.8694,0
+339,29,Institut für Feuerwehr- und Rettungstechnologie,2.3734,3.5932,0
+363,29,Institut für Feuerwehr- und Rettungstechnologie,2.5671,3.8251,0
+364,29,Institut für Feuerwehr- und Rettungstechnologie,1.9249,3.0558,0
+365,29,Institut für Feuerwehr- und Rettungstechnologie,1.2833,2.2873,0
+366,29,Institut für Feuerwehr- und Rettungstechnologie,0.6478,1.5261,0
+367,29,Institut für Feuerwehr- und Rettungstechnologie,0.144,0.9225,0
+368,29,Institut für Feuerwehr- und Rettungstechnologie,0.6722,1.5552,0
+369,29,Institut für Feuerwehr- und Rettungstechnologie,1.3081,2.317,0
+370,29,Institut für Feuerwehr- und Rettungstechnologie,1.9497,3.0856,0
+371,29,Institut für Feuerwehr- und Rettungstechnologie,2.5919,3.8549,0
+396,29,Institut für Feuerwehr- und Rettungstechnologie,2.2798,3.481,0
+397,29,Institut für Feuerwehr- und Rettungstechnologie,1.6508,2.7275,0
+398,29,Institut für Feuerwehr- und Rettungstechnologie,1.0411,1.9972,0
+399,29,Institut für Feuerwehr- und Rettungstechnologie,0.5201,1.373,0
+400,29,Institut für Feuerwehr- und Rettungstechnologie,0.5352,1.3912,0
+401,29,Institut für Feuerwehr- und Rettungstechnologie,1.064,2.0246,0
+402,29,Institut für Feuerwehr- und Rettungstechnologie,1.6756,2.7572,0
+403,29,Institut für Feuerwehr- und Rettungstechnologie,2.3043,3.5104,0
+426,29,Institut für Feuerwehr- und Rettungstechnologie,2.1549,3.3313,0
+427,29,Institut für Feuerwehr- und Rettungstechnologie,1.608,2.6763,0
+428,29,Institut für Feuerwehr- und Rettungstechnologie,1.1656,2.1463,0
+429,29,Institut für Feuerwehr- und Rettungstechnologie,0.9797,1.9236,0
+430,29,Institut für Feuerwehr- und Rettungstechnologie,1.1793,2.1627,0
+431,29,Institut für Feuerwehr- und Rettungstechnologie,1.6278,2.7,0
+432,29,Institut für Feuerwehr- und Rettungstechnologie,2.1771,3.3579,0
+455,29,Institut für Feuerwehr- und Rettungstechnologie,2.2192,3.4084,0
+456,29,Institut für Feuerwehr- und Rettungstechnologie,1.8122,2.9209,0
+457,29,Institut für Feuerwehr- und Rettungstechnologie,1.5719,2.633,0
+458,29,Institut für Feuerwehr- und Rettungstechnologie,1.577,2.6391,0
+459,29,Institut für Feuerwehr- und Rettungstechnologie,1.8254,2.9367,0
+460,29,Institut für Feuerwehr- und Rettungstechnologie,2.2377,3.4306,0
+486,29,Institut für Feuerwehr- und Rettungstechnologie,2.4591,3.6958,0
+487,29,Institut für Feuerwehr- und Rettungstechnologie,2.1955,3.38,0
+488,29,Institut für Feuerwehr- und Rettungstechnologie,2.1027,3.2689,0
+489,29,Institut für Feuerwehr- und Rettungstechnologie,2.2028,3.3888,0
+490,29,Institut für Feuerwehr- und Rettungstechnologie,2.4721,3.7113,0
+518,29,Institut für Feuerwehr- und Rettungstechnologie,2.6821,3.963,0
+519,29,Institut für Feuerwehr- und Rettungstechnologie,2.6851,3.9665,0
+258,30,Bundespolizeirevier Flughafen Dortmund,2.7125,3.9994,1
+287,30,Bundespolizeirevier Flughafen Dortmund,2.5002,3.745,1
+288,30,Bundespolizeirevier Flughafen Dortmund,2.0676,3.2268,1
+317,30,Bundespolizeirevier Flughafen Dortmund,2.4457,3.6798,1
+318,30,Bundespolizeirevier Flughafen Dortmund,1.8956,3.0208,1
+348,30,Bundespolizeirevier Flughafen Dortmund,2.5599,3.8166,1
+349,30,Bundespolizeirevier Flughafen Dortmund,1.9359,3.069,1
+350,30,Bundespolizeirevier Flughafen Dortmund,1.3312,2.3446,1
+380,30,Bundespolizeirevier Flughafen Dortmund,2.177,3.3578,1
+381,30,Bundespolizeirevier Flughafen Dortmund,1.5334,2.5869,1
+382,30,Bundespolizeirevier Flughafen Dortmund,0.8892,1.8152,1
+383,30,Bundespolizeirevier Flughafen Dortmund,0.2458,1.0445,1
+412,30,Bundespolizeirevier Flughafen Dortmund,2.5636,3.8209,1
+413,30,Bundespolizeirevier Flughafen Dortmund,1.9408,3.0749,1
+414,30,Bundespolizeirevier Flughafen Dortmund,1.3385,2.3534,1
+415,30,Bundespolizeirevier Flughafen Dortmund,0.8046,1.7138,1
+416,30,Bundespolizeirevier Flughafen Dortmund,0.5756,1.4395,1
+417,30,Bundespolizeirevier Flughafen Dortmund,0.9188,1.8507,1
+442,30,Bundespolizeirevier Flughafen Dortmund,2.4535,3.689,1
+443,30,Bundespolizeirevier Flughafen Dortmund,1.9058,3.033,1
+444,30,Bundespolizeirevier Flughafen Dortmund,1.4394,2.4743,1
+445,30,Bundespolizeirevier Flughafen Dortmund,1.1583,2.1376,1
+446,30,Bundespolizeirevier Flughafen Dortmund,1.2001,2.1876,1
+447,30,Bundespolizeirevier Flughafen Dortmund,1.539,2.5936,1
+471,30,Bundespolizeirevier Flughafen Dortmund,2.5117,3.7588,1
+472,30,Bundespolizeirevier Flughafen Dortmund,2.0818,3.2438,1
+473,30,Bundespolizeirevier Flughafen Dortmund,1.786,2.8895,1
+474,30,Bundespolizeirevier Flughafen Dortmund,1.6952,2.7808,1
+475,30,Bundespolizeirevier Flughafen Dortmund,1.8403,2.9545,1
+476,30,Bundespolizeirevier Flughafen Dortmund,2.1747,3.3551,1
+503,30,Bundespolizeirevier Flughafen Dortmund,2.4239,3.6537,1
+504,30,Bundespolizeirevier Flughafen Dortmund,2.2684,3.4673,1
+505,30,Bundespolizeirevier Flughafen Dortmund,2.29,3.4932,1
+506,30,Bundespolizeirevier Flughafen Dortmund,2.4844,3.7261,1
+243,31,City-Wache Ordnungsamt & Polizei,2.6055,3.8712,0
+244,31,City-Wache Ordnungsamt & Polizei,2.36,3.5771,0
+245,31,City-Wache Ordnungsamt & Polizei,2.2763,3.4768,0
+246,31,City-Wache Ordnungsamt & Polizei,2.3712,3.5904,0
+247,31,City-Wache Ordnungsamt & Polizei,2.6256,3.8953,0
+272,31,City-Wache Ordnungsamt & Polizei,2.3382,3.551,0
+273,31,City-Wache Ordnungsamt & Polizei,1.958,3.0955,0
+274,31,City-Wache Ordnungsamt & Polizei,1.741,2.8355,0
+275,31,City-Wache Ordnungsamt & Polizei,1.7485,2.8446,0
+276,31,City-Wache Ordnungsamt & Polizei,1.9784,3.1199,0
+277,31,City-Wache Ordnungsamt & Polizei,2.3662,3.5845,0
+302,31,City-Wache Ordnungsamt & Polizei,2.2323,3.4241,0
+303,31,City-Wache Ordnungsamt & Polizei,1.7138,2.803,0
+304,31,City-Wache Ordnungsamt & Polizei,1.3109,2.3203,0
+305,31,City-Wache Ordnungsamt & Polizei,1.1533,2.1315,0
+306,31,City-Wache Ordnungsamt & Polizei,1.3308,2.3442,0
+307,31,City-Wache Ordnungsamt & Polizei,1.7442,2.8394,0
+308,31,City-Wache Ordnungsamt & Polizei,2.2674,3.4661,0
+333,31,City-Wache Ordnungsamt & Polizei,2.3101,3.5174,0
+334,31,City-Wache Ordnungsamt & Polizei,1.6961,2.7817,0
+335,31,City-Wache Ordnungsamt & Polizei,1.1151,2.0858,0
+336,31,City-Wache Ordnungsamt & Polizei,0.6641,1.5455,0
+337,31,City-Wache Ordnungsamt & Polizei,0.6836,1.5689,0
+338,31,City-Wache Ordnungsamt & Polizei,1.1505,2.1282,0
+339,31,City-Wache Ordnungsamt & Polizei,1.7344,2.8276,0
+340,31,City-Wache Ordnungsamt & Polizei,2.3503,3.5655,0
+364,31,City-Wache Ordnungsamt & Polizei,2.5556,3.8114,0
+365,31,City-Wache Ordnungsamt & Polizei,1.9115,3.0398,0
+366,31,City-Wache Ordnungsamt & Polizei,1.2681,2.269,0
+367,31,City-Wache Ordnungsamt & Polizei,0.6242,1.4977,0
+368,31,City-Wache Ordnungsamt & Polizei,0.0365,0.7937,0
+369,31,City-Wache Ordnungsamt & Polizei,0.665,1.5466,0
+370,31,City-Wache Ordnungsamt & Polizei,1.3089,2.3179,0
+371,31,City-Wache Ordnungsamt & Polizei,1.9523,3.0887,0
+372,31,City-Wache Ordnungsamt & Polizei,2.5965,3.8603,0
+397,31,City-Wache Ordnungsamt & Polizei,2.2953,3.4995,0
+398,31,City-Wache Ordnungsamt & Polizei,1.6759,2.7576,0
+399,31,City-Wache Ordnungsamt & Polizei,1.0844,2.049,0
+400,31,City-Wache Ordnungsamt & Polizei,0.6112,1.4821,0
+401,31,City-Wache Ordnungsamt & Polizei,0.6323,1.5075,0
+402,31,City-Wache Ordnungsamt & Polizei,1.1208,2.0926,0
+403,31,City-Wache Ordnungsamt & Polizei,1.7147,2.804,0
+404,31,City-Wache Ordnungsamt & Polizei,2.3357,3.5479,0
+427,31,City-Wache Ordnungsamt & Polizei,2.2015,3.3873,0
+428,31,City-Wache Ordnungsamt & Polizei,1.6738,2.755,0
+429,31,City-Wache Ordnungsamt & Polizei,1.2583,2.2574,0
+430,31,City-Wache Ordnungsamt & Polizei,1.0932,2.0596,0
+431,31,City-Wache Ordnungsamt & Polizei,1.279,2.2822,0
+432,31,City-Wache Ordnungsamt & Polizei,1.7049,2.7923,0
+433,31,City-Wache Ordnungsamt & Polizei,2.2371,3.4298,0
+456,31,City-Wache Ordnungsamt & Polizei,2.2942,3.4982,0
+457,31,City-Wache Ordnungsamt & Polizei,1.9055,3.0326,0
+458,31,City-Wache Ordnungsamt & Polizei,1.6819,2.7647,0
+459,31,City-Wache Ordnungsamt & Polizei,1.6897,2.7741,0
+460,31,City-Wache Ordnungsamt & Polizei,1.9264,3.0577,0
+461,31,City-Wache Ordnungsamt & Polizei,2.3226,3.5323,0
+487,31,City-Wache Ordnungsamt & Polizei,2.5529,3.8082,0
+488,31,City-Wache Ordnungsamt & Polizei,2.3021,3.5077,0
+489,31,City-Wache Ordnungsamt & Polizei,2.2162,3.4048,0
+490,31,City-Wache Ordnungsamt & Polizei,2.3135,3.5214,0
+491,31,City-Wache Ordnungsamt & Polizei,2.5734,3.8328,0
+258,32,Polizeiwache Flughafen,2.6481,3.9222,0
+287,32,Polizeiwache Flughafen,2.4302,3.6611,0
+288,32,Polizeiwache Flughafen,2.0025,3.1488,0
+317,32,Polizeiwache Flughafen,2.3741,3.5939,0
+318,32,Polizeiwache Flughafen,1.8243,2.9354,0
+348,32,Polizeiwache Flughafen,2.4915,3.7346,0
+349,32,Polizeiwache Flughafen,1.8661,2.9854,0
+350,32,Polizeiwache Flughafen,1.2598,2.2591,0
+380,32,Polizeiwache Flughafen,2.1152,3.2838,0
+381,32,Polizeiwache Flughafen,1.4718,2.5131,0
+382,32,Polizeiwache Flughafen,0.8281,1.742,0
+383,32,Polizeiwache Flughafen,0.1887,0.976,0
+412,32,Polizeiwache Flughafen,2.5112,3.7582,0
+413,32,Polizeiwache Flughafen,1.8925,3.017,0
+414,32,Polizeiwache Flughafen,1.2987,2.3057,0
+415,32,Polizeiwache Flughafen,0.7889,1.6951,0
+416,32,Polizeiwache Flughafen,0.6218,1.4948,0
+417,32,Polizeiwache Flughafen,0.9898,1.9357,0
+442,32,Polizeiwache Flughafen,2.4154,3.6434,0
+443,32,Polizeiwache Flughafen,1.878,2.9997,0
+444,32,Polizeiwache Flughafen,1.4307,2.4638,0
+445,32,Polizeiwache Flughafen,1.1819,2.1658,0
+446,32,Polizeiwache Flughafen,1.2552,2.2536,0
+447,32,Polizeiwache Flughafen,1.6075,2.6757,0
+471,32,Polizeiwache Flughafen,2.4906,3.7336,0
+472,32,Polizeiwache Flughafen,2.0758,3.2366,0
+473,32,Polizeiwache Flughafen,1.8013,2.9078,0
+474,32,Polizeiwache Flughafen,1.7347,2.828,0
+475,32,Polizeiwache Flughafen,1.8979,3.0235,0
+476,32,Polizeiwache Flughafen,2.2416,3.4353,0
+503,32,Polizeiwache Flughafen,2.4352,3.6672,0
+504,32,Polizeiwache Flughafen,2.2979,3.5027,0
+505,32,Polizeiwache Flughafen,2.3365,3.5489,0
+506,32,Polizeiwache Flughafen,2.5431,3.7965,0
+116,33,Polizeiwache Hörde,2.5576,3.8138,1
+117,33,Polizeiwache Hörde,2.4655,3.7034,1
+118,33,Polizeiwache Hörde,2.5389,3.7914,1
+134,33,Polizeiwache Hörde,2.5179,3.7663,1
+135,33,Polizeiwache Hörde,2.1519,3.3278,1
+136,33,Polizeiwache Hörde,1.9373,3.0707,1
+137,33,Polizeiwache Hörde,1.9249,3.0559,1
+138,33,Polizeiwache Hörde,2.1187,3.288,1
+139,33,Polizeiwache Hörde,2.4701,3.7089,1
+158,33,Polizeiwache Hörde,2.3837,3.6055,1
+159,33,Polizeiwache Hörde,1.8862,3.0095,1
+160,33,Polizeiwache Hörde,1.5052,2.5531,1
+161,33,Polizeiwache Hörde,1.3426,2.3584,1
+162,33,Polizeiwache Hörde,1.4731,2.5147,1
+163,33,Polizeiwache Hörde,1.8354,2.9486,1
+164,33,Polizeiwache Hörde,2.3228,3.5326,1
+186,33,Polizeiwache Hörde,2.4211,3.6502,1
+187,33,Polizeiwache Hörde,1.8234,2.9343,1
+188,33,Polizeiwache Hörde,1.2712,2.2727,1
+189,33,Polizeiwache Hörde,0.8593,1.7794,1
+190,33,Polizeiwache Hörde,0.8311,1.7456,1
+191,33,Polizeiwache Hörde,1.2141,2.2044,1
+192,33,Polizeiwache Hörde,1.7567,2.8544,1
+193,33,Polizeiwache Hörde,2.3517,3.5672,1
+215,33,Polizeiwache Hörde,2.6235,3.8927,1
+216,33,Polizeiwache Hörde,1.9819,3.1241,1
+217,33,Polizeiwache Hörde,1.3431,2.359,1
+218,33,Polizeiwache Hörde,0.7156,1.6073,1
+219,33,Polizeiwache Hörde,0.2221,1.0161,1
+220,33,Polizeiwache Hörde,0.6455,1.5232,1
+221,33,Polizeiwache Hörde,1.2708,2.2723,1
+222,33,Polizeiwache Hörde,1.9083,3.0359,1
+223,33,Polizeiwache Hörde,2.5496,3.8043,1
+245,33,Polizeiwache Hörde,2.317,3.5256,1
+246,33,Polizeiwache Hörde,1.6829,2.766,1
+247,33,Polizeiwache Hörde,1.06,2.0198,1
+248,33,Polizeiwache Hörde,0.4964,1.3446,1
+249,33,Polizeiwache Hörde,0.4457,1.2839,1
+250,33,Polizeiwache Hörde,0.9908,1.9369,1
+251,33,Polizeiwache Hörde,1.6104,2.6792,1
+252,33,Polizeiwache Hörde,2.2444,3.4386,1
+275,33,Polizeiwache Hörde,2.1671,3.346,1
+276,33,Polizeiwache Hörde,1.604,2.6715,1
+277,33,Polizeiwache Hörde,1.1319,2.106,1
+278,33,Polizeiwache Hörde,0.9048,1.8338,1
+279,33,Polizeiwache Hörde,1.089,2.0545,1
+280,33,Polizeiwache Hörde,1.544,2.5995,1
+281,33,Polizeiwache Hörde,2.1,3.2656,1
+282,33,Polizeiwache Hörde,2.696,3.9796,1
+306,33,Polizeiwache Hörde,2.205,3.3914,1
+307,33,Polizeiwache Hörde,1.7759,2.8774,1
+308,33,Polizeiwache Hörde,1.5089,2.5576,1
+309,33,Polizeiwache Hörde,1.493,2.5385,1
+310,33,Polizeiwache Hörde,1.7355,2.829,1
+311,33,Polizeiwache Hörde,2.1502,3.3258,1
+312,33,Polizeiwache Hörde,2.6584,3.9345,1
+338,33,Polizeiwache Hörde,2.4216,3.6509,1
+339,33,Polizeiwache Hörde,2.1385,3.3117,1
+340,33,Polizeiwache Hörde,2.0274,3.1787,1
+341,33,Polizeiwache Hörde,2.116,3.2848,1
+342,33,Polizeiwache Hörde,2.3823,3.6038,1
+371,33,Polizeiwache Hörde,2.6134,3.8807,1
+372,33,Polizeiwache Hörde,2.6043,3.8697,1
+298,34,Polizeiwache Huckarde,2.6919,3.9747,1
+299,34,Polizeiwache Huckarde,2.6222,3.8912,1
+300,34,Polizeiwache Huckarde,2.7084,3.9945,1
+328,34,Polizeiwache Huckarde,2.5933,3.8566,1
+329,34,Polizeiwache Huckarde,2.2611,3.4587,1
+330,34,Polizeiwache Huckarde,2.0804,3.2421,1
+331,34,Polizeiwache Huckarde,2.091,3.2549,1
+332,34,Polizeiwache Huckarde,2.2905,3.4938,1
+333,34,Polizeiwache Huckarde,2.6364,3.9081,1
+359,34,Polizeiwache Huckarde,2.4178,3.6463,1
+360,34,Polizeiwache Huckarde,1.9536,3.0903,1
+361,34,Polizeiwache Huckarde,1.6181,2.6884,1
+362,34,Polizeiwache Huckarde,1.4993,2.546,1
+363,34,Polizeiwache Huckarde,1.6454,2.7211,1
+364,34,Polizeiwache Huckarde,1.9987,3.1443,1
+365,34,Polizeiwache Huckarde,2.4725,3.7118,1
+391,34,Polizeiwache Huckarde,2.4086,3.6353,1
+392,34,Polizeiwache Huckarde,1.8325,2.9452,1
+393,34,Polizeiwache Huckarde,1.3213,2.3328,1
+394,34,Polizeiwache Huckarde,0.9804,1.9244,1
+395,34,Polizeiwache Huckarde,1.0028,1.9513,1
+396,34,Polizeiwache Huckarde,1.3709,2.3923,1
+397,34,Polizeiwache Huckarde,1.8929,3.0175,1
+398,34,Polizeiwache Huckarde,2.4725,3.7118,1
+420,34,Polizeiwache Huckarde,2.5679,3.8262,1
+421,34,Polizeiwache Huckarde,1.9338,3.0665,1
+422,34,Polizeiwache Huckarde,1.308,2.3169,1
+423,34,Polizeiwache Huckarde,0.716,1.6078,1
+424,34,Polizeiwache Huckarde,0.3774,1.2021,1
+425,34,Polizeiwache Huckarde,0.7758,1.6793,1
+426,34,Polizeiwache Huckarde,1.3744,2.3964,1
+427,34,Polizeiwache Huckarde,2.0017,3.1479,1
+428,34,Polizeiwache Huckarde,2.6364,3.9082,1
+449,34,Polizeiwache Huckarde,2.2262,3.4168,1
+450,34,Polizeiwache Huckarde,1.5854,2.6491,1
+451,34,Polizeiwache Huckarde,0.9494,1.8874,1
+452,34,Polizeiwache Huckarde,0.3419,1.1596,1
+453,34,Polizeiwache Huckarde,0.4017,1.2313,1
+454,34,Polizeiwache Huckarde,1.0174,1.9687,1
+455,34,Polizeiwache Huckarde,1.6548,2.7323,1
+456,34,Polizeiwache Huckarde,2.2952,3.4994,1
+479,34,Polizeiwache Huckarde,2.6476,3.9216,1
+480,34,Polizeiwache Huckarde,2.0386,3.192,1
+481,34,Polizeiwache Huckarde,1.4586,2.4973,1
+482,34,Polizeiwache Huckarde,0.9642,1.9051,1
+483,34,Polizeiwache Huckarde,0.748,1.6461,1
+484,34,Polizeiwache Huckarde,1.0094,1.9591,1
+485,34,Polizeiwache Huckarde,1.5185,2.569,1
+486,34,Polizeiwache Huckarde,2.1031,3.2693,1
+510,34,Polizeiwache Huckarde,2.5755,3.8353,1
+511,34,Polizeiwache Huckarde,2.0472,3.2024,1
+512,34,Polizeiwache Huckarde,1.6061,2.674,1
+513,34,Polizeiwache Huckarde,1.3399,2.3551,1
+514,34,Polizeiwache Huckarde,1.3564,2.3748,1
+515,34,Polizeiwache Huckarde,1.6472,2.7232,1
+516,34,Polizeiwache Huckarde,2.1014,3.2673,1
+517,34,Polizeiwache Huckarde,2.6353,3.9069,1
+541,34,Polizeiwache Huckarde,2.6636,3.9408,1
+542,34,Polizeiwache Huckarde,2.251,3.4465,1
+543,34,Polizeiwache Huckarde,1.9671,3.1064,1
+544,34,Polizeiwache Huckarde,1.8706,2.9908,1
+545,34,Polizeiwache Huckarde,1.9896,3.1333,1
+546,34,Polizeiwache Huckarde,2.2902,3.4935,1
+573,34,Polizeiwache Huckarde,2.6039,3.8693,1
+574,34,Polizeiwache Huckarde,2.4487,3.6834,1
+575,34,Polizeiwache Huckarde,2.4578,3.6942,1
+576,34,Polizeiwache Huckarde,2.6294,3.8998,1
+272,35,Polizeiwache Nord,2.5544,3.81,1
+273,35,Polizeiwache Nord,2.3012,3.5067,1
+274,35,Polizeiwache Nord,2.2128,3.4008,1
+275,35,Polizeiwache Nord,2.308,3.5148,1
+276,35,Polizeiwache Nord,2.5666,3.8246,1
+302,35,Polizeiwache Nord,2.2978,3.5025,1
+303,35,Polizeiwache Nord,1.9072,3.0346,1
+304,35,Polizeiwache Nord,1.6801,2.7626,1
+305,35,Polizeiwache Nord,1.6847,2.7682,1
+306,35,Polizeiwache Nord,1.919,3.0489,1
+307,35,Polizeiwache Nord,2.3147,3.5228,1
+333,35,Polizeiwache Nord,2.2073,3.3941,1
+334,35,Polizeiwache Nord,1.678,2.7601,1
+335,35,Polizeiwache Nord,1.2596,2.2589,1
+336,35,Polizeiwache Nord,1.0898,2.0555,1
+337,35,Polizeiwache Nord,1.2719,2.2737,1
+338,35,Polizeiwache Nord,1.6965,2.7822,1
+339,35,Polizeiwache Nord,2.2284,3.4194,1
+364,35,Polizeiwache Nord,2.3033,3.5091,1
+365,35,Polizeiwache Nord,1.6827,2.7658,1
+366,35,Polizeiwache Nord,1.0906,2.0565,1
+367,35,Polizeiwache Nord,0.6124,1.4836,1
+368,35,Polizeiwache Nord,0.625,1.4987,1
+369,35,Polizeiwache Nord,1.1113,2.0812,1
+370,35,Polizeiwache Nord,1.7057,2.7933,1
+371,35,Polizeiwache Nord,2.3262,3.5366,1
+396,35,Polizeiwache Nord,2.5637,3.8211,1
+397,35,Polizeiwache Nord,1.9196,3.0495,1
+398,35,Polizeiwache Nord,1.2763,2.2789,1
+399,35,Polizeiwache Nord,0.6326,1.5078,1
+400,35,Polizeiwache Nord,0.0354,0.7924,1
+401,35,Polizeiwache Nord,0.6568,1.5368,1
+402,35,Polizeiwache Nord,1.3005,2.3079,1
+403,35,Polizeiwache Nord,1.9438,3.0786,1
+404,35,Polizeiwache Nord,2.5879,3.8501,1
+426,35,Polizeiwache Nord,2.3192,3.5282,1
+427,35,Polizeiwache Nord,1.7047,2.7921,1
+428,35,Polizeiwache Nord,1.1244,2.0969,1
+429,35,Polizeiwache Nord,0.6708,1.5536,1
+430,35,Polizeiwache Nord,0.6823,1.5674,1
+431,35,Polizeiwache Nord,1.1444,2.1209,1
+432,35,Polizeiwache Nord,1.7274,2.8193,1
+433,35,Polizeiwache Nord,2.342,3.5555,1
+455,35,Polizeiwache Nord,2.2406,3.4341,1
+456,35,Polizeiwache Nord,1.7219,2.8126,1
+457,35,Polizeiwache Nord,1.3177,2.3285,1
+458,35,Polizeiwache Nord,1.1565,2.1354,1
+459,35,Polizeiwache Nord,1.3295,2.3426,1
+460,35,Polizeiwache Nord,1.7399,2.8342,1
+461,35,Polizeiwache Nord,2.2614,3.459,1
+486,35,Polizeiwache Nord,2.3458,3.5601,1
+487,35,Polizeiwache Nord,1.9651,3.104,1
+488,35,Polizeiwache Nord,1.7457,2.8412,1
+489,35,Polizeiwache Nord,1.7502,2.8465,1
+490,35,Polizeiwache Nord,1.9766,3.1178,1
+491,35,Polizeiwache Nord,2.3624,3.5799,1
+517,35,Polizeiwache Nord,2.6121,3.8791,1
+518,35,Polizeiwache Nord,2.3654,3.5835,1
+519,35,Polizeiwache Nord,2.2795,3.4807,1
+520,35,Polizeiwache Nord,2.3719,3.5914,1
+521,35,Polizeiwache Nord,2.624,3.8934,1
+217,36,Bundespolizeiinspektion Dortmund,2.615,3.8826,0
+218,36,Bundespolizeiinspektion Dortmund,2.3383,3.5511,0
+219,36,Bundespolizeiinspektion Dortmund,2.2194,3.4087,0
+220,36,Bundespolizeiinspektion Dortmund,2.2833,3.4852,0
+221,36,Bundespolizeiinspektion Dortmund,2.5163,3.7644,0
+246,36,Bundespolizeiinspektion Dortmund,2.3795,3.6004,0
+247,36,Bundespolizeiinspektion Dortmund,1.9684,3.108,0
+248,36,Bundespolizeiinspektion Dortmund,1.7083,2.7964,0
+249,36,Bundespolizeiinspektion Dortmund,1.6707,2.7514,0
+250,36,Bundespolizeiinspektion Dortmund,1.8694,2.9894,0
+251,36,Bundespolizeiinspektion Dortmund,2.242,3.4357,0
+275,36,Bundespolizeiinspektion Dortmund,2.3067,3.5133,0
+276,36,Bundespolizeiinspektion Dortmund,1.7661,2.8656,0
+277,36,Bundespolizeiinspektion Dortmund,1.3224,2.3341,0
+278,36,Bundespolizeiinspektion Dortmund,1.0986,2.066,0
+279,36,Bundespolizeiinspektion Dortmund,1.2226,2.2145,0
+280,36,Bundespolizeiinspektion Dortmund,1.6164,2.6863,0
+281,36,Bundespolizeiinspektion Dortmund,2.1351,3.3077,0
+282,36,Bundespolizeiinspektion Dortmund,2.7087,3.9947,0
+305,36,Bundespolizeiinspektion Dortmund,2.412,3.6393,0
+306,36,Bundespolizeiinspektion Dortmund,1.7899,2.8941,0
+307,36,Bundespolizeiinspektion Dortmund,1.1903,2.1758,0
+308,36,Bundespolizeiinspektion Dortmund,0.6788,1.5631,0
+309,36,Bundespolizeiinspektion Dortmund,0.5776,1.442,0
+310,36,Bundespolizeiinspektion Dortmund,1.0183,1.9698,0
+311,36,Bundespolizeiinspektion Dortmund,1.6026,2.6698,0
+312,36,Bundespolizeiinspektion Dortmund,2.2207,3.4102,0
+336,36,Bundespolizeiinspektion Dortmund,2.6749,3.9544,0
+337,36,Bundespolizeiinspektion Dortmund,2.0307,3.1826,0
+338,36,Bundespolizeiinspektion Dortmund,1.3865,2.4109,0
+339,36,Bundespolizeiinspektion Dortmund,0.7431,1.6402,0
+340,36,Bundespolizeiinspektion Dortmund,0.1024,0.8727,0
+341,36,Bundespolizeiinspektion Dortmund,0.5461,1.4042,0
+342,36,Bundespolizeiinspektion Dortmund,1.19,2.1755,0
+343,36,Bundespolizeiinspektion Dortmund,1.8335,2.9464,0
+344,36,Bundespolizeiinspektion Dortmund,2.4777,3.7181,0
+368,36,Bundespolizeiinspektion Dortmund,2.4251,3.6551,0
+369,36,Bundespolizeiinspektion Dortmund,1.8077,2.9155,0
+370,36,Bundespolizeiinspektion Dortmund,1.2171,2.208,0
+371,36,Bundespolizeiinspektion Dortmund,0.725,1.6185,0
+372,36,Bundespolizeiinspektion Dortmund,0.6313,1.5063,0
+373,36,Bundespolizeiinspektion Dortmund,1.0496,2.0073,0
+374,36,Bundespolizeiinspektion Dortmund,1.6226,2.6937,0
+375,36,Bundespolizeiinspektion Dortmund,2.235,3.4274,0
+401,36,Bundespolizeiinspektion Dortmund,2.3343,3.5463,0
+402,36,Bundespolizeiinspektion Dortmund,1.8023,2.909,0
+403,36,Bundespolizeiinspektion Dortmund,1.3705,2.3918,0
+404,36,Bundespolizeiinspektion Dortmund,1.1562,2.135,0
+405,36,Bundespolizeiinspektion Dortmund,1.2745,2.2768,0
+406,36,Bundespolizeiinspektion Dortmund,1.6559,2.7336,0
+407,36,Bundespolizeiinspektion Dortmund,2.165,3.3435,0
+431,36,Bundespolizeiinspektion Dortmund,2.4197,3.6486,0
+432,36,Bundespolizeiinspektion Dortmund,2.0171,3.1663,0
+433,36,Bundespolizeiinspektion Dortmund,1.7644,2.8636,0
+434,36,Bundespolizeiinspektion Dortmund,1.728,2.82,0
+435,36,Bundespolizeiinspektion Dortmund,1.9207,3.0508,0
+436,36,Bundespolizeiinspektion Dortmund,2.2847,3.4869,0
+460,36,Bundespolizeiinspektion Dortmund,2.6639,3.9412,0
+461,36,Bundespolizeiinspektion Dortmund,2.3931,3.6168,0
+462,36,Bundespolizeiinspektion Dortmund,2.2772,3.4779,0
+463,36,Bundespolizeiinspektion Dortmund,2.3395,3.5525,0
+464,36,Bundespolizeiinspektion Dortmund,2.5672,3.8253,0
+318,37,Polizeiwache Asseln,2.6821,3.9629,1
+348,37,Polizeiwache Asseln,2.3765,3.5968,1
+349,37,Polizeiwache Asseln,2.1621,3.34,1
+350,37,Polizeiwache Asseln,2.1287,3.3001,1
+378,37,Polizeiwache Asseln,2.568,3.8263,1
+379,37,Polizeiwache Asseln,2.093,3.2572,1
+380,37,Polizeiwache Asseln,1.7301,2.8225,1
+381,37,Polizeiwache Asseln,1.5607,2.6196,1
+382,37,Polizeiwache Asseln,1.6454,2.721,1
+383,37,Polizeiwache Asseln,1.9511,3.0873,1
+410,37,Polizeiwache Asseln,2.5656,3.8233,1
+411,37,Polizeiwache Asseln,1.9877,3.1311,1
+412,37,Polizeiwache Asseln,1.4665,2.5068,1
+413,37,Polizeiwache Asseln,1.0853,2.0502,1
+414,37,Polizeiwache Asseln,1.0173,1.9687,1
+415,37,Polizeiwache Asseln,1.3117,2.3212,1
+416,37,Polizeiwache Asseln,1.7989,2.9049,1
+417,37,Polizeiwache Asseln,2.3618,3.5793,1
+440,37,Polizeiwache Asseln,2.0877,3.2509,1
+441,37,Polizeiwache Asseln,1.4645,2.5043,1
+442,37,Polizeiwache Asseln,0.8705,1.7927,1
+443,37,Polizeiwache Asseln,0.4477,1.2863,1
+444,37,Polizeiwache Asseln,0.6869,1.5728,1
+445,37,Polizeiwache Asseln,1.2535,2.2515,1
+446,37,Polizeiwache Asseln,1.8711,2.9914,1
+447,37,Polizeiwache Asseln,2.502,3.7472,1
+468,37,Polizeiwache Asseln,2.3679,3.5865,1
+469,37,Polizeiwache Asseln,1.7251,2.8166,1
+470,37,Polizeiwache Asseln,1.0846,2.0493,1
+471,37,Polizeiwache Asseln,0.4515,1.2909,1
+472,37,Polizeiwache Asseln,0.2467,1.0455,1
+473,37,Polizeiwache Asseln,0.8638,1.7848,1
+474,37,Polizeiwache Asseln,1.5038,2.5514,1
+475,37,Polizeiwache Asseln,2.1455,3.3201,1
+499,37,Polizeiwache Asseln,2.1552,3.3317,1
+500,37,Polizeiwache Asseln,1.5593,2.6179,1
+501,37,Polizeiwache Asseln,1.0222,1.9745,1
+502,37,Polizeiwache Asseln,0.6983,1.5866,1
+503,37,Polizeiwache Asseln,0.8712,1.7936,1
+504,37,Polizeiwache Asseln,1.3631,2.3829,1
+505,37,Polizeiwache Asseln,1.9461,3.0813,1
+506,37,Polizeiwache Asseln,2.5585,3.8149,1
+529,37,Polizeiwache Asseln,2.6747,3.9541,1
+530,37,Polizeiwache Asseln,2.127,3.2979,1
+531,37,Polizeiwache Asseln,1.6507,2.7273,1
+532,37,Polizeiwache Asseln,1.3238,2.3358,1
+533,37,Polizeiwache Asseln,1.2686,2.2697,1
+534,37,Polizeiwache Asseln,1.5148,2.5646,1
+535,37,Polizeiwache Asseln,1.9518,3.0881,1
+536,37,Polizeiwache Asseln,2.48,3.7209,1
+561,37,Polizeiwache Asseln,2.2893,3.4924,1
+562,37,Polizeiwache Asseln,1.9633,3.1018,1
+563,37,Polizeiwache Asseln,1.8159,2.9253,1
+564,37,Polizeiwache Asseln,1.8891,3.013,1
+565,37,Polizeiwache Asseln,2.1605,3.338,1
+566,37,Polizeiwache Asseln,2.5683,3.8267,1
+592,37,Polizeiwache Asseln,2.6068,3.8727,1
+593,37,Polizeiwache Asseln,2.4132,3.6408,1
+594,37,Polizeiwache Asseln,2.3834,3.6051,1
+595,37,Polizeiwache Asseln,2.523,3.7723,1
+429,38,Polizeiwache Eving,2.6948,3.9782,1
+430,38,Polizeiwache Eving,2.6967,3.9804,1
+456,38,Polizeiwache Eving,2.4718,3.711,1
+457,38,Polizeiwache Eving,2.2084,3.3954,1
+458,38,Polizeiwache Eving,2.1149,3.2835,1
+459,38,Polizeiwache Eving,2.213,3.401,1
+460,38,Polizeiwache Eving,2.4801,3.721,1
+486,38,Polizeiwache Eving,2.2307,3.4222,1
+487,38,Polizeiwache Eving,1.8249,2.9361,1
+488,38,Polizeiwache Eving,1.5848,2.6485,1
+489,38,Polizeiwache Eving,1.588,2.6523,1
+490,38,Polizeiwache Eving,1.833,2.9458,1
+491,38,Polizeiwache Eving,2.2422,3.4359,1
+516,38,Polizeiwache Eving,2.1632,3.3414,1
+517,38,Polizeiwache Eving,1.6188,2.6892,1
+518,38,Polizeiwache Eving,1.178,2.1611,1
+519,38,Polizeiwache Eving,0.9919,1.9382,1
+520,38,Polizeiwache Eving,1.1866,2.1715,1
+521,38,Polizeiwache Eving,1.6314,2.7043,1
+522,38,Polizeiwache Eving,2.1774,3.3583,1
+546,38,Polizeiwache Eving,2.2854,3.4878,1
+547,38,Polizeiwache Eving,1.6576,2.7357,1
+548,38,Polizeiwache Eving,1.0499,2.0077,1
+549,38,Polizeiwache Eving,0.5327,1.3881,1
+550,38,Polizeiwache Eving,0.5422,1.3995,1
+551,38,Polizeiwache Eving,1.0638,2.0244,1
+552,38,Polizeiwache Eving,1.673,2.7541,1
+553,38,Polizeiwache Eving,2.3004,3.5057,1
+576,38,Polizeiwache Eving,2.5693,3.8278,1
+577,38,Polizeiwache Eving,1.9267,3.058,1
+578,38,Polizeiwache Eving,1.2859,2.2904,1
+579,38,Polizeiwache Eving,0.6488,1.5273,1
+580,38,Polizeiwache Eving,0.1314,0.9074,1
+581,38,Polizeiwache Eving,0.6644,1.5459,1
+582,38,Polizeiwache Eving,1.3017,2.3093,1
+583,38,Polizeiwache Eving,1.9426,3.077,1
+584,38,Polizeiwache Eving,2.5852,3.8469,1
+605,38,Polizeiwache Eving,2.3488,3.5637,1
+606,38,Polizeiwache Eving,1.7441,2.8393,1
+607,38,Polizeiwache Eving,1.1819,2.1658,1
+608,38,Polizeiwache Eving,0.7605,1.6611,1
+609,38,Polizeiwache Eving,0.7672,1.6691,1
+610,38,Polizeiwache Eving,1.1943,2.1806,1
+611,38,Polizeiwache Eving,1.7587,2.8568,1
+612,38,Polizeiwache Eving,2.3633,3.5811,1
+633,38,Polizeiwache Eving,2.2951,3.4993,1
+634,38,Polizeiwache Eving,1.7914,2.896,1
+635,38,Polizeiwache Eving,1.406,2.4343,1
+636,38,Polizeiwache Eving,1.2543,2.2525,1
+637,38,Polizeiwache Eving,1.4133,2.443,1
+638,38,Polizeiwache Eving,1.8028,2.9096,1
+639,38,Polizeiwache Eving,2.3084,3.5153,1
+660,38,Polizeiwache Eving,2.4204,3.6495,1
+661,38,Polizeiwache Eving,2.0528,3.2091,1
+662,38,Polizeiwache Eving,1.8427,2.9574,1
+663,38,Polizeiwache Eving,1.8455,2.9608,1
+664,38,Polizeiwache Eving,2.0599,3.2176,1
+665,38,Polizeiwache Eving,2.431,3.6621,1
+687,38,Polizeiwache Eving,2.6995,3.9838,1
+688,38,Polizeiwache Eving,2.4608,3.6978,1
+689,38,Polizeiwache Eving,2.3774,3.5979,1
+690,38,Polizeiwache Eving,2.4649,3.7028,1
+691,38,Polizeiwache Eving,2.7071,3.9929,1
+74,39,Polizeiwache Hombruch,2.517,3.7651,1
+75,39,Polizeiwache Hombruch,2.3403,3.5535,1
+76,39,Polizeiwache Hombruch,2.3347,3.5468,1
+77,39,Polizeiwache Hombruch,2.501,3.746,1
+89,39,Polizeiwache Hombruch,2.6259,3.8956,1
+90,39,Polizeiwache Hombruch,2.1887,3.3719,1
+91,39,Polizeiwache Hombruch,1.8754,2.9965,1
+92,39,Polizeiwache Hombruch,1.7537,2.8507,1
+93,39,Polizeiwache Hombruch,1.8613,2.9797,1
+94,39,Polizeiwache Hombruch,2.1641,3.3424,1
+95,39,Polizeiwache Hombruch,2.5951,3.8587,1
+106,39,Polizeiwache Hombruch,2.5697,3.8283,1
+107,39,Polizeiwache Hombruch,2.0207,3.1707,1
+108,39,Polizeiwache Hombruch,1.548,2.6044,1
+109,39,Polizeiwache Hombruch,1.2403,2.2358,1
+110,39,Polizeiwache Hombruch,1.2297,2.223,1
+111,39,Polizeiwache Hombruch,1.5218,2.573,1
+112,39,Polizeiwache Hombruch,1.9879,3.1313,1
+113,39,Polizeiwache Hombruch,2.533,3.7843,1
+125,39,Polizeiwache Hombruch,2.6738,3.953,1
+126,39,Polizeiwache Hombruch,2.0535,3.21,1
+127,39,Polizeiwache Hombruch,1.4535,2.4911,1
+128,39,Polizeiwache Hombruch,0.9163,1.8476,1
+129,39,Polizeiwache Hombruch,0.6308,1.5057,1
+130,39,Polizeiwache Hombruch,0.887,1.8126,1
+131,39,Polizeiwache Hombruch,1.4161,2.4464,1
+132,39,Polizeiwache Hombruch,2.014,3.1627,1
+133,39,Polizeiwache Hombruch,2.6341,3.9055,1
+150,39,Polizeiwache Hombruch,2.2773,3.478,1
+151,39,Polizeiwache Hombruch,1.633,2.7062,1
+152,39,Polizeiwache Hombruch,0.9899,1.9358,1
+153,39,Polizeiwache Hombruch,0.3497,1.1689,1
+154,39,Polizeiwache Hombruch,0.3097,1.121,1
+155,39,Polizeiwache Hombruch,0.9485,1.8862,1
+156,39,Polizeiwache Hombruch,1.5922,2.6573,1
+157,39,Polizeiwache Hombruch,2.2358,3.4283,1
+178,39,Polizeiwache Hombruch,2.6444,3.9178,1
+179,39,Polizeiwache Hombruch,2.0153,3.1641,1
+180,39,Polizeiwache Hombruch,1.399,2.4259,1
+181,39,Polizeiwache Hombruch,0.8274,1.7411,1
+182,39,Polizeiwache Hombruch,0.493,1.3406,1
+183,39,Polizeiwache Hombruch,0.7949,1.7023,1
+184,39,Polizeiwache Hombruch,1.3602,2.3795,1
+185,39,Polizeiwache Hombruch,1.975,3.1159,1
+186,39,Polizeiwache Hombruch,2.6043,3.8697,1
+208,39,Polizeiwache Hombruch,2.5083,3.7547,1
+209,39,Polizeiwache Hombruch,1.9423,3.0767,1
+210,39,Polizeiwache Hombruch,1.4444,2.4802,1
+211,39,Polizeiwache Hombruch,1.1085,2.0778,1
+212,39,Polizeiwache Hombruch,1.0965,2.0635,1
+213,39,Polizeiwache Hombruch,1.4163,2.4466,1
+214,39,Polizeiwache Hombruch,1.9081,3.0358,1
+215,39,Polizeiwache Hombruch,2.4706,3.7096,1
+238,39,Polizeiwache Hombruch,2.5354,3.7872,1
+239,39,Polizeiwache Hombruch,2.0796,3.2412,1
+240,39,Polizeiwache Hombruch,1.7471,2.8428,1
+241,39,Polizeiwache Hombruch,1.6158,2.6856,1
+242,39,Polizeiwache Hombruch,1.7319,2.8247,1
+243,39,Polizeiwache Hombruch,2.0537,3.2101,1
+244,39,Polizeiwache Hombruch,2.5035,3.749,1
+269,39,Polizeiwache Hombruch,2.3906,3.6137,1
+270,39,Polizeiwache Hombruch,2.204,3.3902,1
+271,39,Polizeiwache Hombruch,2.198,3.383,1
+272,39,Polizeiwache Hombruch,2.3737,3.5935,1
+273,39,Polizeiwache Hombruch,2.6962,3.9798,1
+248,40,Polizeiwache Körne,2.6825,3.9634,1
+249,40,Polizeiwache Körne,2.5324,3.7837,1
+250,40,Polizeiwache Körne,2.5419,3.7949,1
+251,40,Polizeiwache Körne,2.7088,3.9949,1
+277,40,Polizeiwache Körne,2.321,3.5303,1
+278,40,Polizeiwache Körne,2.0469,3.202,1
+279,40,Polizeiwache Körne,1.9552,3.0921,1
+280,40,Polizeiwache Körne,2.07,3.2297,1
+281,40,Polizeiwache Körne,2.3613,3.5787,1
+306,40,Polizeiwache Körne,2.6187,3.887,1
+307,40,Polizeiwache Körne,2.1013,3.2672,1
+308,40,Polizeiwache Körne,1.6748,2.7563,1
+309,40,Polizeiwache Körne,1.4221,2.4536,1
+310,40,Polizeiwache Körne,1.4388,2.4736,1
+311,40,Polizeiwache Körne,1.7166,2.8063,1
+312,40,Polizeiwache Körne,2.1573,3.3343,1
+313,40,Polizeiwache Körne,2.6811,3.9617,1
+337,40,Polizeiwache Körne,2.6717,3.9505,1
+338,40,Polizeiwache Körne,2.0692,3.2287,1
+339,40,Polizeiwache Körne,1.5024,2.5497,1
+340,40,Polizeiwache Körne,1.0296,1.9834,1
+341,40,Polizeiwache Körne,0.8325,1.7473,1
+342,40,Polizeiwache Körne,1.0749,2.0377,1
+343,40,Polizeiwache Körne,1.564,2.6235,1
+344,40,Polizeiwache Körne,2.1372,3.3102,1
+369,40,Polizeiwache Körne,2.2334,3.4255,1
+370,40,Polizeiwache Körne,1.5959,2.6617,1
+371,40,Polizeiwache Körne,0.9678,1.9093,1
+372,40,Polizeiwache Körne,0.3928,1.2205,1
+373,40,Polizeiwache Körne,0.4494,1.2884,1
+374,40,Polizeiwache Körne,1.0384,1.9939,1
+375,40,Polizeiwache Körne,1.6689,2.7492,1
+376,40,Polizeiwache Körne,2.3063,3.5127,1
+401,40,Polizeiwache Körne,2.5553,3.8111,1
+402,40,Polizeiwache Körne,1.9167,3.0461,1
+403,40,Polizeiwache Körne,1.2845,2.2887,1
+404,40,Polizeiwache Körne,0.6731,1.5563,1
+405,40,Polizeiwache Körne,0.2936,1.1017,1
+406,40,Polizeiwache Körne,0.7406,1.6371,1
+407,40,Polizeiwache Körne,1.356,2.3744,1
+408,40,Polizeiwache Körne,1.99,3.1338,1
+409,40,Polizeiwache Körne,2.6289,3.8992,1
+431,40,Polizeiwache Körne,2.3752,3.5953,1
+432,40,Polizeiwache Körne,1.789,2.8931,1
+433,40,Polizeiwache Körne,1.2613,2.2609,1
+434,40,Polizeiwache Körne,0.8992,1.8272,1
+435,40,Polizeiwache Körne,0.9254,1.8585,1
+436,40,Polizeiwache Körne,1.3162,2.3267,1
+437,40,Polizeiwache Körne,1.8544,2.9715,1
+438,40,Polizeiwache Körne,2.4438,3.6774,1
+460,40,Polizeiwache Körne,2.3641,3.5819,1
+461,40,Polizeiwache Körne,1.8882,3.0119,1
+462,40,Polizeiwache Körne,1.539,2.5937,1
+463,40,Polizeiwache Körne,1.4149,2.4449,1
+464,40,Polizeiwache Körne,1.5697,2.6304,1
+465,40,Polizeiwache Körne,1.9375,3.071,1
+466,40,Polizeiwache Körne,2.4238,3.6535,1
+491,40,Polizeiwache Körne,2.5253,3.7751,1
+492,40,Polizeiwache Körne,2.1835,3.3656,1
+493,40,Polizeiwache Körne,1.9964,3.1415,1
+494,40,Polizeiwache Körne,2.0083,3.1558,1
+495,40,Polizeiwache Körne,2.2157,3.4042,1
+496,40,Polizeiwache Körne,2.572,3.8311,1
+523,40,Polizeiwache Körne,2.609,3.8753,1
+524,40,Polizeiwache Körne,2.5377,3.79,1
+525,40,Polizeiwache Körne,2.6272,3.8971,1
+569,41,Polizeiwache Mengede,2.5033,3.7487,1
+570,41,Polizeiwache Mengede,2.2945,3.4986,1
+571,41,Polizeiwache Mengede,2.256,3.4525,1
+572,41,Polizeiwache Mengede,2.3965,3.6208,1
+573,41,Polizeiwache Mengede,2.6876,3.9695,1
+597,41,Polizeiwache Mengede,2.2062,3.3928,1
+598,41,Polizeiwache Mengede,1.858,2.9758,1
+599,41,Polizeiwache Mengede,1.6923,2.7772,1
+600,41,Polizeiwache Mengede,1.7615,2.8601,1
+601,41,Polizeiwache Mengede,2.0421,3.1962,1
+602,41,Polizeiwache Mengede,2.4623,3.6997,1
+624,41,Polizeiwache Mengede,2.0755,3.2362,1
+625,41,Polizeiwache Mengede,1.5739,2.6354,1
+626,41,Polizeiwache Mengede,1.2148,2.2052,1
+627,41,Polizeiwache Mengede,1.1406,2.1163,1
+628,41,Polizeiwache Mengede,1.398,2.4246,1
+629,41,Polizeiwache Mengede,1.8531,2.9698,1
+630,41,Polizeiwache Mengede,2.3964,3.6207,1
+651,41,Polizeiwache Mengede,1.5294,2.5821,1
+652,41,Polizeiwache Mengede,0.9616,1.9019,1
+653,41,Polizeiwache Mengede,0.5798,1.4446,1
+654,41,Polizeiwache Mengede,0.7584,1.6585,1
+655,41,Polizeiwache Mengede,1.2815,2.2851,1
+656,41,Polizeiwache Mengede,1.8801,3.0022,1
+657,41,Polizeiwache Mengede,2.5014,3.7465,1
+677,41,Polizeiwache Mengede,1.7437,2.8388,1
+678,41,Polizeiwache Mengede,1.1003,2.068,1
+679,41,Polizeiwache Mengede,0.4575,1.2981,1
+680,41,Polizeiwache Mengede,0.1859,0.9727,1
+681,41,Polizeiwache Mengede,0.8294,1.7435,1
+682,41,Polizeiwache Mengede,1.4721,2.5135,1
+683,41,Polizeiwache Mengede,2.1156,3.2843,1
+703,41,Polizeiwache Mengede,2.1394,3.3128,1
+704,41,Polizeiwache Mengede,1.5276,2.58,1
+705,41,Polizeiwache Mengede,0.9589,1.8987,1
+706,41,Polizeiwache Mengede,0.5755,1.4394,1
+707,41,Polizeiwache Mengede,0.7551,1.6545,1
+708,41,Polizeiwache Mengede,1.2794,2.2826,1
+709,41,Polizeiwache Mengede,1.8786,3.0004,1
+710,41,Polizeiwache Mengede,2.5002,3.745,1
+730,41,Polizeiwache Mengede,2.0727,3.233,1
+731,41,Polizeiwache Mengede,1.5706,2.6314,1
+732,41,Polizeiwache Mengede,1.2106,2.2002,1
+733,41,Polizeiwache Mengede,1.1362,2.111,1
+734,41,Polizeiwache Mengede,1.3943,2.4202,1
+735,41,Polizeiwache Mengede,1.8501,2.9663,1
+736,41,Polizeiwache Mengede,2.3939,3.6177,1
+752,41,Polizeiwache Mengede,1.6878,2.7719,1
+753,41,Polizeiwache Mengede,1.7572,2.8549,1
+754,41,Polizeiwache Mengede,2.0382,3.1916,1
+755,41,Polizeiwache Mengede,2.4588,3.6955,1
+762,41,Polizeiwache Mengede,2.6835,3.9646,1
+155,42,Polizeiwache Mitte,2.4001,3.6251,1
+156,42,Polizeiwache Mitte,2.2288,3.4199,1
+157,42,Polizeiwache Mitte,2.2372,3.4299,1
+158,42,Polizeiwache Mitte,2.4234,3.653,1
+182,42,Polizeiwache Mitte,2.518,3.7664,1
+183,42,Polizeiwache Mitte,2.074,3.2345,1
+184,42,Polizeiwache Mitte,1.7591,2.8572,1
+185,42,Polizeiwache Mitte,1.6482,2.7244,1
+186,42,Polizeiwache Mitte,1.7803,2.8826,1
+187,42,Polizeiwache Mitte,2.1098,3.2774,1
+188,42,Polizeiwache Mitte,2.5623,3.8194,1
+211,42,Polizeiwache Mitte,2.4767,3.7169,1
+212,42,Polizeiwache Mitte,1.9184,3.0481,1
+213,42,Polizeiwache Mitte,1.4349,2.4689,1
+214,42,Polizeiwache Mitte,1.1252,2.0978,1
+215,42,Polizeiwache Mitte,1.1417,2.1176,1
+216,42,Polizeiwache Mitte,1.4735,2.5151,1
+217,42,Polizeiwache Mitte,1.9672,3.1065,1
+218,42,Polizeiwache Mitte,2.5291,3.7796,1
+240,42,Polizeiwache Mitte,2.601,3.8657,1
+241,42,Polizeiwache Mitte,1.9747,3.1155,1
+242,42,Polizeiwache Mitte,1.3642,2.3842,1
+243,42,Polizeiwache Mitte,0.8088,1.7189,1
+244,42,Polizeiwache Mitte,0.5256,1.3797,1
+245,42,Polizeiwache Mitte,0.8539,1.7729,1
+246,42,Polizeiwache Mitte,1.418,2.4487,1
+247,42,Polizeiwache Mitte,2.0308,3.1828,1
+248,42,Polizeiwache Mitte,2.6579,3.934,1
+270,42,Polizeiwache Mitte,2.2258,3.4163,1
+271,42,Polizeiwache Mitte,1.5814,2.6444,1
+272,42,Polizeiwache Mitte,0.938,1.8736,1
+273,42,Polizeiwache Mitte,0.2951,1.1035,1
+274,42,Polizeiwache Mitte,0.3529,1.1727,1
+275,42,Polizeiwache Mitte,0.9961,1.9432,1
+276,42,Polizeiwache Mitte,1.6403,2.7149,1
+277,42,Polizeiwache Mitte,2.2839,3.4859,1
+300,42,Polizeiwache Mitte,2.6165,3.8843,1
+301,42,Polizeiwache Mitte,1.9953,3.1402,1
+302,42,Polizeiwache Mitte,1.394,2.4198,1
+303,42,Polizeiwache Mitte,0.8582,1.7781,1
+304,42,Polizeiwache Mitte,0.5989,1.4675,1
+305,42,Polizeiwache Mitte,0.9008,1.8291,1
+306,42,Polizeiwache Mitte,1.4467,2.483,1
+307,42,Polizeiwache Mitte,2.0508,3.2067,1
+308,42,Polizeiwache Mitte,2.6731,3.9522,1
+332,42,Polizeiwache Mitte,2.5093,3.7559,1
+333,42,Polizeiwache Mitte,1.9606,3.0987,1
+334,42,Polizeiwache Mitte,1.4911,2.5362,1
+335,42,Polizeiwache Mitte,1.1961,2.1829,1
+336,42,Polizeiwache Mitte,1.2117,2.2015,1
+337,42,Polizeiwache Mitte,1.5283,2.5808,1
+338,42,Polizeiwache Mitte,2.0084,3.1559,1
+339,42,Polizeiwache Mitte,2.561,3.8179,1
+364,42,Polizeiwache Mitte,2.5662,3.8241,1
+365,42,Polizeiwache Mitte,2.1325,3.3046,1
+366,42,Polizeiwache Mitte,1.828,2.9397,1
+367,42,Polizeiwache Mitte,1.7215,2.8123,1
+368,42,Polizeiwache Mitte,1.8483,2.9642,1
+369,42,Polizeiwache Mitte,2.1674,3.3463,1
+370,42,Polizeiwache Mitte,2.6096,3.8761,1
+398,42,Polizeiwache Mitte,2.4677,3.7061,1
+399,42,Polizeiwache Mitte,2.3015,3.507,1
+400,42,Polizeiwache Mitte,2.3096,3.5168,1
+401,42,Polizeiwache Mitte,2.4903,3.7332,1
+228,43,Polizeifliegerstaffel NRW,2.6625,3.9394,0
+229,43,Polizeifliegerstaffel NRW,2.4303,3.6612,0
+257,43,Polizeifliegerstaffel NRW,2.3789,3.5997,0
+258,43,Polizeifliegerstaffel NRW,2.0158,3.1647,0
+286,43,Polizeifliegerstaffel NRW,2.2517,3.4473,0
+287,43,Polizeifliegerstaffel NRW,1.7485,2.8446,0
+288,43,Polizeifliegerstaffel NRW,1.3693,2.3903,0
+316,43,Polizeifliegerstaffel NRW,2.3057,3.512,0
+317,43,Polizeifliegerstaffel NRW,1.6997,2.7861,0
+318,43,Polizeifliegerstaffel NRW,1.1372,2.1123,0
+347,43,Polizeifliegerstaffel NRW,2.5297,3.7804,0
+348,43,Polizeifliegerstaffel NRW,1.887,3.0104,0
+349,43,Polizeifliegerstaffel NRW,1.2443,2.2406,0
+350,43,Polizeifliegerstaffel NRW,0.6053,1.475,0
+379,43,Polizeifliegerstaffel NRW,2.2512,3.4467,0
+380,43,Polizeifliegerstaffel NRW,1.6251,2.6968,0
+381,43,Polizeifliegerstaffel NRW,1.0226,1.975,0
+382,43,Polizeifliegerstaffel NRW,0.5278,1.3822,0
+383,43,Polizeifliegerstaffel NRW,0.5838,1.4494,0
+412,43,Polizeifliegerstaffel NRW,2.1387,3.3119,0
+413,43,Polizeifliegerstaffel NRW,1.6006,2.6674,0
+414,43,Polizeifliegerstaffel NRW,1.1749,2.1574,0
+415,43,Polizeifliegerstaffel NRW,1.0141,1.9649,0
+416,43,Polizeifliegerstaffel NRW,1.2272,2.22,0
+417,43,Polizeifliegerstaffel NRW,1.6768,2.7586,0
+441,43,Polizeifliegerstaffel NRW,2.7096,3.9959,0
+442,43,Polizeifliegerstaffel NRW,2.2172,3.406,0
+443,43,Polizeifliegerstaffel NRW,1.8223,2.933,0
+444,43,Polizeifliegerstaffel NRW,1.5981,2.6643,0
+445,43,Polizeifliegerstaffel NRW,1.6175,2.6876,0
+446,43,Polizeifliegerstaffel NRW,1.873,2.9937,0
+447,43,Polizeifliegerstaffel NRW,2.2869,3.4895,0
+471,43,Polizeifliegerstaffel NRW,2.4695,3.7082,0
+472,43,Polizeifliegerstaffel NRW,2.2174,3.4062,0
+473,43,Polizeifliegerstaffel NRW,2.1366,3.3095,0
+474,43,Polizeifliegerstaffel NRW,2.2455,3.44,0
+475,43,Polizeifliegerstaffel NRW,2.5195,3.7681,0
+503,43,Polizeifliegerstaffel NRW,2.7114,3.998,0
+185,44,Polizei-Sonder-Dienste,2.6948,3.9782,0
+186,44,Polizei-Sonder-Dienste,2.6557,3.9313,0
+213,44,Polizei-Sonder-Dienste,2.5437,3.7972,0
+214,44,Polizei-Sonder-Dienste,2.2396,3.4328,0
+215,44,Polizei-Sonder-Dienste,2.0957,3.2604,0
+216,44,Polizei-Sonder-Dienste,2.1442,3.3185,0
+217,44,Polizei-Sonder-Dienste,2.3736,3.5933,0
+242,44,Polizei-Sonder-Dienste,2.3402,3.5534,0
+243,44,Polizei-Sonder-Dienste,1.8997,3.0256,0
+244,44,Polizei-Sonder-Dienste,1.6028,2.67,0
+245,44,Polizei-Sonder-Dienste,1.5362,2.5902,0
+246,44,Polizei-Sonder-Dienste,1.7263,2.8179,0
+247,44,Polizei-Sonder-Dienste,2.105,3.2716,0
+248,44,Polizei-Sonder-Dienste,2.5903,3.853,0
+271,44,Polizei-Sonder-Dienste,2.3066,3.5131,0
+272,44,Polizei-Sonder-Dienste,1.7431,2.8381,0
+273,44,Polizei-Sonder-Dienste,1.2585,2.2576,0
+274,44,Polizei-Sonder-Dienste,0.9799,1.9238,0
+275,44,Polizei-Sonder-Dienste,1.0797,2.0434,0
+276,44,Polizei-Sonder-Dienste,1.4839,2.5275,0
+277,44,Polizei-Sonder-Dienste,2.0164,3.1655,0
+278,44,Polizei-Sonder-Dienste,2.6004,3.865,0
+301,44,Polizei-Sonder-Dienste,2.4505,3.6855,0
+302,44,Polizei-Sonder-Dienste,1.8181,2.9279,0
+303,44,Polizei-Sonder-Dienste,1.1992,2.1865,0
+304,44,Polizei-Sonder-Dienste,0.6313,1.5062,0
+305,44,Polizei-Sonder-Dienste,0.4352,1.2713,0
+306,44,Polizei-Sonder-Dienste,0.8997,1.8278,0
+307,44,Polizei-Sonder-Dienste,1.5034,2.5509,0
+308,44,Polizei-Sonder-Dienste,2.1303,3.302,0
+333,44,Polizei-Sonder-Dienste,2.1,3.2657,0
+334,44,Polizei-Sonder-Dienste,1.459,2.4978,0
+335,44,Polizei-Sonder-Dienste,0.8214,1.7339,0
+336,44,Polizei-Sonder-Dienste,0.2259,1.0206,0
+337,44,Polizei-Sonder-Dienste,0.5066,1.3568,0
+338,44,Polizei-Sonder-Dienste,1.1368,2.1119,0
+339,44,Polizei-Sonder-Dienste,1.7765,2.8781,0
+340,44,Polizei-Sonder-Dienste,2.419,3.6478,0
+364,44,Polizei-Sonder-Dienste,2.5211,3.77,0
+365,44,Polizei-Sonder-Dienste,1.9123,3.0408,0
+366,44,Polizei-Sonder-Dienste,1.3379,2.3527,0
+367,44,Polizei-Sonder-Dienste,0.8664,1.7879,0
+368,44,Polizei-Sonder-Dienste,0.7359,1.6315,0
+369,44,Polizei-Sonder-Dienste,1.0777,2.041,0
+370,44,Polizei-Sonder-Dienste,1.6161,2.686,0
+371,44,Polizei-Sonder-Dienste,2.2112,3.3989,0
+397,44,Polizei-Sonder-Dienste,2.4541,3.6898,0
+398,44,Polizei-Sonder-Dienste,1.9343,3.0672,0
+399,44,Polizei-Sonder-Dienste,1.5126,2.562,0
+400,44,Polizei-Sonder-Dienste,1.2901,2.2955,0
+401,44,Polizei-Sonder-Dienste,1.3675,2.3881,0
+402,44,Polizei-Sonder-Dienste,1.7046,2.7919,0
+403,44,Polizei-Sonder-Dienste,2.1838,3.366,0
+427,44,Polizei-Sonder-Dienste,2.5556,3.8114,0
+428,44,Polizei-Sonder-Dienste,2.1597,3.3372,0
+429,44,Polizei-Sonder-Dienste,1.904,3.0309,0
+430,44,Polizei-Sonder-Dienste,1.8483,2.9641,0
+431,44,Polizei-Sonder-Dienste,2.009,3.1566,0
+432,44,Polizei-Sonder-Dienste,2.3422,3.5558,0
+457,44,Polizei-Sonder-Dienste,2.5345,3.7861,0
+458,44,Polizei-Sonder-Dienste,2.4084,3.6351,0
+459,44,Polizei-Sonder-Dienste,2.4507,3.6857,0
+460,44,Polizei-Sonder-Dienste,2.6535,3.9287,0
+121,45,Polizeiwache Aplerbeck,2.5674,3.8255,0
+122,45,Polizeiwache Aplerbeck,2.4249,3.6548,0
+139,45,Polizeiwache Aplerbeck,2.6114,3.8783,0
+140,45,Polizeiwache Aplerbeck,2.205,3.3914,0
+141,45,Polizeiwache Aplerbeck,1.933,3.0655,0
+142,45,Polizeiwache Aplerbeck,1.8548,2.9719,0
+143,45,Polizeiwache Aplerbeck,1.9939,3.1385,0
+163,45,Polizeiwache Aplerbeck,2.5185,3.7669,0
+164,45,Polizeiwache Aplerbeck,1.9931,3.1376,0
+165,45,Polizeiwache Aplerbeck,1.5589,2.6174,0
+166,45,Polizeiwache Aplerbeck,1.3112,2.3207,0
+167,45,Polizeiwache Aplerbeck,1.356,2.3743,0
+168,45,Polizeiwache Aplerbeck,1.67,2.7505,0
+169,45,Polizeiwache Aplerbeck,2.1373,3.3103,0
+170,45,Polizeiwache Aplerbeck,2.6795,3.9598,0
+191,45,Polizeiwache Aplerbeck,2.5892,3.8516,0
+192,45,Polizeiwache Aplerbeck,1.9797,3.1215,0
+193,45,Polizeiwache Aplerbeck,1.4007,2.4279,0
+194,45,Polizeiwache Aplerbeck,0.9147,1.8457,0
+195,45,Polizeiwache Aplerbeck,0.7353,1.6308,0
+196,45,Polizeiwache Aplerbeck,1.0372,1.9925,0
+197,45,Polizeiwache Aplerbeck,1.5621,2.6212,0
+198,45,Polizeiwache Aplerbeck,2.1532,3.3294,0
+221,45,Polizeiwache Aplerbeck,2.1687,3.3479,0
+222,45,Polizeiwache Aplerbeck,1.5276,2.5799,0
+223,45,Polizeiwache Aplerbeck,0.8897,1.8158,0
+224,45,Polizeiwache Aplerbeck,0.2841,1.0903,0
+225,45,Polizeiwache Aplerbeck,0.4474,1.286,0
+226,45,Polizeiwache Aplerbeck,1.0725,2.0348,0
+227,45,Polizeiwache Aplerbeck,1.7114,2.8002,0
+228,45,Polizeiwache Aplerbeck,2.3537,3.5696,0
+250,45,Polizeiwache Aplerbeck,2.515,3.7628,0
+251,45,Polizeiwache Aplerbeck,1.8818,3.0042,0
+252,45,Polizeiwache Aplerbeck,1.2587,2.2579,0
+253,45,Polizeiwache Aplerbeck,0.6778,1.5619,0
+254,45,Polizeiwache Aplerbeck,0.4044,1.2345,0
+255,45,Polizeiwache Aplerbeck,0.8358,1.7512,0
+256,45,Polizeiwache Aplerbeck,1.4362,2.4704,0
+257,45,Polizeiwache Aplerbeck,2.0636,3.222,0
+258,45,Polizeiwache Aplerbeck,2.6984,3.9825,0
+280,45,Polizeiwache Aplerbeck,2.3636,3.5813,0
+281,45,Polizeiwache Aplerbeck,1.7936,2.8986,0
+282,45,Polizeiwache Aplerbeck,1.2944,2.3006,0
+283,45,Polizeiwache Aplerbeck,0.9823,1.9267,0
+284,45,Polizeiwache Aplerbeck,1.0413,1.9974,0
+285,45,Polizeiwache Aplerbeck,1.4263,2.4585,0
+286,45,Polizeiwache Aplerbeck,1.9526,3.089,0
+287,45,Polizeiwache Aplerbeck,2.5344,3.786,0
+311,45,Polizeiwache Aplerbeck,2.3845,3.6064,0
+312,45,Polizeiwache Aplerbeck,1.9312,3.0634,0
+313,45,Polizeiwache Aplerbeck,1.6139,2.6833,0
+314,45,Polizeiwache Aplerbeck,1.5195,2.5703,0
+315,45,Polizeiwache Aplerbeck,1.6864,2.7701,0
+316,45,Polizeiwache Aplerbeck,2.0512,3.2072,0
+317,45,Polizeiwache Aplerbeck,2.5304,3.7812,0
+343,45,Polizeiwache Aplerbeck,2.5736,3.8329,0
+344,45,Polizeiwache Aplerbeck,2.2544,3.4505,0
+345,45,Polizeiwache Aplerbeck,2.0908,3.2546,0
+346,45,Polizeiwache Aplerbeck,2.1192,3.2886,0
+347,45,Polizeiwache Aplerbeck,2.3325,3.5442,0
+348,45,Polizeiwache Aplerbeck,2.6867,3.9685,0
+376,45,Polizeiwache Aplerbeck,2.6968,3.9805,0
+377,45,Polizeiwache Aplerbeck,2.6414,3.9142,0
+173,46,Polizeiwache Lütgendortmund,1.8156,2.9249,0
+174,46,Polizeiwache Lütgendortmund,2.1763,3.357,0
+175,46,Polizeiwache Lütgendortmund,2.6466,3.9204,0
+201,46,Polizeiwache Lütgendortmund,1.3464,2.3629,0
+202,46,Polizeiwache Lütgendortmund,1.1706,2.1522,0
+203,46,Polizeiwache Lütgendortmund,1.5471,2.6033,0
+204,46,Polizeiwache Lütgendortmund,2.0612,3.2191,0
+205,46,Polizeiwache Lütgendortmund,2.6326,3.9037,0
+230,46,Polizeiwache Lütgendortmund,1.2468,2.2436,0
+231,46,Polizeiwache Lütgendortmund,0.7092,1.5996,0
+232,46,Polizeiwache Lütgendortmund,0.9439,1.8807,0
+233,46,Polizeiwache Lütgendortmund,1.5266,2.5788,0
+234,46,Polizeiwache Lütgendortmund,2.1443,3.3187,0
+259,46,Polizeiwache Lütgendortmund,0.8178,1.7296,0
+260,46,Polizeiwache Lütgendortmund,0.1794,0.965,0
+261,46,Polizeiwache Lütgendortmund,0.4757,1.3198,0
+262,46,Polizeiwache Lütgendortmund,1.1178,2.089,0
+263,46,Polizeiwache Lütgendortmund,1.7618,2.8604,0
+264,46,Polizeiwache Lütgendortmund,2.4053,3.6314,0
+289,46,Polizeiwache Lütgendortmund,1.8844,3.0074,0
+290,46,Polizeiwache Lütgendortmund,1.2929,2.2988,0
+291,46,Polizeiwache Lütgendortmund,0.7876,1.6935,0
+292,46,Polizeiwache Lütgendortmund,0.6319,1.507,0
+293,46,Polizeiwache Lütgendortmund,1.0041,1.9528,0
+294,46,Polizeiwache Lütgendortmund,2.1713,3.351,0
+319,46,Polizeiwache Lütgendortmund,2.4101,3.6371,0
+320,46,Polizeiwache Lütgendortmund,1.8741,2.995,0
+321,46,Polizeiwache Lütgendortmund,1.4308,2.464,0
+322,46,Polizeiwache Lütgendortmund,1.1878,2.1729,0
+323,46,Polizeiwache Lütgendortmund,1.2668,2.2676,0
+324,46,Polizeiwache Lütgendortmund,1.621,2.6919,0
+325,46,Polizeiwache Lütgendortmund,2.117,3.286,0
+326,46,Polizeiwache Lütgendortmund,2.6764,3.956,0
+351,46,Polizeiwache Lütgendortmund,2.488,3.7304,0
+352,46,Polizeiwache Lütgendortmund,2.0764,3.2373,0
+353,46,Polizeiwache Lütgendortmund,1.8056,2.913,0
+354,46,Polizeiwache Lütgendortmund,1.7433,2.8384,0
+355,46,Polizeiwache Lütgendortmund,1.91,3.038,0
+356,46,Polizeiwache Lütgendortmund,2.2554,3.4518,0
+357,46,Polizeiwache Lütgendortmund,2.7117,3.9984,0
+385,46,Polizeiwache Lütgendortmund,2.4389,3.6716,0
+386,46,Polizeiwache Lütgendortmund,2.3048,3.511,0
+387,46,Polizeiwache Lütgendortmund,2.3465,3.5609,0
+388,46,Polizeiwache Lütgendortmund,2.5551,3.8108,0
+465,47,Polizeiwache Scharnhorst,2.5966,3.8605,0
+466,47,Polizeiwache Scharnhorst,2.4829,3.7243,0
+467,47,Polizeiwache Scharnhorst,2.533,3.7844,0
+494,47,Polizeiwache Scharnhorst,2.5864,3.8483,0
+495,47,Polizeiwache Scharnhorst,2.2071,3.394,0
+496,47,Polizeiwache Scharnhorst,1.9698,3.1096,0
+497,47,Polizeiwache Scharnhorst,1.928,3.0596,0
+498,47,Polizeiwache Scharnhorst,2.0935,3.2579,0
+499,47,Polizeiwache Scharnhorst,2.4243,3.6542,0
+524,47,Polizeiwache Scharnhorst,2.4642,3.7019,0
+525,47,Polizeiwache Scharnhorst,1.9591,3.0968,0
+526,47,Polizeiwache Scharnhorst,1.56,2.6188,0
+527,47,Polizeiwache Scharnhorst,1.3625,2.3821,0
+528,47,Polizeiwache Scharnhorst,1.4518,2.4892,0
+529,47,Polizeiwache Scharnhorst,1.7851,2.8884,0
+530,47,Polizeiwache Scharnhorst,2.2572,3.454,0
+554,47,Polizeiwache Scharnhorst,2.508,3.7543,0
+555,47,Polizeiwache Scharnhorst,1.9084,3.0361,0
+556,47,Polizeiwache Scharnhorst,1.3506,2.3679,0
+557,47,Polizeiwache Scharnhorst,0.9126,1.8432,0
+558,47,Polizeiwache Scharnhorst,0.8186,1.7306,0
+559,47,Polizeiwache Scharnhorst,1.1557,2.1344,0
+560,47,Polizeiwache Scharnhorst,1.6822,2.7652,0
+561,47,Polizeiwache Scharnhorst,2.2694,3.4685,0
+584,47,Polizeiwache Scharnhorst,2.7101,3.9965,0
+585,47,Polizeiwache Scharnhorst,2.0702,3.2299,0
+586,47,Polizeiwache Scharnhorst,1.4324,2.4659,0
+587,47,Polizeiwache Scharnhorst,0.8049,1.7142,0
+588,47,Polizeiwache Scharnhorst,0.2656,1.0682,0
+589,47,Polizeiwache Scharnhorst,0.5675,1.4298,0
+590,47,Polizeiwache Scharnhorst,1.1835,2.1677,0
+591,47,Polizeiwache Scharnhorst,1.819,2.929,0
+592,47,Polizeiwache Scharnhorst,2.4581,3.6946,0
+613,47,Polizeiwache Scharnhorst,2.4009,3.626,0
+614,47,Polizeiwache Scharnhorst,1.7654,2.8648,0
+615,47,Polizeiwache Scharnhorst,1.1399,2.1155,0
+616,47,Polizeiwache Scharnhorst,0.5553,1.4152,0
+617,47,Polizeiwache Scharnhorst,0.3816,1.2071,0
+618,47,Polizeiwache Scharnhorst,0.9005,1.8287,0
+619,47,Polizeiwache Scharnhorst,1.5182,2.5687,0
+620,47,Polizeiwache Scharnhorst,2.1505,3.3261,0
+641,47,Polizeiwache Scharnhorst,2.2409,3.4344,0
+642,47,Polizeiwache Scharnhorst,1.6698,2.7503,0
+643,47,Polizeiwache Scharnhorst,1.1766,2.1595,0
+644,47,Polizeiwache Scharnhorst,0.8985,1.8263,0
+645,47,Polizeiwache Scharnhorst,1.0289,1.9826,0
+646,47,Polizeiwache Scharnhorst,1.4619,2.5012,0
+647,47,Polizeiwache Scharnhorst,2.0112,3.1592,0
+648,47,Polizeiwache Scharnhorst,2.6034,3.8686,0
+668,47,Polizeiwache Scharnhorst,2.2614,3.459,0
+669,47,Polizeiwache Scharnhorst,1.8158,2.9252,0
+670,47,Polizeiwache Scharnhorst,1.5187,2.5692,0
+671,47,Polizeiwache Scharnhorst,1.4641,2.5039,0
+672,47,Polizeiwache Scharnhorst,1.676,2.7577,0
+673,47,Polizeiwache Scharnhorst,2.0742,3.2348,0
+674,47,Polizeiwache Scharnhorst,2.5733,3.8325,0
+695,47,Polizeiwache Scharnhorst,2.4591,3.6958,0
+696,47,Polizeiwache Scharnhorst,2.1549,3.3314,0
+697,47,Polizeiwache Scharnhorst,2.0166,3.1657,0
+698,47,Polizeiwache Scharnhorst,2.078,3.2393,0
+699,47,Polizeiwache Scharnhorst,2.323,3.5327,0
+700,47,Polizeiwache Scharnhorst,2.7025,3.9873,0
+723,47,Polizeiwache Scharnhorst,2.6128,3.88,0
+724,47,Polizeiwache Scharnhorst,2.5815,3.8425,0
+725,47,Polizeiwache Scharnhorst,2.7073,3.9931,0

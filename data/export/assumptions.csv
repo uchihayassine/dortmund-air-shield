@@ -1,0 +1,31 @@
+﻿category,parameter,value,unit,status
+scenario_input,suppliers,EU / EEA / CH only,,brief requirement
+scenario_input,capital_budget,9000000,EUR,choice
+scenario_input,target_response_time,4,min,choice
+scenario_input,missions_per_year,8000,missions,estimate
+scenario_input,backup_weight_beta,0.5,,choice
+scenario_input,minimum_gain_per_station,0.4,% of total weight,choice
+scenario_input,peak_factor,3,x average hour,estimate
+scenario_input,max_overflow_at_peak,0.1,share of alerts,choice
+scenario_input,minimum_station_spacing,1,km,choice
+scenario_input,airport_sites_allowed,yes,,choice
+model_constant,detour_factor,1.15,x straight line,estimate
+model_constant,time_on_scene,15,min,estimate
+model_constant,site_preparation,30000,EUR per site,estimate
+model_constant,airport_coordination,40000,EUR per airport-area site,estimate
+model_constant,airport_near_zone_radius,2.5,km,estimate (schematic)
+model_constant,airport_ctr_radius_display,6,km,estimate (schematic)
+model_constant,control_centre_integration,450000,EUR one-off,estimate
+model_constant,software_utm_data,220000,EUR per year,estimate
+model_constant,remote_pilot_cost,82000,EUR per FTE per year,estimate
+model_constant,fte_per_24_7_seat,5.5,FTE,estimate
+model_constant,flights_per_pilot,3,simultaneous flights,estimate
+model_constant,minimum_seats,2,seats,choice
+model_constant,insurance,4500,EUR per dock per year,estimate
+model_constant,special_drone_upkeep,0.12,share of value per year,estimate
+model_constant,depreciation_period,5,years,choice
+model_constant,hexagon_area,0.36,km2,choice
+model_constant,hexagon_circumradius,0.3722,km,derived
+model_constant,auto_choice_tolerance,0.5,% coverage,choice
+model_constant,fee_model_availability_share,0.6,share,assumption
+model_constant,fee_model_per_mission_share,0.4,share,assumption

@@ -1,0 +1,7 @@
+﻿scenario,name,role,origin,count,unit_price_eur,status
+EU only,Quantum-Systems Vector,"Wide-area situation, floods, long-range search",DE,2,180000,estimate
+EU only,Parrot ANAFI USA GOV,"Tactical teams (vehicle), thermal",FR,8,14000,estimate
+EU only,Flyability Elios 3,"Indoor, collapse, hazmat",CH,1,140000,estimate
+Mixed,DJI Matrice 350 + H30T,"Wide-area situation, floods",CN,2,28000,estimate
+Mixed,DJI Mavic 3T,"Tactical teams (vehicle), thermal",CN,8,6500,estimate
+Mixed,Flyability Elios 3,"Indoor, collapse, hazmat",CH,1,140000,estimate

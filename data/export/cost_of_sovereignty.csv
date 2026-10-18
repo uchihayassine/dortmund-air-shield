@@ -1,0 +1,5 @@
+﻿variant,system,sites,docks,coverage_pct,investment_eur,tco_5y_eur
+EU only,Nokia Drone Networks,27,34,97.3187,7052000,18214200
+Mixed,DJI Dock 3 + Matrice 4TD,27,33,97.5246,2644000,10630300
+Difference (EU - mixed),,,,-0.2059,4408000,7583900
+Per resident per year,,,,,,2.4782

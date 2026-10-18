@@ -1,0 +1,7 @@
+﻿id,name,maker,origin,group,type,hover_capable,speed_m_s,range_km,launch_s,endurance_min,recharge_min,thermal,ip_rating,dock_price_eur,opex_per_dock_eur_year,bvlos_note,status
+skeyetech,Azur Drones Skeyetech,Azur Drones,FR,eu,Multicopter dock,1,15,4,30,25,30,1,IP55,160000,28000,EASA BVLOS authorisation (FR),estimate
+nokia,Nokia Drone Networks,Nokia,FI,eu,Multicopter dock,1,16,5,45,35,35,1,IP54,150000,26000,"LTE/5G-C2, BVLOS-ready",estimate
+avy,Avy Aera + Dock,Avy,NL,eu,VTOL dock,0,25,15,90,70,40,1,IP54,140000,25000,"BVLOS operations NL (medical); fast, but short hover time on scene",estimate
+dji,DJI Dock 3 + Matrice 4TD,DJI,CN,cn,Multicopter dock,1,15,8,25,54,32,1,IP56,32000,9000,"Widely used, data sovereignty critical",estimate
+skydio,Skydio X10 + Dock,Skydio,US,us,Multicopter dock,1,16,6,25,40,30,1,IP55,90000,15000,Drone-as-first-responder programmes (US),estimate
+percepto,Percepto Air Max,Percepto,IL,il,Multicopter dock,1,14,5,40,40,30,1,IP54,140000,24000,Industrial BVLOS approvals,estimate

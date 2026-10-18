@@ -1,0 +1,5 @@
+﻿organisation,share,missions_per_year,cost_eur_per_year,status
+Dortmund Fire Brigade,0.42,3360,1529992.8,assumption
+NRW Police (Dortmund HQ),0.36,2880,1311422.4,assumption
+THW / civil protection,0.1,800,364284,assumption
+City of Dortmund (crisis unit),0.12,960,437140.8,assumption

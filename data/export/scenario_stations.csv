@@ -1,0 +1,189 @@
+﻿scenario,system,site_id,name,type,lat,lon,docks,missions_per_year
+★ Recommended: 4 min · €9M,Nokia Drone Networks,35,Polizeiwache Nord,police,51.5198,7.4651,2,752.6974
+★ Recommended: 4 min · €9M,Nokia Drone Networks,42,Polizeiwache Mitte,police,51.4996,7.4602,2,857.067
+★ Recommended: 4 min · €9M,Nokia Drone Networks,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,1,246.1286
+★ Recommended: 4 min · €9M,Nokia Drone Networks,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,493.0595
+★ Recommended: 4 min · €9M,Nokia Drone Networks,40,Polizeiwache Körne,police,51.5175,7.5113,2,476.2113
+★ Recommended: 4 min · €9M,Nokia Drone Networks,38,Polizeiwache Eving,police,51.5492,7.4652,2,501.755
+★ Recommended: 4 min · €9M,Nokia Drone Networks,39,Polizeiwache Hombruch,police,51.4803,7.433,1,352.4449
+★ Recommended: 4 min · €9M,Nokia Drone Networks,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,438.5858
+★ Recommended: 4 min · €9M,Nokia Drone Networks,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,1,333.414
+★ Recommended: 4 min · €9M,Nokia Drone Networks,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,1,289.2993
+★ Recommended: 4 min · €9M,Nokia Drone Networks,12,Freiwillige Feuerwehr Lütgendortmund,volunteer,51.4982,7.333,1,312.566
+★ Recommended: 4 min · €9M,Nokia Drone Networks,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,129.0874
+★ Recommended: 4 min · €9M,Nokia Drone Networks,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,1,321.4149
+★ Recommended: 4 min · €9M,Nokia Drone Networks,37,Polizeiwache Asseln,police,51.5291,7.5925,1,227.9117
+★ Recommended: 4 min · €9M,Nokia Drone Networks,8,Freiwillige Feuerwehr Aplerbeck,volunteer,51.4872,7.5556,1,270.4925
+★ Recommended: 4 min · €9M,Nokia Drone Networks,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,185.4843
+★ Recommended: 4 min · €9M,Nokia Drone Networks,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,1,182.6645
+★ Recommended: 4 min · €9M,Nokia Drone Networks,41,Polizeiwache Mengede,police,51.5706,7.3789,1,150.9029
+★ Recommended: 4 min · €9M,Nokia Drone Networks,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,107.095
+★ Recommended: 4 min · €9M,Nokia Drone Networks,25,Freiwillige Feuerwehr Deusen,volunteer,51.5472,7.427,1,113.4544
+★ Recommended: 4 min · €9M,Nokia Drone Networks,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,98.9305
+★ Recommended: 4 min · €9M,Nokia Drone Networks,30,Bundespolizeirevier Flughafen Dortmund,police,51.515,7.6131,1,178.4288
+★ Recommended: 4 min · €9M,Nokia Drone Networks,5,Freiwillige Feuerwehr Sölderholz,volunteer,51.4717,7.5977,1,71.4635
+★ Recommended: 4 min · €9M,Nokia Drone Networks,33,Polizeiwache Hörde,police,51.4918,7.5031,2,381.7524
+★ Recommended: 4 min · €9M,Nokia Drone Networks,4,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.551,7.367,1,167.4444
+★ Recommended: 4 min · €9M,Nokia Drone Networks,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,134.8687
+★ Recommended: 4 min · €9M,Nokia Drone Networks,9,Freiwillige Feuerwehr Syburg,volunteer,51.4276,7.4864,1,31.7498
+Pilot 2027: €2.5M,Nokia Drone Networks,3,Feuerwehr Dortmund,fire,51.515,7.4584,2,1310.7903
+Pilot 2027: €2.5M,Nokia Drone Networks,42,Polizeiwache Mitte,police,51.4996,7.4602,2,1066.8916
+Pilot 2027: €2.5M,Nokia Drone Networks,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,2,900.7097
+Phase 1: €4M,Azur Drones Skeyetech,3,Feuerwehr Dortmund,fire,51.515,7.4584,2,1193.9497
+Phase 1: €4M,Azur Drones Skeyetech,39,Polizeiwache Hombruch,police,51.4803,7.433,2,934.9725
+Phase 1: €4M,Azur Drones Skeyetech,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,2,758.8798
+Phase 1: €4M,Azur Drones Skeyetech,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,688.5608
+Phase 1: €4M,Azur Drones Skeyetech,36,Bundespolizeiinspektion Dortmund,police,51.5098,7.504,2,741.5714
+Phase 1: €4M,Azur Drones Skeyetech,38,Polizeiwache Eving,police,51.5492,7.4652,2,545.5747
+Lean city-wide: €6M,Azur Drones Skeyetech,1,Feuer- und Rettungswache 1,fire,51.52,7.4616,2,791.6679
+Lean city-wide: €6M,Azur Drones Skeyetech,42,Polizeiwache Mitte,police,51.4996,7.4602,2,894.1851
+Lean city-wide: €6M,Azur Drones Skeyetech,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,2,444.3789
+Lean city-wide: €6M,Azur Drones Skeyetech,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,543.215
+Lean city-wide: €6M,Azur Drones Skeyetech,40,Polizeiwache Körne,police,51.5175,7.5113,2,536.1123
+Lean city-wide: €6M,Azur Drones Skeyetech,38,Polizeiwache Eving,police,51.5492,7.4652,2,536.6786
+Lean city-wide: €6M,Azur Drones Skeyetech,39,Polizeiwache Hombruch,police,51.4803,7.433,1,352.4449
+Lean city-wide: €6M,Azur Drones Skeyetech,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,464.7195
+Lean city-wide: €6M,Azur Drones Skeyetech,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,1,375.2986
+Lean city-wide: €6M,Azur Drones Skeyetech,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,1,308.2713
+Lean city-wide: €6M,Azur Drones Skeyetech,46,Polizeiwache Lütgendortmund,police,51.4995,7.3375,1,382.9559
+Lean city-wide: €6M,Azur Drones Skeyetech,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,268.6874
+Lean city-wide: €6M,Azur Drones Skeyetech,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,1,385.9055
+Lean city-wide: €6M,Azur Drones Skeyetech,37,Polizeiwache Asseln,police,51.5291,7.5925,1,379.8647
+Lean city-wide: €6M,Azur Drones Skeyetech,8,Freiwillige Feuerwehr Aplerbeck,volunteer,51.4872,7.5556,1,298.0656
+Lean city-wide: €6M,Azur Drones Skeyetech,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,194.9703
+Lean city-wide: €6M,Azur Drones Skeyetech,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,1,221.8237
+Lean city-wide: €6M,Azur Drones Skeyetech,41,Polizeiwache Mengede,police,51.5706,7.3789,1,151.2096
+Lean city-wide: €6M,Azur Drones Skeyetech,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,118.7873
+Faster: 3-minute response,Azur Drones Skeyetech,44,Polizei-Sonder-Dienste,police,51.5086,7.4677,1,248.0282
+Faster: 3-minute response,Azur Drones Skeyetech,35,Polizeiwache Nord,police,51.5198,7.4651,2,594.1963
+Faster: 3-minute response,Azur Drones Skeyetech,33,Polizeiwache Hörde,police,51.4918,7.5031,1,347.7491
+Faster: 3-minute response,Azur Drones Skeyetech,34,Polizeiwache Huckarde,police,51.5286,7.4136,1,249.267
+Faster: 3-minute response,Azur Drones Skeyetech,42,Polizeiwache Mitte,police,51.4996,7.4602,2,712.9955
+Faster: 3-minute response,Azur Drones Skeyetech,38,Polizeiwache Eving,police,51.5492,7.4652,1,385.7521
+Faster: 3-minute response,Azur Drones Skeyetech,40,Polizeiwache Körne,police,51.5175,7.5113,2,429.5246
+Faster: 3-minute response,Azur Drones Skeyetech,39,Polizeiwache Hombruch,police,51.4803,7.433,1,312.0587
+Faster: 3-minute response,Azur Drones Skeyetech,45,Polizeiwache Aplerbeck,police,51.4913,7.5524,1,227.2274
+Faster: 3-minute response,Azur Drones Skeyetech,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,1,304.9678
+Faster: 3-minute response,Azur Drones Skeyetech,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,1,320.707
+Faster: 3-minute response,Azur Drones Skeyetech,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,1,275.9198
+Faster: 3-minute response,Azur Drones Skeyetech,46,Polizeiwache Lütgendortmund,police,51.4995,7.3375,1,248.6653
+Faster: 3-minute response,Azur Drones Skeyetech,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,90.8367
+Faster: 3-minute response,Azur Drones Skeyetech,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,1,208.1256
+Faster: 3-minute response,Azur Drones Skeyetech,0,Berufsfeuerwehr Dortmund,fire,51.5342,7.4337,1,234.7313
+Faster: 3-minute response,Azur Drones Skeyetech,20,Freiwillige Feuerwehr Asseln,volunteer,51.5318,7.5979,1,159.9995
+Faster: 3-minute response,Azur Drones Skeyetech,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,1,205.5418
+Faster: 3-minute response,Azur Drones Skeyetech,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,1,135.376
+Faster: 3-minute response,Azur Drones Skeyetech,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,145.7823
+Faster: 3-minute response,Azur Drones Skeyetech,4,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.551,7.367,1,138.2313
+Faster: 3-minute response,Azur Drones Skeyetech,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,134.8687
+Faster: 3-minute response,Azur Drones Skeyetech,19,Freiwillige Feuerwehr Sölde,volunteer,51.4993,7.5888,1,114.1741
+Faster: 3-minute response,Azur Drones Skeyetech,41,Polizeiwache Mengede,police,51.5706,7.3789,1,131.5533
+Faster: 3-minute response,Azur Drones Skeyetech,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,92.8188
+Faster: 3-minute response,Azur Drones Skeyetech,30,Bundespolizeirevier Flughafen Dortmund,police,51.515,7.6131,1,124.899
+Faster: 3-minute response,Azur Drones Skeyetech,26,Freiwillige Feuerwehr Nette,volunteer,51.5528,7.3965,1,106.7765
+Faster: 3-minute response,Azur Drones Skeyetech,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,63.24
+Faster: 3-minute response,Azur Drones Skeyetech,5,Freiwillige Feuerwehr Sölderholz,volunteer,51.4717,7.5977,1,65.9772
+Faster: 3-minute response,Azur Drones Skeyetech,27,Freiwillige Feuerwehr Persebeck-Kruckel-Schnee,volunteer,51.4607,7.4101,1,58.2964
+Faster: 3-minute response,Azur Drones Skeyetech,25,Freiwillige Feuerwehr Deusen,volunteer,51.5472,7.427,1,39.5132
+Relaxed: 5-minute response,Nokia Drone Networks,33,Polizeiwache Hörde,police,51.4918,7.5031,2,545.2915
+Relaxed: 5-minute response,Nokia Drone Networks,44,Polizei-Sonder-Dienste,police,51.5086,7.4677,2,1398.5476
+Relaxed: 5-minute response,Nokia Drone Networks,45,Polizeiwache Aplerbeck,police,51.4913,7.5524,1,330.7239
+Relaxed: 5-minute response,Nokia Drone Networks,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,2,452.4727
+Relaxed: 5-minute response,Nokia Drone Networks,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,486.1928
+Relaxed: 5-minute response,Nokia Drone Networks,38,Polizeiwache Eving,police,51.5492,7.4652,2,635.2787
+Relaxed: 5-minute response,Nokia Drone Networks,26,Freiwillige Feuerwehr Nette,volunteer,51.5528,7.3965,1,264.8646
+Relaxed: 5-minute response,Nokia Drone Networks,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,1,342.841
+Relaxed: 5-minute response,Nokia Drone Networks,37,Polizeiwache Asseln,police,51.5291,7.5925,1,310.3479
+Relaxed: 5-minute response,Nokia Drone Networks,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,195.2417
+Relaxed: 5-minute response,Nokia Drone Networks,46,Polizeiwache Lütgendortmund,police,51.4995,7.3375,1,323.7864
+Relaxed: 5-minute response,Nokia Drone Networks,41,Polizeiwache Mengede,police,51.5706,7.3789,1,221.5051
+Relaxed: 5-minute response,Nokia Drone Networks,18,Freiwillige Feuerwehr Hombruch,volunteer,51.4734,7.4398,2,432.5568
+Relaxed: 5-minute response,Nokia Drone Networks,19,Freiwillige Feuerwehr Sölde,volunteer,51.4993,7.5888,1,198.734
+Relaxed: 5-minute response,Nokia Drone Networks,40,Polizeiwache Körne,police,51.5175,7.5113,2,546.2118
+Relaxed: 5-minute response,Nokia Drone Networks,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,121.3712
+Relaxed: 5-minute response,Nokia Drone Networks,0,Berufsfeuerwehr Dortmund,fire,51.5342,7.4337,2,533.3042
+Relaxed: 5-minute response,Nokia Drone Networks,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,98.9305
+Relaxed: 5-minute response,Nokia Drone Networks,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,265.1832
+Relaxed: 5-minute response,Nokia Drone Networks,30,Bundespolizeirevier Flughafen Dortmund,police,51.515,7.6131,1,154.9144
+Relaxed: 5-minute response,Nokia Drone Networks,9,Freiwillige Feuerwehr Syburg,volunteer,51.4276,7.4864,1,31.7498
+Relaxed: 5-minute response,Nokia Drone Networks,11,Freiwillige Feuerwehr Schwieringhausen,volunteer,51.5838,7.3994,1,43.1707
+"Major incident year: 20,000 missions",Nokia Drone Networks,35,Polizeiwache Nord,police,51.5198,7.4651,2,1881.7436
+"Major incident year: 20,000 missions",Nokia Drone Networks,42,Polizeiwache Mitte,police,51.4996,7.4602,3,2142.6675
+"Major incident year: 20,000 missions",Nokia Drone Networks,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,2,615.3215
+"Major incident year: 20,000 missions",Nokia Drone Networks,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,1232.6488
+"Major incident year: 20,000 missions",Nokia Drone Networks,40,Polizeiwache Körne,police,51.5175,7.5113,2,1190.5282
+"Major incident year: 20,000 missions",Nokia Drone Networks,38,Polizeiwache Eving,police,51.5492,7.4652,2,1254.3876
+"Major incident year: 20,000 missions",Nokia Drone Networks,39,Polizeiwache Hombruch,police,51.4803,7.433,2,881.1124
+"Major incident year: 20,000 missions",Nokia Drone Networks,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,1096.4646
+"Major incident year: 20,000 missions",Nokia Drone Networks,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,2,833.5349
+"Major incident year: 20,000 missions",Nokia Drone Networks,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,2,723.2484
+"Major incident year: 20,000 missions",Nokia Drone Networks,12,Freiwillige Feuerwehr Lütgendortmund,volunteer,51.4982,7.333,2,781.415
+"Major incident year: 20,000 missions",Nokia Drone Networks,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,322.7186
+"Major incident year: 20,000 missions",Nokia Drone Networks,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,2,803.5372
+"Major incident year: 20,000 missions",Nokia Drone Networks,37,Polizeiwache Asseln,police,51.5291,7.5925,2,569.7793
+"Major incident year: 20,000 missions",Nokia Drone Networks,8,Freiwillige Feuerwehr Aplerbeck,volunteer,51.4872,7.5556,2,676.2313
+"Major incident year: 20,000 missions",Nokia Drone Networks,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,2,463.7107
+"Major incident year: 20,000 missions",Nokia Drone Networks,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,2,456.6611
+"Major incident year: 20,000 missions",Nokia Drone Networks,41,Polizeiwache Mengede,police,51.5706,7.3789,2,377.2572
+"Major incident year: 20,000 missions",Nokia Drone Networks,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,267.7376
+"Major incident year: 20,000 missions",Nokia Drone Networks,25,Freiwillige Feuerwehr Deusen,volunteer,51.5472,7.427,1,283.6361
+"Major incident year: 20,000 missions",Nokia Drone Networks,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,247.3262
+"Major incident year: 20,000 missions",Nokia Drone Networks,30,Bundespolizeirevier Flughafen Dortmund,police,51.515,7.6131,2,446.072
+"Major incident year: 20,000 missions",Nokia Drone Networks,5,Freiwillige Feuerwehr Sölderholz,volunteer,51.4717,7.5977,1,178.6589
+"Major incident year: 20,000 missions",Nokia Drone Networks,33,Polizeiwache Hörde,police,51.4918,7.5031,2,954.3811
+"Major incident year: 20,000 missions",Nokia Drone Networks,4,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.551,7.367,2,418.611
+"Major incident year: 20,000 missions",Nokia Drone Networks,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,337.1718
+"Major incident year: 20,000 missions",Nokia Drone Networks,9,Freiwillige Feuerwehr Syburg,volunteer,51.4276,7.4864,1,79.3744
+No sites near the airport,Nokia Drone Networks,35,Polizeiwache Nord,police,51.5198,7.4651,2,752.6974
+No sites near the airport,Nokia Drone Networks,42,Polizeiwache Mitte,police,51.4996,7.4602,2,857.067
+No sites near the airport,Nokia Drone Networks,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,1,246.1286
+No sites near the airport,Nokia Drone Networks,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,493.0595
+No sites near the airport,Nokia Drone Networks,40,Polizeiwache Körne,police,51.5175,7.5113,2,476.2113
+No sites near the airport,Nokia Drone Networks,38,Polizeiwache Eving,police,51.5492,7.4652,2,501.755
+No sites near the airport,Nokia Drone Networks,39,Polizeiwache Hombruch,police,51.4803,7.433,1,352.4449
+No sites near the airport,Nokia Drone Networks,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,471.7396
+No sites near the airport,Nokia Drone Networks,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,1,333.414
+No sites near the airport,Nokia Drone Networks,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,1,293.9952
+No sites near the airport,Nokia Drone Networks,12,Freiwillige Feuerwehr Lütgendortmund,volunteer,51.4982,7.333,1,312.566
+No sites near the airport,Nokia Drone Networks,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,129.0874
+No sites near the airport,Nokia Drone Networks,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,1,321.4149
+No sites near the airport,Nokia Drone Networks,8,Freiwillige Feuerwehr Aplerbeck,volunteer,51.4872,7.5556,1,218.3195
+No sites near the airport,Nokia Drone Networks,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,185.4843
+No sites near the airport,Nokia Drone Networks,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,1,182.6645
+No sites near the airport,Nokia Drone Networks,41,Polizeiwache Mengede,police,51.5706,7.3789,1,150.9029
+No sites near the airport,Nokia Drone Networks,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,107.095
+No sites near the airport,Nokia Drone Networks,25,Freiwillige Feuerwehr Deusen,volunteer,51.5472,7.427,1,113.4544
+No sites near the airport,Nokia Drone Networks,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,98.9305
+No sites near the airport,Nokia Drone Networks,19,Freiwillige Feuerwehr Sölde,volunteer,51.4993,7.5888,1,142.8091
+No sites near the airport,Nokia Drone Networks,33,Polizeiwache Hörde,police,51.4918,7.5031,2,381.7524
+No sites near the airport,Nokia Drone Networks,4,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.551,7.367,1,167.4444
+No sites near the airport,Nokia Drone Networks,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,134.8687
+No sites near the airport,Nokia Drone Networks,9,Freiwillige Feuerwehr Syburg,volunteer,51.4276,7.4864,1,31.7498
+No sites near the airport,Nokia Drone Networks,5,Freiwillige Feuerwehr Sölderholz,volunteer,51.4717,7.5977,1,65.9772
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,35,Polizeiwache Nord,police,51.5198,7.4651,2,752.6974
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,42,Polizeiwache Mitte,police,51.4996,7.4602,2,857.067
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,10,Freiwillige Feuerwehr Hörde,volunteer,51.4825,7.522,1,246.1286
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,15,Feuer- und Rettungswache 5 - Marten/Westwache,fire,51.5128,7.3774,1,322.1936
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,38,Polizeiwache Eving,police,51.5492,7.4652,2,501.755
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,16,Feuer- und Rettungswache 6 - Scharnhorst,fire,51.5523,7.539,2,453.4519
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,40,Polizeiwache Körne,police,51.5175,7.5113,2,476.2113
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,39,Polizeiwache Hombruch,police,51.4803,7.433,1,352.4449
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,7,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.5611,7.3785,1,129.0874
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,21,Feuer- und Rettungswache 3 - Neuasseln/Ostwache,fire,51.5113,7.5636,1,289.2993
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,34,Polizeiwache Huckarde,police,51.5286,7.4136,2,493.0595
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,46,Polizeiwache Lütgendortmund,police,51.4995,7.3375,1,323.7864
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,2,Feuer- und Rettungswache 4 - Hörde/Südwache,fire,51.4756,7.4909,1,321.4149
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,8,Freiwillige Feuerwehr Aplerbeck,volunteer,51.4872,7.5556,1,270.4925
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,6,Freiwillige Feuerwehr Kirchhörde-Löttringhausen,volunteer,51.4549,7.4442,1,185.4843
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,37,Polizeiwache Asseln,police,51.5291,7.5925,1,227.9117
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,23,Feuer- und Umweltwache 8 - Eichlinghofen,fire,51.4816,7.3962,1,182.6645
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,4,Freiwillige Feuerwehr Bodelschwingh,volunteer,51.551,7.367,1,167.4444
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,17,Freiwillige Feuerwehr Lanstrop,volunteer,51.5755,7.5697,1,98.9305
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,28,Freiwillige Feuerwehr Holzen,volunteer,51.4447,7.5226,1,107.095
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,25,Freiwillige Feuerwehr Deusen,volunteer,51.5472,7.427,1,113.4544
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,5,Freiwillige Feuerwehr Sölderholz,volunteer,51.4717,7.5977,1,71.4635
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,30,Bundespolizeirevier Flughafen Dortmund,police,51.515,7.6131,1,178.4288
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,33,Polizeiwache Hörde,police,51.4918,7.5031,1,381.7524
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,41,Polizeiwache Mengede,police,51.5706,7.3789,1,150.9029
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,9,Freiwillige Feuerwehr Syburg,volunteer,51.4276,7.4864,1,31.7498
+Benchmark: mixed suppliers,DJI Dock 3 + Matrice 4TD,24,Freiwillige Feuerwehr Oespel,volunteer,51.4878,7.3742,1,134.8687

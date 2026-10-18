@@ -1,0 +1,16 @@
+﻿type,item,quantity,unit_cost_eur,total_eur
+investment,Docks incl. drone (Nokia Drone Networks),34,150000,5100000
+investment,Site preparation,27,30000,810000
+investment,Airport coordination,2,40000,80000
+investment,Special drones,,,612000
+investment,Control-centre integration,1,450000,450000
+investment,TOTAL investment,,,7052000
+operations_per_year,"Dock maintenance, licences, spares",34,26000,884000
+operations_per_year,Insurance,34,4500,153000
+operations_per_year,Remote pilots (2 seats x 5.5 FTE),11,82000,902000
+operations_per_year,Software / UTM / data,1,220000,220000
+operations_per_year,Special drones upkeep (12%),,,73440
+operations_per_year,TOTAL operations per year,,,2232440
+summary,5-year TCO,,,18214200
+summary,Annual cost (investment/5 + operations),,,3642840
+summary,Cost per mission,8000,,455.355

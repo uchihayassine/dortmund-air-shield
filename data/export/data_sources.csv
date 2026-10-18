@@ -1,0 +1,10 @@
+﻿item,source,dataset_or_url,status
+District boundaries (62),Stadt Dortmund open data,fb62-statistischebezirke,sourced
+Population 2023 per district,Stadt Dortmund open data,ds-bevolkerung-nach-geschlecht-und-migrationshintergrund-2023,sourced
+Fire brigade sites,Stadt Dortmund open data,feuerwehr,sourced
+Police sites,Stadt Dortmund open data,polizei,sourced
+Hospitals,Stadt Dortmund open data,krankenhaus,sourced
+Street map,OpenStreetMap contributors,tile.openstreetmap.org zoom 13,sourced
+Geozones,dipul.de,"not imported; airport zone schematic",to verify
+Drone specs and prices,team estimate,,estimate
+"Mission volume, cost rates, cost split",team estimate,,estimate

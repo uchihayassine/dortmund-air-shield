@@ -1,0 +1,20 @@
+﻿changed_parameter,value,system,sites,docks,coverage_pct,redundant_pct,investment_eur,tco_5y_eur,cost_per_mission_eur
+target_response_time,3,Azur Drones Skeyetech,31,34,84.8753,42.3841,7512000,19014200,475.355
+target_response_time,5,Nokia Drone Networks,22,30,99.0752,92.0825,6302000,16854200,421.355
+target_response_time,6,Nokia Drone Networks,18,27,99.7535,97.7298,5732000,15826700,395.6675
+capital_budget_MEUR,4,Azur Drones Skeyetech,6,12,57.5464,21.8485,3162000,11089200,277.23
+capital_budget_MEUR,6,Azur Drones Skeyetech,19,26,95.1427,64.9162,5832000,16034200,400.855
+capital_budget_MEUR,12,Nokia Drone Networks,27,34,97.3187,74.7301,7052000,18214200,455.355
+missions_per_year,4000,Nokia Drone Networks,27,29,97.3187,74.7301,6302000,16701700,835.085
+missions_per_year,20000,Nokia Drone Networks,26,47,97.0847,74.0203,8972000,22116700,221.167
+backup_weight_beta,0,Azur Drones Skeyetech,18,27,96.7767,45.0759,5962000,16326700,408.1675
+backup_weight_beta,1,Nokia Drone Networks,29,36,97.1293,76.193,7412000,18879200,471.98
+minimum_gain_pct,0.1,Nokia Drone Networks,31,37,97.5839,76.3108,7622000,19241700,481.0425
+minimum_gain_pct,1,Azur Drones Skeyetech,22,29,96.3351,70.7528,6442000,17131700,428.2925
+peak_factor,1.5,Nokia Drone Networks,27,29,97.3187,74.7301,6302000,16701700,417.5425
+peak_factor,5,Nokia Drone Networks,27,42,97.3187,74.7301,8252000,20634200,515.855
+max_overflow,0.05,Azur Drones Skeyetech,27,42,97.3187,76.2695,8672000,21474200,536.855
+max_overflow,0.2,Nokia Drone Networks,27,28,97.3187,74.7301,6152000,16399200,409.98
+minimum_spacing_km,0,Azur Drones Skeyetech,30,33,97.579,88.7737,7322000,18661700,466.5425
+minimum_spacing_km,2,Azur Drones Skeyetech,23,30,96.0959,56.8612,6632000,17484200,437.105
+airport_sites,false,Nokia Drone Networks,26,33,94.3753,72.1107,6792000,17801700,445.0425

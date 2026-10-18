@@ -1,0 +1,10 @@
+﻿mission,users,sensors,priority,platform,share_of_missions,status
+Fire / smoke,Fire brigade,"Thermal, zoom",P1,Dock network,0.24,assumption
+Missing-person search,"Police, fire brigade","Thermal, loudspeaker",P1,Dock network + VTOL,0.16,assumption
+Traffic accident / overview,Police,"Zoom, live video",P2,Dock network,0.2,assumption
+"Major event (stadium, halls)",Police,"Live video, long flight",P2,"Planned, dock network",0.1,assumption
+Hazmat / CBRN,"Fire brigade, THW",Gas sensors,P1,Special drone,0.04,assumption
+Flood / heavy rain,"THW, civil protection","Mapping, orthophoto",P2,VTOL,0.06,assumption
+Damage & infrastructure mapping,"THW, city",Photogrammetry,P3,VTOL,0.06,assumption
+Building collapse / indoor,"Fire brigade, THW",Collision-tolerant,P1,Special drone,0.02,assumption
+Municipal crisis management,City of Dortmund,Situation overview,P3,Dock network,0.12,assumption
